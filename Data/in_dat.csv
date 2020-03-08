@@ -1,0 +1,8772 @@
+Country,Age,Users
+Tanzania,18,44000
+Tanzania,19,72000
+Tanzania,20,87000
+Tanzania,21,97000
+Tanzania,22,110000
+Tanzania,23,120000
+Tanzania,24,120000
+Tanzania,25,140000
+Tanzania,26,120000
+Tanzania,27,86000
+Tanzania,28,94000
+Tanzania,29,94000
+Tanzania,30,74000
+Tanzania,31,68000
+Tanzania,32,87000
+Tanzania,33,52000
+Tanzania,34,47000
+Tanzania,35,37000
+Tanzania,36,34000
+Tanzania,37,28000
+Tanzania,38,34000
+Tanzania,39,33000
+Tanzania,40,23000
+Tanzania,41,20000
+Tanzania,42,18000
+Tanzania,43,17000
+Tanzania,44,15000
+Tanzania,45,12000
+Tanzania,46,11000
+Tanzania,47,8900
+Tanzania,48,11000
+Tanzania,49,10000
+Tanzania,50,7000
+Tanzania,51,6100
+Tanzania,52,5200
+Tanzania,53,4700
+Tanzania,54,4900
+Tanzania,55,4000
+Tanzania,56,3500
+Tanzania,57,4700
+Tanzania,58,5700
+Tanzania,59,4000
+Tanzania,60,2500
+Tanzania,61,2100
+Tanzania,62,1700
+Tanzania,63,1600
+Tanzania,64,1700
+Tanzania,65,83000
+Sierra Leone,18,1300
+Sierra Leone,19,1900
+Sierra Leone,20,1900
+Sierra Leone,21,2100
+Sierra Leone,22,2100
+Sierra Leone,23,2200
+Sierra Leone,24,2100
+Sierra Leone,25,2100
+Sierra Leone,26,2000
+Sierra Leone,27,1500
+Sierra Leone,28,1400
+Sierra Leone,29,1400
+Sierra Leone,30,1200
+Sierra Leone,31,1100
+Sierra Leone,32,1200
+Sierra Leone,33,1000
+Sierra Leone,34,1000
+Sierra Leone,35,1000
+Sierra Leone,36,1000
+Sierra Leone,37,1000
+Sierra Leone,38,1000
+Sierra Leone,39,1000
+Sierra Leone,40,1000
+Sierra Leone,41,1000
+Sierra Leone,42,1000
+Sierra Leone,43,1000
+Sierra Leone,44,1000
+Sierra Leone,45,1000
+Sierra Leone,46,1000
+Sierra Leone,47,1000
+Sierra Leone,48,1000
+Sierra Leone,49,1000
+Sierra Leone,50,1000
+Sierra Leone,51,1000
+Sierra Leone,52,1000
+Sierra Leone,53,1000
+Sierra Leone,54,1000
+Sierra Leone,55,1000
+Sierra Leone,56,1000
+Sierra Leone,57,1000
+Sierra Leone,58,1000
+Sierra Leone,59,1000
+Sierra Leone,60,1000
+Sierra Leone,61,1000
+Sierra Leone,62,1000
+Sierra Leone,63,1000
+Sierra Leone,64,1000
+Sierra Leone,65,3100
+Republic of the Congo,18,2500
+Republic of the Congo,19,3200
+Republic of the Congo,20,2900
+Republic of the Congo,21,2700
+Republic of the Congo,22,2800
+Republic of the Congo,23,2700
+Republic of the Congo,24,2600
+Republic of the Congo,25,2500
+Republic of the Congo,26,2300
+Republic of the Congo,27,1700
+Republic of the Congo,28,1900
+Republic of the Congo,29,1800
+Republic of the Congo,30,1400
+Republic of the Congo,31,1300
+Republic of the Congo,32,1400
+Republic of the Congo,33,1000
+Republic of the Congo,34,1000
+Republic of the Congo,35,1000
+Republic of the Congo,36,1000
+Republic of the Congo,37,1000
+Republic of the Congo,38,1000
+Republic of the Congo,39,1000
+Republic of the Congo,40,1000
+Republic of the Congo,41,1000
+Republic of the Congo,42,1000
+Republic of the Congo,43,1000
+Republic of the Congo,44,1000
+Republic of the Congo,45,1000
+Republic of the Congo,46,1000
+Republic of the Congo,47,1000
+Republic of the Congo,48,1000
+Republic of the Congo,49,1000
+Republic of the Congo,50,1000
+Republic of the Congo,51,1000
+Republic of the Congo,52,1000
+Republic of the Congo,53,1000
+Republic of the Congo,54,1000
+Republic of the Congo,55,1000
+Republic of the Congo,56,1000
+Republic of the Congo,57,1000
+Republic of the Congo,58,1000
+Republic of the Congo,59,1000
+Republic of the Congo,60,1000
+Republic of the Congo,61,1000
+Republic of the Congo,62,1000
+Republic of the Congo,63,1000
+Republic of the Congo,64,1000
+Republic of the Congo,65,4400
+Angola,18,11000
+Angola,19,17000
+Angola,20,18000
+Angola,21,20000
+Angola,22,20000
+Angola,23,18000
+Angola,24,16000
+Angola,25,14000
+Angola,26,14000
+Angola,27,12000
+Angola,28,13000
+Angola,29,13000
+Angola,30,11000
+Angola,31,11000
+Angola,32,10000
+Angola,33,8900
+Angola,34,7600
+Angola,35,6800
+Angola,36,6200
+Angola,37,5100
+Angola,38,5200
+Angola,39,4600
+Angola,40,3600
+Angola,41,3300
+Angola,42,2800
+Angola,43,2900
+Angola,44,2200
+Angola,45,1600
+Angola,46,1500
+Angola,47,1200
+Angola,48,1400
+Angola,49,1200
+Angola,50,1000
+Angola,51,1000
+Angola,52,1000
+Angola,53,1000
+Angola,54,1000
+Angola,55,1000
+Angola,56,1000
+Angola,57,1000
+Angola,58,1000
+Angola,59,1000
+Angola,60,1000
+Angola,61,1000
+Angola,62,1000
+Angola,63,1000
+Angola,64,1000
+Angola,65,17000
+Malawi,18,1200
+Malawi,19,1700
+Malawi,20,2000
+Malawi,21,2200
+Malawi,22,2300
+Malawi,23,2500
+Malawi,24,2600
+Malawi,25,2500
+Malawi,26,2100
+Malawi,27,1700
+Malawi,28,1700
+Malawi,29,1500
+Malawi,30,1300
+Malawi,31,1200
+Malawi,32,1100
+Malawi,33,1000
+Malawi,34,1000
+Malawi,35,1000
+Malawi,36,1000
+Malawi,37,1000
+Malawi,38,1000
+Malawi,39,1000
+Malawi,40,1000
+Malawi,41,1000
+Malawi,42,1000
+Malawi,43,1000
+Malawi,44,1000
+Malawi,45,1000
+Malawi,46,1000
+Malawi,47,1000
+Malawi,48,1000
+Malawi,49,1000
+Malawi,50,1000
+Malawi,51,1000
+Malawi,52,1000
+Malawi,53,1000
+Malawi,54,1000
+Malawi,55,1000
+Malawi,56,1000
+Malawi,57,1000
+Malawi,58,1000
+Malawi,59,1000
+Malawi,60,1000
+Malawi,61,1000
+Malawi,62,1000
+Malawi,63,1000
+Malawi,64,1000
+Malawi,65,5600
+Ethiopia,18,5400
+Ethiopia,19,8600
+Ethiopia,20,11000
+Ethiopia,21,12000
+Ethiopia,22,13000
+Ethiopia,23,15000
+Ethiopia,24,16000
+Ethiopia,25,18000
+Ethiopia,26,17000
+Ethiopia,27,15000
+Ethiopia,28,16000
+Ethiopia,29,15000
+Ethiopia,30,11000
+Ethiopia,31,11000
+Ethiopia,32,15000
+Ethiopia,33,7200
+Ethiopia,34,5900
+Ethiopia,35,4500
+Ethiopia,36,4000
+Ethiopia,37,3000
+Ethiopia,38,3200
+Ethiopia,39,2800
+Ethiopia,40,1700
+Ethiopia,41,1500
+Ethiopia,42,1100
+Ethiopia,43,1100
+Ethiopia,44,1000
+Ethiopia,45,1000
+Ethiopia,46,1000
+Ethiopia,47,1000
+Ethiopia,48,1000
+Ethiopia,49,1000
+Ethiopia,50,1000
+Ethiopia,51,1000
+Ethiopia,52,1000
+Ethiopia,53,1000
+Ethiopia,54,1000
+Ethiopia,55,1000
+Ethiopia,56,1000
+Ethiopia,57,1000
+Ethiopia,58,1000
+Ethiopia,59,1000
+Ethiopia,60,1000
+Ethiopia,61,1000
+Ethiopia,62,1000
+Ethiopia,63,1000
+Ethiopia,64,1000
+Ethiopia,65,3600
+Equatorial Guinea,18,1000
+Equatorial Guinea,19,1000
+Equatorial Guinea,20,1000
+Equatorial Guinea,21,1000
+Equatorial Guinea,22,1000
+Equatorial Guinea,23,1000
+Equatorial Guinea,24,1100
+Equatorial Guinea,25,1200
+Equatorial Guinea,26,1100
+Equatorial Guinea,27,1000
+Equatorial Guinea,28,1000
+Equatorial Guinea,29,1000
+Equatorial Guinea,30,1000
+Equatorial Guinea,31,1000
+Equatorial Guinea,32,1000
+Equatorial Guinea,33,1000
+Equatorial Guinea,34,1000
+Equatorial Guinea,35,1000
+Equatorial Guinea,36,1000
+Equatorial Guinea,37,1000
+Equatorial Guinea,38,1000
+Equatorial Guinea,39,1000
+Equatorial Guinea,40,1000
+Equatorial Guinea,41,1000
+Equatorial Guinea,42,1000
+Equatorial Guinea,43,1000
+Equatorial Guinea,44,1000
+Equatorial Guinea,45,1000
+Equatorial Guinea,46,1000
+Equatorial Guinea,47,1000
+Equatorial Guinea,48,1000
+Equatorial Guinea,49,1000
+Equatorial Guinea,50,1000
+Equatorial Guinea,51,1000
+Equatorial Guinea,52,1000
+Equatorial Guinea,53,1000
+Equatorial Guinea,54,1000
+Equatorial Guinea,55,1000
+Equatorial Guinea,56,1000
+Equatorial Guinea,57,1000
+Equatorial Guinea,58,1000
+Equatorial Guinea,59,1000
+Equatorial Guinea,60,1000
+Equatorial Guinea,61,1000
+Equatorial Guinea,62,1000
+Equatorial Guinea,63,1000
+Equatorial Guinea,64,1000
+Equatorial Guinea,65,1000
+Togo,18,2400
+Togo,19,3200
+Togo,20,3400
+Togo,21,3700
+Togo,22,3500
+Togo,23,3600
+Togo,24,3400
+Togo,25,3200
+Togo,26,2800
+Togo,27,2200
+Togo,28,2300
+Togo,29,2200
+Togo,30,1600
+Togo,31,1400
+Togo,32,1600
+Togo,33,1100
+Togo,34,1000
+Togo,35,1000
+Togo,36,1000
+Togo,37,1000
+Togo,38,1000
+Togo,39,1000
+Togo,40,1000
+Togo,41,1000
+Togo,42,1000
+Togo,43,1000
+Togo,44,1000
+Togo,45,1000
+Togo,46,1000
+Togo,47,1000
+Togo,48,1000
+Togo,49,1000
+Togo,50,1000
+Togo,51,1000
+Togo,52,1000
+Togo,53,1000
+Togo,54,1000
+Togo,55,1000
+Togo,56,1000
+Togo,57,1000
+Togo,58,1000
+Togo,59,1000
+Togo,60,1000
+Togo,61,1000
+Togo,62,1000
+Togo,63,1000
+Togo,64,1000
+Togo,65,1900
+Zambia,18,10000
+Zambia,19,14000
+Zambia,20,15000
+Zambia,21,16000
+Zambia,22,16000
+Zambia,23,15000
+Zambia,24,14000
+Zambia,25,12000
+Zambia,26,11000
+Zambia,27,8100
+Zambia,28,7700
+Zambia,29,6900
+Zambia,30,5600
+Zambia,31,5300
+Zambia,32,5300
+Zambia,33,3700
+Zambia,34,3400
+Zambia,35,2900
+Zambia,36,2600
+Zambia,37,2200
+Zambia,38,2600
+Zambia,39,2300
+Zambia,40,1700
+Zambia,41,1600
+Zambia,42,1400
+Zambia,43,1300
+Zambia,44,1100
+Zambia,45,1000
+Zambia,46,1000
+Zambia,47,1000
+Zambia,48,1000
+Zambia,49,1000
+Zambia,50,1000
+Zambia,51,1000
+Zambia,52,1000
+Zambia,53,1000
+Zambia,54,1300
+Zambia,55,1000
+Zambia,56,1000
+Zambia,57,1000
+Zambia,58,1000
+Zambia,59,1000
+Zambia,60,1000
+Zambia,61,1000
+Zambia,62,1000
+Zambia,63,1000
+Zambia,64,1000
+Zambia,65,29000
+Guinea,18,7000
+Guinea,19,11000
+Guinea,20,10000
+Guinea,21,10000
+Guinea,22,10000
+Guinea,23,10000
+Guinea,24,9700
+Guinea,25,8400
+Guinea,26,7800
+Guinea,27,5600
+Guinea,28,5800
+Guinea,29,6000
+Guinea,30,3900
+Guinea,31,3600
+Guinea,32,3600
+Guinea,33,2500
+Guinea,34,2100
+Guinea,35,1600
+Guinea,36,1200
+Guinea,37,1000
+Guinea,38,1100
+Guinea,39,1100
+Guinea,40,1000
+Guinea,41,1000
+Guinea,42,1000
+Guinea,43,1000
+Guinea,44,1000
+Guinea,45,1000
+Guinea,46,1000
+Guinea,47,1000
+Guinea,48,1000
+Guinea,49,1000
+Guinea,50,1000
+Guinea,51,1000
+Guinea,52,1000
+Guinea,53,1000
+Guinea,54,1000
+Guinea,55,1000
+Guinea,56,1000
+Guinea,57,1000
+Guinea,58,1000
+Guinea,59,1000
+Guinea,60,1000
+Guinea,61,1000
+Guinea,62,1000
+Guinea,63,1000
+Guinea,64,1000
+Guinea,65,2000
+Burkina Faso,18,3800
+Burkina Faso,19,4800
+Burkina Faso,20,4800
+Burkina Faso,21,5000
+Burkina Faso,22,4700
+Burkina Faso,23,4700
+Burkina Faso,24,4200
+Burkina Faso,25,4000
+Burkina Faso,26,3700
+Burkina Faso,27,2800
+Burkina Faso,28,3000
+Burkina Faso,29,2700
+Burkina Faso,30,2100
+Burkina Faso,31,1900
+Burkina Faso,32,2200
+Burkina Faso,33,1500
+Burkina Faso,34,1200
+Burkina Faso,35,1100
+Burkina Faso,36,1000
+Burkina Faso,37,1000
+Burkina Faso,38,1000
+Burkina Faso,39,1000
+Burkina Faso,40,1000
+Burkina Faso,41,1000
+Burkina Faso,42,1000
+Burkina Faso,43,1000
+Burkina Faso,44,1000
+Burkina Faso,45,1000
+Burkina Faso,46,1000
+Burkina Faso,47,1000
+Burkina Faso,48,1000
+Burkina Faso,49,1000
+Burkina Faso,50,1000
+Burkina Faso,51,1000
+Burkina Faso,52,1000
+Burkina Faso,53,1000
+Burkina Faso,54,1000
+Burkina Faso,55,1000
+Burkina Faso,56,1000
+Burkina Faso,57,1000
+Burkina Faso,58,1000
+Burkina Faso,59,1000
+Burkina Faso,60,1000
+Burkina Faso,61,1000
+Burkina Faso,62,1000
+Burkina Faso,63,1000
+Burkina Faso,64,1000
+Burkina Faso,65,2600
+Botswana,18,2900
+Botswana,19,4100
+Botswana,20,4800
+Botswana,21,5400
+Botswana,22,5700
+Botswana,23,6100
+Botswana,24,5600
+Botswana,25,5100
+Botswana,26,4300
+Botswana,27,3800
+Botswana,28,3700
+Botswana,29,3400
+Botswana,30,3000
+Botswana,31,2800
+Botswana,32,2600
+Botswana,33,2300
+Botswana,34,2000
+Botswana,35,1800
+Botswana,36,1700
+Botswana,37,1500
+Botswana,38,1500
+Botswana,39,1300
+Botswana,40,1100
+Botswana,41,1000
+Botswana,42,1000
+Botswana,43,1000
+Botswana,44,1000
+Botswana,45,1000
+Botswana,46,1000
+Botswana,47,1000
+Botswana,48,1000
+Botswana,49,1000
+Botswana,50,1000
+Botswana,51,1000
+Botswana,52,1000
+Botswana,53,1000
+Botswana,54,1000
+Botswana,55,1000
+Botswana,56,1000
+Botswana,57,1000
+Botswana,58,1000
+Botswana,59,1000
+Botswana,60,1000
+Botswana,61,1000
+Botswana,62,1000
+Botswana,63,1000
+Botswana,64,1000
+Botswana,65,6800
+Seychelles,18,1000
+Seychelles,19,1000
+Seychelles,20,1000
+Seychelles,21,1000
+Seychelles,22,1000
+Seychelles,23,1000
+Seychelles,24,1000
+Seychelles,25,1000
+Seychelles,26,1000
+Seychelles,27,1000
+Seychelles,28,1000
+Seychelles,29,1000
+Seychelles,30,1000
+Seychelles,31,1000
+Seychelles,32,1000
+Seychelles,33,1000
+Seychelles,34,1000
+Seychelles,35,1000
+Seychelles,36,1000
+Seychelles,37,1000
+Seychelles,38,1000
+Seychelles,39,1000
+Seychelles,40,1000
+Seychelles,41,1000
+Seychelles,42,1000
+Seychelles,43,1000
+Seychelles,44,1000
+Seychelles,45,1000
+Seychelles,46,1000
+Seychelles,47,1000
+Seychelles,48,1000
+Seychelles,49,1000
+Seychelles,50,1000
+Seychelles,51,1000
+Seychelles,52,1000
+Seychelles,53,1000
+Seychelles,54,1000
+Seychelles,55,1000
+Seychelles,56,1000
+Seychelles,57,1000
+Seychelles,58,1000
+Seychelles,59,1000
+Seychelles,60,1000
+Seychelles,61,1000
+Seychelles,62,1000
+Seychelles,63,1000
+Seychelles,64,1000
+Seychelles,65,1000
+Mali,18,5800
+Mali,19,8300
+Mali,20,8700
+Mali,21,8700
+Mali,22,8400
+Mali,23,8100
+Mali,24,7400
+Mali,25,7200
+Mali,26,6000
+Mali,27,4500
+Mali,28,4700
+Mali,29,4300
+Mali,30,3100
+Mali,31,2900
+Mali,32,4400
+Mali,33,2000
+Mali,34,1700
+Mali,35,1300
+Mali,36,1100
+Mali,37,1000
+Mali,38,1000
+Mali,39,1000
+Mali,40,1000
+Mali,41,1000
+Mali,42,1000
+Mali,43,1000
+Mali,44,1000
+Mali,45,1000
+Mali,46,1000
+Mali,47,1000
+Mali,48,1000
+Mali,49,1000
+Mali,50,1000
+Mali,51,1000
+Mali,52,1000
+Mali,53,1000
+Mali,54,1000
+Mali,55,1000
+Mali,56,1000
+Mali,57,1000
+Mali,58,1000
+Mali,59,1000
+Mali,60,1000
+Mali,61,1000
+Mali,62,1000
+Mali,63,1000
+Mali,64,1000
+Mali,65,2300
+Burundi,18,1300
+Burundi,19,1900
+Burundi,20,1900
+Burundi,21,2000
+Burundi,22,2000
+Burundi,23,1900
+Burundi,24,1700
+Burundi,25,1600
+Burundi,26,1500
+Burundi,27,1200
+Burundi,28,1400
+Burundi,29,1300
+Burundi,30,1000
+Burundi,31,1000
+Burundi,32,1100
+Burundi,33,1000
+Burundi,34,1000
+Burundi,35,1000
+Burundi,36,1000
+Burundi,37,1000
+Burundi,38,1000
+Burundi,39,1000
+Burundi,40,1000
+Burundi,41,1000
+Burundi,42,1000
+Burundi,43,1000
+Burundi,44,1000
+Burundi,45,1000
+Burundi,46,1000
+Burundi,47,1000
+Burundi,48,1000
+Burundi,49,1000
+Burundi,50,1000
+Burundi,51,1000
+Burundi,52,1000
+Burundi,53,1000
+Burundi,54,1000
+Burundi,55,1000
+Burundi,56,1000
+Burundi,57,1000
+Burundi,58,1000
+Burundi,59,1000
+Burundi,60,1000
+Burundi,61,1000
+Burundi,62,1000
+Burundi,63,1000
+Burundi,64,1000
+Burundi,65,3200
+Swaziland,18,1000
+Swaziland,19,1300
+Swaziland,20,1300
+Swaziland,21,1400
+Swaziland,22,1500
+Swaziland,23,1700
+Swaziland,24,1700
+Swaziland,25,1700
+Swaziland,26,1500
+Swaziland,27,1300
+Swaziland,28,1200
+Swaziland,29,1100
+Swaziland,30,1000
+Swaziland,31,1000
+Swaziland,32,1000
+Swaziland,33,1000
+Swaziland,34,1000
+Swaziland,35,1000
+Swaziland,36,1000
+Swaziland,37,1000
+Swaziland,38,1000
+Swaziland,39,1000
+Swaziland,40,1000
+Swaziland,41,1000
+Swaziland,42,1000
+Swaziland,43,1000
+Swaziland,44,1000
+Swaziland,45,1000
+Swaziland,46,1000
+Swaziland,47,1000
+Swaziland,48,1000
+Swaziland,49,1000
+Swaziland,50,1000
+Swaziland,51,1000
+Swaziland,52,1000
+Swaziland,53,1000
+Swaziland,54,1000
+Swaziland,55,1000
+Swaziland,56,1000
+Swaziland,57,1000
+Swaziland,58,1000
+Swaziland,59,1000
+Swaziland,60,1000
+Swaziland,61,1000
+Swaziland,62,1000
+Swaziland,63,1000
+Swaziland,64,1000
+Swaziland,65,3200
+Tunisia,18,75000
+Tunisia,19,92000
+Tunisia,20,92000
+Tunisia,21,92000
+Tunisia,22,95000
+Tunisia,23,97000
+Tunisia,24,91000
+Tunisia,25,88000
+Tunisia,26,78000
+Tunisia,27,64000
+Tunisia,28,65000
+Tunisia,29,59000
+Tunisia,30,46000
+Tunisia,31,44000
+Tunisia,32,49000
+Tunisia,33,34000
+Tunisia,34,31000
+Tunisia,35,27000
+Tunisia,36,23000
+Tunisia,37,21000
+Tunisia,38,23000
+Tunisia,39,20000
+Tunisia,40,15000
+Tunisia,41,14000
+Tunisia,42,13000
+Tunisia,43,12000
+Tunisia,44,11000
+Tunisia,45,9700
+Tunisia,46,8800
+Tunisia,47,7900
+Tunisia,48,8700
+Tunisia,49,8100
+Tunisia,50,6700
+Tunisia,51,6300
+Tunisia,52,5900
+Tunisia,53,5700
+Tunisia,54,5400
+Tunisia,55,4700
+Tunisia,56,4200
+Tunisia,57,3500
+Tunisia,58,3600
+Tunisia,59,3100
+Tunisia,60,2400
+Tunisia,61,2200
+Tunisia,62,2100
+Tunisia,63,2000
+Tunisia,64,1500
+Tunisia,65,34000
+Uganda,18,10000
+Uganda,19,17000
+Uganda,20,20000
+Uganda,21,22000
+Uganda,22,24000
+Uganda,23,22000
+Uganda,24,21000
+Uganda,25,21000
+Uganda,26,17000
+Uganda,27,13000
+Uganda,28,13000
+Uganda,29,12000
+Uganda,30,8900
+Uganda,31,7500
+Uganda,32,8800
+Uganda,33,5300
+Uganda,34,4400
+Uganda,35,3500
+Uganda,36,3100
+Uganda,37,2300
+Uganda,38,2700
+Uganda,39,2500
+Uganda,40,1700
+Uganda,41,1400
+Uganda,42,1200
+Uganda,43,1100
+Uganda,44,1000
+Uganda,45,1000
+Uganda,46,1000
+Uganda,47,1000
+Uganda,48,1000
+Uganda,49,1000
+Uganda,50,1000
+Uganda,51,1000
+Uganda,52,1000
+Uganda,53,1000
+Uganda,54,1000
+Uganda,55,1000
+Uganda,56,1000
+Uganda,57,1000
+Uganda,58,1000
+Uganda,59,1000
+Uganda,60,1000
+Uganda,61,1000
+Uganda,62,1000
+Uganda,63,1000
+Uganda,64,1000
+Uganda,65,15000
+Lesotho,18,1000
+Lesotho,19,1200
+Lesotho,20,1400
+Lesotho,21,1500
+Lesotho,22,1700
+Lesotho,23,1700
+Lesotho,24,1600
+Lesotho,25,1400
+Lesotho,26,1200
+Lesotho,27,1000
+Lesotho,28,1000
+Lesotho,29,1000
+Lesotho,30,1000
+Lesotho,31,1000
+Lesotho,32,1000
+Lesotho,33,1000
+Lesotho,34,1000
+Lesotho,35,1000
+Lesotho,36,1000
+Lesotho,37,1000
+Lesotho,38,1000
+Lesotho,39,1000
+Lesotho,40,1000
+Lesotho,41,1000
+Lesotho,42,1000
+Lesotho,43,1000
+Lesotho,44,1000
+Lesotho,45,1000
+Lesotho,46,1000
+Lesotho,47,1000
+Lesotho,48,1000
+Lesotho,49,1000
+Lesotho,50,1000
+Lesotho,51,1000
+Lesotho,52,1000
+Lesotho,53,1000
+Lesotho,54,1000
+Lesotho,55,1000
+Lesotho,56,1000
+Lesotho,57,1000
+Lesotho,58,1000
+Lesotho,59,1000
+Lesotho,60,1000
+Lesotho,61,1000
+Lesotho,62,1000
+Lesotho,63,1000
+Lesotho,64,1000
+Lesotho,65,3200
+Mauritius,18,18000
+Mauritius,19,15000
+Mauritius,20,14000
+Mauritius,21,14000
+Mauritius,22,13000
+Mauritius,23,13000
+Mauritius,24,12000
+Mauritius,25,11000
+Mauritius,26,10000
+Mauritius,27,8300
+Mauritius,28,7900
+Mauritius,29,6900
+Mauritius,30,5600
+Mauritius,31,4800
+Mauritius,32,4200
+Mauritius,33,3600
+Mauritius,34,3400
+Mauritius,35,3000
+Mauritius,36,2900
+Mauritius,37,2700
+Mauritius,38,2800
+Mauritius,39,2600
+Mauritius,40,2200
+Mauritius,41,2000
+Mauritius,42,1800
+Mauritius,43,1600
+Mauritius,44,1600
+Mauritius,45,1300
+Mauritius,46,1100
+Mauritius,47,1000
+Mauritius,48,1000
+Mauritius,49,1000
+Mauritius,50,1000
+Mauritius,51,1000
+Mauritius,52,1000
+Mauritius,53,1000
+Mauritius,54,1000
+Mauritius,55,1000
+Mauritius,56,1000
+Mauritius,57,1000
+Mauritius,58,1000
+Mauritius,59,1000
+Mauritius,60,1000
+Mauritius,61,1000
+Mauritius,62,1000
+Mauritius,63,1000
+Mauritius,64,1000
+Mauritius,65,2000
+Madagascar,18,2600
+Madagascar,19,3000
+Madagascar,20,2800
+Madagascar,21,2800
+Madagascar,22,2700
+Madagascar,23,2400
+Madagascar,24,2300
+Madagascar,25,2000
+Madagascar,26,1700
+Madagascar,27,1400
+Madagascar,28,1400
+Madagascar,29,1200
+Madagascar,30,1000
+Madagascar,31,1000
+Madagascar,32,1000
+Madagascar,33,1000
+Madagascar,34,1000
+Madagascar,35,1000
+Madagascar,36,1000
+Madagascar,37,1000
+Madagascar,38,1000
+Madagascar,39,1000
+Madagascar,40,1000
+Madagascar,41,1000
+Madagascar,42,1000
+Madagascar,43,1000
+Madagascar,44,1000
+Madagascar,45,1000
+Madagascar,46,1000
+Madagascar,47,1000
+Madagascar,48,1000
+Madagascar,49,1000
+Madagascar,50,1000
+Madagascar,51,1000
+Madagascar,52,1000
+Madagascar,53,1000
+Madagascar,54,1000
+Madagascar,55,1000
+Madagascar,56,1000
+Madagascar,57,1000
+Madagascar,58,1000
+Madagascar,59,1000
+Madagascar,60,1000
+Madagascar,61,1000
+Madagascar,62,1000
+Madagascar,63,1000
+Madagascar,64,1000
+Madagascar,65,1500
+Libya,18,50000
+Libya,19,62000
+Libya,20,60000
+Libya,21,54000
+Libya,22,51000
+Libya,23,49000
+Libya,24,48000
+Libya,25,55000
+Libya,26,44000
+Libya,27,33000
+Libya,28,36000
+Libya,29,34000
+Libya,30,28000
+Libya,31,25000
+Libya,32,29000
+Libya,33,19000
+Libya,34,16000
+Libya,35,14000
+Libya,36,13000
+Libya,37,11000
+Libya,38,12000
+Libya,39,12000
+Libya,40,8600
+Libya,41,8000
+Libya,42,7100
+Libya,43,6500
+Libya,44,5900
+Libya,45,5100
+Libya,46,4700
+Libya,47,4200
+Libya,48,4300
+Libya,49,5300
+Libya,50,3200
+Libya,51,2400
+Libya,52,2200
+Libya,53,2000
+Libya,54,1700
+Libya,55,1500
+Libya,56,1200
+Libya,57,1000
+Libya,58,1000
+Libya,59,1000
+Libya,60,1000
+Libya,61,1000
+Libya,62,1000
+Libya,63,1000
+Libya,64,1000
+Libya,65,7600
+Eritrea,18,1000
+Eritrea,19,1000
+Eritrea,20,1000
+Eritrea,21,1000
+Eritrea,22,1000
+Eritrea,23,1000
+Eritrea,24,1000
+Eritrea,25,1000
+Eritrea,26,1000
+Eritrea,27,1000
+Eritrea,28,1000
+Eritrea,29,1000
+Eritrea,30,1000
+Eritrea,31,1000
+Eritrea,32,1000
+Eritrea,33,1000
+Eritrea,34,1000
+Eritrea,35,1000
+Eritrea,36,1000
+Eritrea,37,1000
+Eritrea,38,1000
+Eritrea,39,1000
+Eritrea,40,1000
+Eritrea,41,1000
+Eritrea,42,1000
+Eritrea,43,1000
+Eritrea,44,1000
+Eritrea,45,1000
+Eritrea,46,1000
+Eritrea,47,1000
+Eritrea,48,1000
+Eritrea,49,1000
+Eritrea,50,1000
+Eritrea,51,1000
+Eritrea,52,1000
+Eritrea,53,1000
+Eritrea,54,1000
+Eritrea,55,1000
+Eritrea,56,1000
+Eritrea,57,1000
+Eritrea,58,1000
+Eritrea,59,1000
+Eritrea,60,1000
+Eritrea,61,1000
+Eritrea,62,1000
+Eritrea,63,1000
+Eritrea,64,1000
+Eritrea,65,1000
+Mozambique,18,9400
+Mozambique,19,13000
+Mozambique,20,13000
+Mozambique,21,13000
+Mozambique,22,13000
+Mozambique,23,14000
+Mozambique,24,13000
+Mozambique,25,12000
+Mozambique,26,11000
+Mozambique,27,9000
+Mozambique,28,8900
+Mozambique,29,8400
+Mozambique,30,7100
+Mozambique,31,6800
+Mozambique,32,7100
+Mozambique,33,5400
+Mozambique,34,4900
+Mozambique,35,4200
+Mozambique,36,3900
+Mozambique,37,3400
+Mozambique,38,3500
+Mozambique,39,3000
+Mozambique,40,2400
+Mozambique,41,2000
+Mozambique,42,1800
+Mozambique,43,1700
+Mozambique,44,1300
+Mozambique,45,1000
+Mozambique,46,1000
+Mozambique,47,1000
+Mozambique,48,1000
+Mozambique,49,1000
+Mozambique,50,1000
+Mozambique,51,1000
+Mozambique,52,1000
+Mozambique,53,1000
+Mozambique,54,1000
+Mozambique,55,1000
+Mozambique,56,1000
+Mozambique,57,1000
+Mozambique,58,1000
+Mozambique,59,1000
+Mozambique,60,1000
+Mozambique,61,1000
+Mozambique,62,1000
+Mozambique,63,1000
+Mozambique,64,1000
+Mozambique,65,12000
+Benin,18,4600
+Benin,19,7000
+Benin,20,7500
+Benin,21,7800
+Benin,22,7800
+Benin,23,7300
+Benin,24,6500
+Benin,25,6400
+Benin,26,5500
+Benin,27,3900
+Benin,28,4000
+Benin,29,3500
+Benin,30,2600
+Benin,31,2300
+Benin,32,2400
+Benin,33,1800
+Benin,34,1500
+Benin,35,1200
+Benin,36,1200
+Benin,37,1000
+Benin,38,1100
+Benin,39,1000
+Benin,40,1000
+Benin,41,1000
+Benin,42,1000
+Benin,43,1000
+Benin,44,1000
+Benin,45,1000
+Benin,46,1000
+Benin,47,1000
+Benin,48,1000
+Benin,49,1000
+Benin,50,1000
+Benin,51,1000
+Benin,52,1000
+Benin,53,1000
+Benin,54,1000
+Benin,55,1000
+Benin,56,1000
+Benin,57,1000
+Benin,58,1000
+Benin,59,1000
+Benin,60,1000
+Benin,61,1000
+Benin,62,1000
+Benin,63,1000
+Benin,64,1000
+Benin,65,3200
+Cape Verde,18,3000
+Cape Verde,19,3400
+Cape Verde,20,3300
+Cape Verde,21,3300
+Cape Verde,22,3200
+Cape Verde,23,3200
+Cape Verde,24,3200
+Cape Verde,25,3000
+Cape Verde,26,2600
+Cape Verde,27,2400
+Cape Verde,28,2300
+Cape Verde,29,2000
+Cape Verde,30,1900
+Cape Verde,31,1800
+Cape Verde,32,1600
+Cape Verde,33,1400
+Cape Verde,34,1300
+Cape Verde,35,1100
+Cape Verde,36,1000
+Cape Verde,37,1000
+Cape Verde,38,1000
+Cape Verde,39,1000
+Cape Verde,40,1000
+Cape Verde,41,1000
+Cape Verde,42,1000
+Cape Verde,43,1000
+Cape Verde,44,1000
+Cape Verde,45,1000
+Cape Verde,46,1000
+Cape Verde,47,1000
+Cape Verde,48,1000
+Cape Verde,49,1000
+Cape Verde,50,1000
+Cape Verde,51,1000
+Cape Verde,52,1000
+Cape Verde,53,1000
+Cape Verde,54,1000
+Cape Verde,55,1000
+Cape Verde,56,1000
+Cape Verde,57,1000
+Cape Verde,58,1000
+Cape Verde,59,1000
+Cape Verde,60,1000
+Cape Verde,61,1000
+Cape Verde,62,1000
+Cape Verde,63,1000
+Cape Verde,64,1000
+Cape Verde,65,1000
+Mauritania,18,3100
+Mauritania,19,4900
+Mauritania,20,4800
+Mauritania,21,4500
+Mauritania,22,4400
+Mauritania,23,4500
+Mauritania,24,4300
+Mauritania,25,4400
+Mauritania,26,3600
+Mauritania,27,2500
+Mauritania,28,2700
+Mauritania,29,2600
+Mauritania,30,2100
+Mauritania,31,1900
+Mauritania,32,2900
+Mauritania,33,1300
+Mauritania,34,1200
+Mauritania,35,1000
+Mauritania,36,1000
+Mauritania,37,1000
+Mauritania,38,1000
+Mauritania,39,1000
+Mauritania,40,1000
+Mauritania,41,1000
+Mauritania,42,1000
+Mauritania,43,1000
+Mauritania,44,1000
+Mauritania,45,1000
+Mauritania,46,1000
+Mauritania,47,1000
+Mauritania,48,1000
+Mauritania,49,1000
+Mauritania,50,1000
+Mauritania,51,1000
+Mauritania,52,1000
+Mauritania,53,1000
+Mauritania,54,1000
+Mauritania,55,1000
+Mauritania,56,1000
+Mauritania,57,1000
+Mauritania,58,1000
+Mauritania,59,1000
+Mauritania,60,1000
+Mauritania,61,1000
+Mauritania,62,1000
+Mauritania,63,1000
+Mauritania,64,1000
+Mauritania,65,1100
+Central African Republic,18,1000
+Central African Republic,19,1000
+Central African Republic,20,1000
+Central African Republic,21,1000
+Central African Republic,22,1000
+Central African Republic,23,1000
+Central African Republic,24,1000
+Central African Republic,25,1000
+Central African Republic,26,1000
+Central African Republic,27,1000
+Central African Republic,28,1000
+Central African Republic,29,1000
+Central African Republic,30,1000
+Central African Republic,31,1000
+Central African Republic,32,1000
+Central African Republic,33,1000
+Central African Republic,34,1000
+Central African Republic,35,1000
+Central African Republic,36,1000
+Central African Republic,37,1000
+Central African Republic,38,1000
+Central African Republic,39,1000
+Central African Republic,40,1000
+Central African Republic,41,1000
+Central African Republic,42,1000
+Central African Republic,43,1000
+Central African Republic,44,1000
+Central African Republic,45,1000
+Central African Republic,46,1000
+Central African Republic,47,1000
+Central African Republic,48,1000
+Central African Republic,49,1000
+Central African Republic,50,1000
+Central African Republic,51,1000
+Central African Republic,52,1000
+Central African Republic,53,1000
+Central African Republic,54,1000
+Central African Republic,55,1000
+Central African Republic,56,1000
+Central African Republic,57,1000
+Central African Republic,58,1000
+Central African Republic,59,1000
+Central African Republic,60,1000
+Central African Republic,61,1000
+Central African Republic,62,1000
+Central African Republic,63,1000
+Central African Republic,64,1000
+Central African Republic,65,1000
+Chad,18,1000
+Chad,19,1000
+Chad,20,1000
+Chad,21,1000
+Chad,22,1000
+Chad,23,1000
+Chad,24,1000
+Chad,25,1000
+Chad,26,1000
+Chad,27,1000
+Chad,28,1000
+Chad,29,1000
+Chad,30,1000
+Chad,31,1000
+Chad,32,1000
+Chad,33,1000
+Chad,34,1000
+Chad,35,1000
+Chad,36,1000
+Chad,37,1000
+Chad,38,1000
+Chad,39,1000
+Chad,40,1000
+Chad,41,1000
+Chad,42,1000
+Chad,43,1000
+Chad,44,1000
+Chad,45,1000
+Chad,46,1000
+Chad,47,1000
+Chad,48,1000
+Chad,49,1000
+Chad,50,1000
+Chad,51,1000
+Chad,52,1000
+Chad,53,1000
+Chad,54,1000
+Chad,55,1000
+Chad,56,1000
+Chad,57,1000
+Chad,58,1000
+Chad,59,1000
+Chad,60,1000
+Chad,61,1000
+Chad,62,1000
+Chad,63,1000
+Chad,64,1000
+Chad,65,1000
+Somalia,18,15000
+Somalia,19,25000
+Somalia,20,28000
+Somalia,21,22000
+Somalia,22,18000
+Somalia,23,16000
+Somalia,24,15000
+Somalia,25,19000
+Somalia,26,12000
+Somalia,27,8000
+Somalia,28,8300
+Somalia,29,9100
+Somalia,30,5400
+Somalia,31,4900
+Somalia,32,8800
+Somalia,33,2900
+Somalia,34,2400
+Somalia,35,1600
+Somalia,36,1400
+Somalia,37,1200
+Somalia,38,1100
+Somalia,39,1400
+Somalia,40,1000
+Somalia,41,1000
+Somalia,42,1000
+Somalia,43,1000
+Somalia,44,1000
+Somalia,45,1000
+Somalia,46,1000
+Somalia,47,1000
+Somalia,48,1000
+Somalia,49,1000
+Somalia,50,1000
+Somalia,51,1000
+Somalia,52,1000
+Somalia,53,1000
+Somalia,54,1000
+Somalia,55,1000
+Somalia,56,1000
+Somalia,57,1000
+Somalia,58,1000
+Somalia,59,1000
+Somalia,60,1000
+Somalia,61,1000
+Somalia,62,1000
+Somalia,63,1000
+Somalia,64,1000
+Somalia,65,3600
+Nigeria,18,170000
+Nigeria,19,250000
+Nigeria,20,260000
+Nigeria,21,270000
+Nigeria,22,270000
+Nigeria,23,290000
+Nigeria,24,290000
+Nigeria,25,280000
+Nigeria,26,260000
+Nigeria,27,210000
+Nigeria,28,240000
+Nigeria,29,220000
+Nigeria,30,170000
+Nigeria,31,170000
+Nigeria,32,180000
+Nigeria,33,140000
+Nigeria,34,130000
+Nigeria,35,1e+05
+Nigeria,36,97000
+Nigeria,37,78000
+Nigeria,38,92000
+Nigeria,39,83000
+Nigeria,40,59000
+Nigeria,41,51000
+Nigeria,42,46000
+Nigeria,43,45000
+Nigeria,44,40000
+Nigeria,45,32000
+Nigeria,46,30000
+Nigeria,47,25000
+Nigeria,48,33000
+Nigeria,49,30000
+Nigeria,50,22000
+Nigeria,51,20000
+Nigeria,52,18000
+Nigeria,53,19000
+Nigeria,54,17000
+Nigeria,55,15000
+Nigeria,56,13000
+Nigeria,57,10000
+Nigeria,58,48000
+Nigeria,59,31000
+Nigeria,60,8700
+Nigeria,61,7200
+Nigeria,62,6500
+Nigeria,63,6100
+Nigeria,64,5400
+Nigeria,65,430000
+Senegal,18,28000
+Senegal,19,39000
+Senegal,20,41000
+Senegal,21,43000
+Senegal,22,42000
+Senegal,23,40000
+Senegal,24,37000
+Senegal,25,39000
+Senegal,26,33000
+Senegal,27,25000
+Senegal,28,25000
+Senegal,29,25000
+Senegal,30,20000
+Senegal,31,18000
+Senegal,32,29000
+Senegal,33,14000
+Senegal,34,11000
+Senegal,35,9100
+Senegal,36,8100
+Senegal,37,6700
+Senegal,38,7200
+Senegal,39,6600
+Senegal,40,4600
+Senegal,41,4200
+Senegal,42,3700
+Senegal,43,3300
+Senegal,44,2900
+Senegal,45,2300
+Senegal,46,2000
+Senegal,47,1800
+Senegal,48,1800
+Senegal,49,1600
+Senegal,50,1300
+Senegal,51,1200
+Senegal,52,1000
+Senegal,53,1000
+Senegal,54,1000
+Senegal,55,1000
+Senegal,56,1000
+Senegal,57,1000
+Senegal,58,1500
+Senegal,59,1200
+Senegal,60,1000
+Senegal,61,1000
+Senegal,62,1000
+Senegal,63,1000
+Senegal,64,1000
+Senegal,65,21000
+South Africa,18,130000
+South Africa,19,160000
+South Africa,20,160000
+South Africa,21,170000
+South Africa,22,180000
+South Africa,23,180000
+South Africa,24,170000
+South Africa,25,180000
+South Africa,26,150000
+South Africa,27,140000
+South Africa,28,140000
+South Africa,29,130000
+South Africa,30,110000
+South Africa,31,1e+05
+South Africa,32,1e+05
+South Africa,33,89000
+South Africa,34,81000
+South Africa,35,73000
+South Africa,36,68000
+South Africa,37,61000
+South Africa,38,60000
+South Africa,39,54000
+South Africa,40,45000
+South Africa,41,41000
+South Africa,42,39000
+South Africa,43,37000
+South Africa,44,34000
+South Africa,45,31000
+South Africa,46,29000
+South Africa,47,27000
+South Africa,48,27000
+South Africa,49,25000
+South Africa,50,21000
+South Africa,51,18000
+South Africa,52,18000
+South Africa,53,16000
+South Africa,54,15000
+South Africa,55,14000
+South Africa,56,13000
+South Africa,57,12000
+South Africa,58,14000
+South Africa,59,12000
+South Africa,60,9100
+South Africa,61,8200
+South Africa,62,7200
+South Africa,63,6700
+South Africa,64,5900
+South Africa,65,160000
+Algeria,18,220000
+Algeria,19,280000
+Algeria,20,260000
+Algeria,21,250000
+Algeria,22,240000
+Algeria,23,230000
+Algeria,24,220000
+Algeria,25,240000
+Algeria,26,2e+05
+Algeria,27,150000
+Algeria,28,150000
+Algeria,29,130000
+Algeria,30,1e+05
+Algeria,31,90000
+Algeria,32,120000
+Algeria,33,64000
+Algeria,34,58000
+Algeria,35,48000
+Algeria,36,42000
+Algeria,37,36000
+Algeria,38,38000
+Algeria,39,35000
+Algeria,40,25000
+Algeria,41,23000
+Algeria,42,21000
+Algeria,43,19000
+Algeria,44,17000
+Algeria,45,15000
+Algeria,46,14000
+Algeria,47,13000
+Algeria,48,14000
+Algeria,49,13000
+Algeria,50,9500
+Algeria,51,8900
+Algeria,52,8300
+Algeria,53,7900
+Algeria,54,7300
+Algeria,55,6400
+Algeria,56,7000
+Algeria,57,4800
+Algeria,58,4300
+Algeria,59,3900
+Algeria,60,2700
+Algeria,61,2300
+Algeria,62,2000
+Algeria,63,2000
+Algeria,64,2600
+Algeria,65,46000
+Ghana,18,43000
+Ghana,19,62000
+Ghana,20,65000
+Ghana,21,69000
+Ghana,22,67000
+Ghana,23,71000
+Ghana,24,71000
+Ghana,25,70000
+Ghana,26,61000
+Ghana,27,47000
+Ghana,28,51000
+Ghana,29,47000
+Ghana,30,36000
+Ghana,31,33000
+Ghana,32,38000
+Ghana,33,26000
+Ghana,34,21000
+Ghana,35,17000
+Ghana,36,15000
+Ghana,37,11000
+Ghana,38,13000
+Ghana,39,12000
+Ghana,40,7900
+Ghana,41,7000
+Ghana,42,5800
+Ghana,43,5500
+Ghana,44,4900
+Ghana,45,3800
+Ghana,46,3700
+Ghana,47,3000
+Ghana,48,4100
+Ghana,49,3600
+Ghana,50,2900
+Ghana,51,2500
+Ghana,52,2400
+Ghana,53,2500
+Ghana,54,2300
+Ghana,55,2000
+Ghana,56,1900
+Ghana,57,1400
+Ghana,58,3100
+Ghana,59,2200
+Ghana,60,1300
+Ghana,61,4000
+Ghana,62,2900
+Ghana,63,1000
+Ghana,64,1000
+Ghana,65,57000
+Kenya,18,44000
+Kenya,19,73000
+Kenya,20,88000
+Kenya,21,93000
+Kenya,22,96000
+Kenya,23,92000
+Kenya,24,87000
+Kenya,25,82000
+Kenya,26,69000
+Kenya,27,51000
+Kenya,28,53000
+Kenya,29,50000
+Kenya,30,39000
+Kenya,31,37000
+Kenya,32,39000
+Kenya,33,26000
+Kenya,34,23000
+Kenya,35,18000
+Kenya,36,17000
+Kenya,37,13000
+Kenya,38,16000
+Kenya,39,13000
+Kenya,40,10000
+Kenya,41,8500
+Kenya,42,7200
+Kenya,43,6700
+Kenya,44,6200
+Kenya,45,5000
+Kenya,46,4700
+Kenya,47,3900
+Kenya,48,5200
+Kenya,49,4600
+Kenya,50,3200
+Kenya,51,2500
+Kenya,52,2300
+Kenya,53,2300
+Kenya,54,2400
+Kenya,55,4000
+Kenya,56,2700
+Kenya,57,1400
+Kenya,58,3300
+Kenya,59,2300
+Kenya,60,1200
+Kenya,61,1000
+Kenya,62,1000
+Kenya,63,1000
+Kenya,64,1000
+Kenya,65,110000
+Morocco,18,210000
+Morocco,19,280000
+Morocco,20,280000
+Morocco,21,260000
+Morocco,22,250000
+Morocco,23,230000
+Morocco,24,220000
+Morocco,25,250000
+Morocco,26,2e+05
+Morocco,27,150000
+Morocco,28,150000
+Morocco,29,140000
+Morocco,30,110000
+Morocco,31,1e+05
+Morocco,32,140000
+Morocco,33,78000
+Morocco,34,67000
+Morocco,35,57000
+Morocco,36,50000
+Morocco,37,43000
+Morocco,38,46000
+Morocco,39,42000
+Morocco,40,30000
+Morocco,41,27000
+Morocco,42,24000
+Morocco,43,24000
+Morocco,44,22000
+Morocco,45,17000
+Morocco,46,17000
+Morocco,47,14000
+Morocco,48,17000
+Morocco,49,16000
+Morocco,50,12000
+Morocco,51,11000
+Morocco,52,9700
+Morocco,53,9600
+Morocco,54,8800
+Morocco,55,7800
+Morocco,56,6800
+Morocco,57,6100
+Morocco,58,6800
+Morocco,59,6300
+Morocco,60,4400
+Morocco,61,4100
+Morocco,62,3700
+Morocco,63,3300
+Morocco,64,2700
+Morocco,65,47000
+Gabon,18,2500
+Gabon,19,3200
+Gabon,20,3100
+Gabon,21,3100
+Gabon,22,3100
+Gabon,23,3000
+Gabon,24,3000
+Gabon,25,3100
+Gabon,26,2900
+Gabon,27,2300
+Gabon,28,2500
+Gabon,29,2300
+Gabon,30,1900
+Gabon,31,1900
+Gabon,32,1900
+Gabon,33,1300
+Gabon,34,1200
+Gabon,35,1000
+Gabon,36,1000
+Gabon,37,1000
+Gabon,38,1000
+Gabon,39,1000
+Gabon,40,1000
+Gabon,41,1000
+Gabon,42,1000
+Gabon,43,1000
+Gabon,44,1000
+Gabon,45,1000
+Gabon,46,1000
+Gabon,47,1000
+Gabon,48,1000
+Gabon,49,1000
+Gabon,50,1000
+Gabon,51,1000
+Gabon,52,1000
+Gabon,53,1000
+Gabon,54,1000
+Gabon,55,1000
+Gabon,56,1000
+Gabon,57,1000
+Gabon,58,1000
+Gabon,59,1000
+Gabon,60,1000
+Gabon,61,1000
+Gabon,62,1000
+Gabon,63,1000
+Gabon,64,1000
+Gabon,65,3600
+Mayotte,18,2000
+Mayotte,19,1900
+Mayotte,20,1400
+Mayotte,21,1100
+Mayotte,22,1000
+Mayotte,23,1000
+Mayotte,24,1000
+Mayotte,25,1000
+Mayotte,26,1000
+Mayotte,27,1000
+Mayotte,28,1000
+Mayotte,29,1000
+Mayotte,30,1000
+Mayotte,31,1000
+Mayotte,32,1000
+Mayotte,33,1000
+Mayotte,34,1000
+Mayotte,35,1000
+Mayotte,36,1000
+Mayotte,37,1000
+Mayotte,38,1000
+Mayotte,39,1000
+Mayotte,40,1000
+Mayotte,41,1000
+Mayotte,42,1000
+Mayotte,43,1000
+Mayotte,44,1000
+Mayotte,45,1000
+Mayotte,46,1000
+Mayotte,47,1000
+Mayotte,48,1000
+Mayotte,49,1000
+Mayotte,50,1000
+Mayotte,51,1000
+Mayotte,52,1000
+Mayotte,53,1000
+Mayotte,54,1000
+Mayotte,55,1000
+Mayotte,56,1000
+Mayotte,57,1000
+Mayotte,58,1000
+Mayotte,59,1000
+Mayotte,60,1000
+Mayotte,61,1000
+Mayotte,62,1000
+Mayotte,63,1000
+Mayotte,64,1000
+Mayotte,65,1000
+Djibouti,18,1000
+Djibouti,19,1400
+Djibouti,20,1300
+Djibouti,21,1200
+Djibouti,22,1200
+Djibouti,23,1300
+Djibouti,24,1200
+Djibouti,25,1300
+Djibouti,26,1000
+Djibouti,27,1000
+Djibouti,28,1000
+Djibouti,29,1000
+Djibouti,30,1000
+Djibouti,31,1000
+Djibouti,32,1000
+Djibouti,33,1000
+Djibouti,34,1000
+Djibouti,35,1000
+Djibouti,36,1000
+Djibouti,37,1000
+Djibouti,38,1000
+Djibouti,39,1000
+Djibouti,40,1000
+Djibouti,41,1000
+Djibouti,42,1000
+Djibouti,43,1000
+Djibouti,44,1000
+Djibouti,45,1000
+Djibouti,46,1000
+Djibouti,47,1000
+Djibouti,48,1000
+Djibouti,49,1000
+Djibouti,50,1000
+Djibouti,51,1000
+Djibouti,52,1000
+Djibouti,53,1000
+Djibouti,54,1000
+Djibouti,55,1000
+Djibouti,56,1000
+Djibouti,57,1000
+Djibouti,58,1000
+Djibouti,59,1000
+Djibouti,60,1000
+Djibouti,61,1000
+Djibouti,62,1000
+Djibouti,63,1000
+Djibouti,64,1000
+Djibouti,65,1000
+Niger,18,2200
+Niger,19,3000
+Niger,20,3300
+Niger,21,3200
+Niger,22,3300
+Niger,23,3400
+Niger,24,3300
+Niger,25,3600
+Niger,26,2900
+Niger,27,2400
+Niger,28,2400
+Niger,29,2500
+Niger,30,1800
+Niger,31,1900
+Niger,32,2400
+Niger,33,1300
+Niger,34,1200
+Niger,35,1100
+Niger,36,1000
+Niger,37,1000
+Niger,38,1000
+Niger,39,1000
+Niger,40,1000
+Niger,41,1000
+Niger,42,1000
+Niger,43,1000
+Niger,44,1000
+Niger,45,1000
+Niger,46,1000
+Niger,47,1000
+Niger,48,1000
+Niger,49,1000
+Niger,50,1000
+Niger,51,1000
+Niger,52,1000
+Niger,53,1000
+Niger,54,1000
+Niger,55,1000
+Niger,56,1000
+Niger,57,1000
+Niger,58,1000
+Niger,59,1000
+Niger,60,1000
+Niger,61,1000
+Niger,62,1000
+Niger,63,1000
+Niger,64,1000
+Niger,65,1300
+Comoros,18,1000
+Comoros,19,1000
+Comoros,20,1000
+Comoros,21,1000
+Comoros,22,1000
+Comoros,23,1000
+Comoros,24,1000
+Comoros,25,1000
+Comoros,26,1000
+Comoros,27,1000
+Comoros,28,1000
+Comoros,29,1000
+Comoros,30,1000
+Comoros,31,1000
+Comoros,32,1000
+Comoros,33,1000
+Comoros,34,1000
+Comoros,35,1000
+Comoros,36,1000
+Comoros,37,1000
+Comoros,38,1000
+Comoros,39,1000
+Comoros,40,1000
+Comoros,41,1000
+Comoros,42,1000
+Comoros,43,1000
+Comoros,44,1000
+Comoros,45,1000
+Comoros,46,1000
+Comoros,47,1000
+Comoros,48,1000
+Comoros,49,1000
+Comoros,50,1000
+Comoros,51,1000
+Comoros,52,1000
+Comoros,53,1000
+Comoros,54,1000
+Comoros,55,1000
+Comoros,56,1000
+Comoros,57,1000
+Comoros,58,1000
+Comoros,59,1000
+Comoros,60,1000
+Comoros,61,1000
+Comoros,62,1000
+Comoros,63,1000
+Comoros,64,1000
+Comoros,65,1000
+Cameroon,18,15000
+Cameroon,19,21000
+Cameroon,20,21000
+Cameroon,21,23000
+Cameroon,22,22000
+Cameroon,23,22000
+Cameroon,24,20000
+Cameroon,25,20000
+Cameroon,26,18000
+Cameroon,27,14000
+Cameroon,28,15000
+Cameroon,29,13000
+Cameroon,30,10000
+Cameroon,31,9100
+Cameroon,32,11000
+Cameroon,33,6800
+Cameroon,34,5700
+Cameroon,35,4400
+Cameroon,36,4000
+Cameroon,37,3200
+Cameroon,38,3500
+Cameroon,39,3100
+Cameroon,40,2100
+Cameroon,41,1800
+Cameroon,42,1600
+Cameroon,43,1500
+Cameroon,44,1400
+Cameroon,45,1000
+Cameroon,46,1000
+Cameroon,47,1000
+Cameroon,48,1000
+Cameroon,49,1000
+Cameroon,50,1000
+Cameroon,51,1000
+Cameroon,52,1000
+Cameroon,53,1000
+Cameroon,54,1000
+Cameroon,55,1000
+Cameroon,56,1000
+Cameroon,57,1000
+Cameroon,58,1000
+Cameroon,59,1000
+Cameroon,60,1000
+Cameroon,61,1000
+Cameroon,62,1000
+Cameroon,63,1000
+Cameroon,64,1000
+Cameroon,65,13000
+Egypt,18,510000
+Egypt,19,660000
+Egypt,20,620000
+Egypt,21,6e+05
+Egypt,22,560000
+Egypt,23,520000
+Egypt,24,470000
+Egypt,25,460000
+Egypt,26,380000
+Egypt,27,3e+05
+Egypt,28,340000
+Egypt,29,310000
+Egypt,30,260000
+Egypt,31,230000
+Egypt,32,220000
+Egypt,33,190000
+Egypt,34,170000
+Egypt,35,140000
+Egypt,36,130000
+Egypt,37,110000
+Egypt,38,130000
+Egypt,39,120000
+Egypt,40,89000
+Egypt,41,79000
+Egypt,42,73000
+Egypt,43,67000
+Egypt,44,61000
+Egypt,45,55000
+Egypt,46,49000
+Egypt,47,41000
+Egypt,48,48000
+Egypt,49,42000
+Egypt,50,34000
+Egypt,51,31000
+Egypt,52,29000
+Egypt,53,29000
+Egypt,54,27000
+Egypt,55,23000
+Egypt,56,22000
+Egypt,57,19000
+Egypt,58,19000
+Egypt,59,17000
+Egypt,60,13000
+Egypt,61,11000
+Egypt,62,11000
+Egypt,63,9800
+Egypt,64,8700
+Egypt,65,75000
+Democratic Republic of the Congo,18,7300
+Democratic Republic of the Congo,19,11000
+Democratic Republic of the Congo,20,11000
+Democratic Republic of the Congo,21,11000
+Democratic Republic of the Congo,22,11000
+Democratic Republic of the Congo,23,10000
+Democratic Republic of the Congo,24,9100
+Democratic Republic of the Congo,25,8400
+Democratic Republic of the Congo,26,8000
+Democratic Republic of the Congo,27,5800
+Democratic Republic of the Congo,28,6700
+Democratic Republic of the Congo,29,6200
+Democratic Republic of the Congo,30,4500
+Democratic Republic of the Congo,31,4400
+Democratic Republic of the Congo,32,4900
+Democratic Republic of the Congo,33,3200
+Democratic Republic of the Congo,34,2800
+Democratic Republic of the Congo,35,2400
+Democratic Republic of the Congo,36,2300
+Democratic Republic of the Congo,37,1800
+Democratic Republic of the Congo,38,2300
+Democratic Republic of the Congo,39,2000
+Democratic Republic of the Congo,40,1400
+Democratic Republic of the Congo,41,1100
+Democratic Republic of the Congo,42,1000
+Democratic Republic of the Congo,43,1100
+Democratic Republic of the Congo,44,1000
+Democratic Republic of the Congo,45,1000
+Democratic Republic of the Congo,46,1000
+Democratic Republic of the Congo,47,1000
+Democratic Republic of the Congo,48,1000
+Democratic Republic of the Congo,49,1000
+Democratic Republic of the Congo,50,1000
+Democratic Republic of the Congo,51,1000
+Democratic Republic of the Congo,52,1000
+Democratic Republic of the Congo,53,1000
+Democratic Republic of the Congo,54,1000
+Democratic Republic of the Congo,55,1000
+Democratic Republic of the Congo,56,1000
+Democratic Republic of the Congo,57,1000
+Democratic Republic of the Congo,58,1900
+Democratic Republic of the Congo,59,1200
+Democratic Republic of the Congo,60,1000
+Democratic Republic of the Congo,61,1000
+Democratic Republic of the Congo,62,1000
+Democratic Republic of the Congo,63,1000
+Democratic Republic of the Congo,64,1000
+Democratic Republic of the Congo,65,22000
+Rwanda,18,5500
+Rwanda,19,8400
+Rwanda,20,9500
+Rwanda,21,11000
+Rwanda,22,12000
+Rwanda,23,12000
+Rwanda,24,11000
+Rwanda,25,12000
+Rwanda,26,9800
+Rwanda,27,7800
+Rwanda,28,8600
+Rwanda,29,8200
+Rwanda,30,6400
+Rwanda,31,5600
+Rwanda,32,5800
+Rwanda,33,4200
+Rwanda,34,3600
+Rwanda,35,2900
+Rwanda,36,2600
+Rwanda,37,2100
+Rwanda,38,2200
+Rwanda,39,2000
+Rwanda,40,1400
+Rwanda,41,1200
+Rwanda,42,1000
+Rwanda,43,1000
+Rwanda,44,1000
+Rwanda,45,1000
+Rwanda,46,1000
+Rwanda,47,1000
+Rwanda,48,1000
+Rwanda,49,1000
+Rwanda,50,1000
+Rwanda,51,1000
+Rwanda,52,1000
+Rwanda,53,1000
+Rwanda,54,1000
+Rwanda,55,1000
+Rwanda,56,1000
+Rwanda,57,1000
+Rwanda,58,1000
+Rwanda,59,1000
+Rwanda,60,1000
+Rwanda,61,1000
+Rwanda,62,1000
+Rwanda,63,1000
+Rwanda,64,1000
+Rwanda,65,16000
+Luxembourg,18,5900
+Luxembourg,19,6400
+Luxembourg,20,5900
+Luxembourg,21,6000
+Luxembourg,22,6100
+Luxembourg,23,6300
+Luxembourg,24,6100
+Luxembourg,25,6600
+Luxembourg,26,6100
+Luxembourg,27,5700
+Luxembourg,28,6300
+Luxembourg,29,5800
+Luxembourg,30,5200
+Luxembourg,31,4900
+Luxembourg,32,4600
+Luxembourg,33,4200
+Luxembourg,34,4000
+Luxembourg,35,3800
+Luxembourg,36,3600
+Luxembourg,37,3400
+Luxembourg,38,3500
+Luxembourg,39,3200
+Luxembourg,40,3100
+Luxembourg,41,2800
+Luxembourg,42,2800
+Luxembourg,43,2500
+Luxembourg,44,2400
+Luxembourg,45,2300
+Luxembourg,46,2300
+Luxembourg,47,2000
+Luxembourg,48,2000
+Luxembourg,49,1900
+Luxembourg,50,1700
+Luxembourg,51,1600
+Luxembourg,52,1400
+Luxembourg,53,1300
+Luxembourg,54,1200
+Luxembourg,55,1000
+Luxembourg,56,1000
+Luxembourg,57,1000
+Luxembourg,58,1000
+Luxembourg,59,1000
+Luxembourg,60,1000
+Luxembourg,61,1000
+Luxembourg,62,1000
+Luxembourg,63,1000
+Luxembourg,64,1000
+Luxembourg,65,2700
+Malta,18,4800
+Malta,19,5500
+Malta,20,5600
+Malta,21,6100
+Malta,22,6200
+Malta,23,6500
+Malta,24,6300
+Malta,25,6900
+Malta,26,6500
+Malta,27,6100
+Malta,28,6200
+Malta,29,6000
+Malta,30,5200
+Malta,31,4700
+Malta,32,4300
+Malta,33,3800
+Malta,34,3600
+Malta,35,3200
+Malta,36,3100
+Malta,37,2900
+Malta,38,2800
+Malta,39,2600
+Malta,40,2500
+Malta,41,2100
+Malta,42,2200
+Malta,43,2100
+Malta,44,1900
+Malta,45,1600
+Malta,46,1500
+Malta,47,1400
+Malta,48,1200
+Malta,49,1200
+Malta,50,1100
+Malta,51,1000
+Malta,52,1000
+Malta,53,1000
+Malta,54,1000
+Malta,55,1000
+Malta,56,1000
+Malta,57,1000
+Malta,58,1000
+Malta,59,1000
+Malta,60,1000
+Malta,61,1000
+Malta,62,1000
+Malta,63,1000
+Malta,64,1000
+Malta,65,2300
+Croatia,18,31000
+Croatia,19,40000
+Croatia,20,41000
+Croatia,21,47000
+Croatia,22,50000
+Croatia,23,56000
+Croatia,24,52000
+Croatia,25,50000
+Croatia,26,42000
+Croatia,27,37000
+Croatia,28,43000
+Croatia,29,35000
+Croatia,30,28000
+Croatia,31,26000
+Croatia,32,24000
+Croatia,33,23000
+Croatia,34,22000
+Croatia,35,21000
+Croatia,36,20000
+Croatia,37,19000
+Croatia,38,20000
+Croatia,39,18000
+Croatia,40,16000
+Croatia,41,15000
+Croatia,42,14000
+Croatia,43,13000
+Croatia,44,12000
+Croatia,45,11000
+Croatia,46,10000
+Croatia,47,9300
+Croatia,48,8500
+Croatia,49,7800
+Croatia,50,6700
+Croatia,51,6100
+Croatia,52,5700
+Croatia,53,5400
+Croatia,54,4500
+Croatia,55,3900
+Croatia,56,3600
+Croatia,57,3300
+Croatia,58,3000
+Croatia,59,2800
+Croatia,60,2400
+Croatia,61,2100
+Croatia,62,1900
+Croatia,63,1900
+Croatia,64,1700
+Croatia,65,18000
+Switzerland,18,68000
+Switzerland,19,74000
+Switzerland,20,78000
+Switzerland,21,92000
+Switzerland,22,98000
+Switzerland,23,97000
+Switzerland,24,93000
+Switzerland,25,1e+05
+Switzerland,26,94000
+Switzerland,27,83000
+Switzerland,28,87000
+Switzerland,29,82000
+Switzerland,30,74000
+Switzerland,31,69000
+Switzerland,32,65000
+Switzerland,33,62000
+Switzerland,34,58000
+Switzerland,35,54000
+Switzerland,36,51000
+Switzerland,37,49000
+Switzerland,38,49000
+Switzerland,39,46000
+Switzerland,40,40000
+Switzerland,41,39000
+Switzerland,42,37000
+Switzerland,43,36000
+Switzerland,44,35000
+Switzerland,45,33000
+Switzerland,46,32000
+Switzerland,47,31000
+Switzerland,48,30000
+Switzerland,49,29000
+Switzerland,50,26000
+Switzerland,51,24000
+Switzerland,52,23000
+Switzerland,53,21000
+Switzerland,54,20000
+Switzerland,55,18000
+Switzerland,56,15000
+Switzerland,57,13000
+Switzerland,58,12000
+Switzerland,59,11000
+Switzerland,60,8900
+Switzerland,61,7600
+Switzerland,62,6700
+Switzerland,63,5900
+Switzerland,64,5100
+Switzerland,65,47000
+Italy,18,440000
+Italy,19,530000
+Italy,20,580000
+Italy,21,640000
+Italy,22,680000
+Italy,23,680000
+Italy,24,660000
+Italy,25,730000
+Italy,26,650000
+Italy,27,560000
+Italy,28,610000
+Italy,29,550000
+Italy,30,470000
+Italy,31,450000
+Italy,32,420000
+Italy,33,4e+05
+Italy,34,4e+05
+Italy,35,370000
+Italy,36,360000
+Italy,37,350000
+Italy,38,360000
+Italy,39,350000
+Italy,40,330000
+Italy,41,340000
+Italy,42,340000
+Italy,43,350000
+Italy,44,350000
+Italy,45,340000
+Italy,46,340000
+Italy,47,320000
+Italy,48,320000
+Italy,49,3e+05
+Italy,50,280000
+Italy,51,270000
+Italy,52,260000
+Italy,53,250000
+Italy,54,230000
+Italy,55,210000
+Italy,56,180000
+Italy,57,170000
+Italy,58,150000
+Italy,59,130000
+Italy,60,110000
+Italy,61,1e+05
+Italy,62,90000
+Italy,63,81000
+Italy,64,71000
+Italy,65,6e+05
+Romania,18,2e+05
+Romania,19,220000
+Romania,20,190000
+Romania,21,180000
+Romania,22,160000
+Romania,23,160000
+Romania,24,140000
+Romania,25,140000
+Romania,26,120000
+Romania,27,98000
+Romania,28,110000
+Romania,29,110000
+Romania,30,92000
+Romania,31,85000
+Romania,32,83000
+Romania,33,67000
+Romania,34,64000
+Romania,35,53000
+Romania,36,51000
+Romania,37,53000
+Romania,38,58000
+Romania,39,56000
+Romania,40,49000
+Romania,41,49000
+Romania,42,46000
+Romania,43,43000
+Romania,44,41000
+Romania,45,33000
+Romania,46,29000
+Romania,47,27000
+Romania,48,27000
+Romania,49,27000
+Romania,50,26000
+Romania,51,31000
+Romania,52,12000
+Romania,53,11000
+Romania,54,10000
+Romania,55,9500
+Romania,56,8500
+Romania,57,8000
+Romania,58,8200
+Romania,59,7500
+Romania,60,7100
+Romania,61,6700
+Romania,62,6300
+Romania,63,6100
+Romania,64,5400
+Romania,65,42000
+Bulgaria,18,50000
+Bulgaria,19,64000
+Bulgaria,20,57000
+Bulgaria,21,54000
+Bulgaria,22,54000
+Bulgaria,23,52000
+Bulgaria,24,46000
+Bulgaria,25,46000
+Bulgaria,26,41000
+Bulgaria,27,35000
+Bulgaria,28,40000
+Bulgaria,29,36000
+Bulgaria,30,30000
+Bulgaria,31,28000
+Bulgaria,32,27000
+Bulgaria,33,25000
+Bulgaria,34,22000
+Bulgaria,35,21000
+Bulgaria,36,20000
+Bulgaria,37,19000
+Bulgaria,38,20000
+Bulgaria,39,19000
+Bulgaria,40,17000
+Bulgaria,41,17000
+Bulgaria,42,16000
+Bulgaria,43,16000
+Bulgaria,44,14000
+Bulgaria,45,13000
+Bulgaria,46,11000
+Bulgaria,47,9800
+Bulgaria,48,9400
+Bulgaria,49,8600
+Bulgaria,50,7600
+Bulgaria,51,6200
+Bulgaria,52,5400
+Bulgaria,53,4800
+Bulgaria,54,4400
+Bulgaria,55,3900
+Bulgaria,56,3600
+Bulgaria,57,3300
+Bulgaria,58,3000
+Bulgaria,59,2600
+Bulgaria,60,2200
+Bulgaria,61,2200
+Bulgaria,62,2000
+Bulgaria,63,1800
+Bulgaria,64,1600
+Bulgaria,65,17000
+Austria,18,79000
+Austria,19,87000
+Austria,20,87000
+Austria,21,96000
+Austria,22,1e+05
+Austria,23,1e+05
+Austria,24,98000
+Austria,25,110000
+Austria,26,95000
+Austria,27,82000
+Austria,28,84000
+Austria,29,76000
+Austria,30,66000
+Austria,31,60000
+Austria,32,55000
+Austria,33,51000
+Austria,34,48000
+Austria,35,45000
+Austria,36,43000
+Austria,37,41000
+Austria,38,40000
+Austria,39,37000
+Austria,40,32000
+Austria,41,30000
+Austria,42,28000
+Austria,43,27000
+Austria,44,26000
+Austria,45,24000
+Austria,46,23000
+Austria,47,22000
+Austria,48,22000
+Austria,49,21000
+Austria,50,19000
+Austria,51,17000
+Austria,52,15000
+Austria,53,14000
+Austria,54,13000
+Austria,55,11000
+Austria,56,10000
+Austria,57,8700
+Austria,58,7800
+Austria,59,7000
+Austria,60,5700
+Austria,61,4900
+Austria,62,4200
+Austria,63,3800
+Austria,64,3200
+Austria,65,31000
+Denmark,18,72000
+Denmark,19,74000
+Denmark,20,69000
+Denmark,21,71000
+Denmark,22,70000
+Denmark,23,70000
+Denmark,24,67000
+Denmark,25,64000
+Denmark,26,60000
+Denmark,27,53000
+Denmark,28,55000
+Denmark,29,51000
+Denmark,30,46000
+Denmark,31,42000
+Denmark,32,39000
+Denmark,33,38000
+Denmark,34,35000
+Denmark,35,33000
+Denmark,36,32000
+Denmark,37,31000
+Denmark,38,31000
+Denmark,39,31000
+Denmark,40,30000
+Denmark,41,29000
+Denmark,42,28000
+Denmark,43,30000
+Denmark,44,30000
+Denmark,45,28000
+Denmark,46,28000
+Denmark,47,28000
+Denmark,48,25000
+Denmark,49,24000
+Denmark,50,23000
+Denmark,51,23000
+Denmark,52,24000
+Denmark,53,23000
+Denmark,54,21000
+Denmark,55,19000
+Denmark,56,17000
+Denmark,57,16000
+Denmark,58,14000
+Denmark,59,13000
+Denmark,60,11000
+Denmark,61,11000
+Denmark,62,9700
+Denmark,63,8900
+Denmark,64,8300
+Denmark,65,73000
+Germany,18,610000
+Germany,19,7e+05
+Germany,20,770000
+Germany,21,870000
+Germany,22,880000
+Germany,23,860000
+Germany,24,820000
+Germany,25,9e+05
+Germany,26,8e+05
+Germany,27,690000
+Germany,28,730000
+Germany,29,690000
+Germany,30,6e+05
+Germany,31,550000
+Germany,32,490000
+Germany,33,450000
+Germany,34,410000
+Germany,35,380000
+Germany,36,350000
+Germany,37,340000
+Germany,38,340000
+Germany,39,310000
+Germany,40,270000
+Germany,41,250000
+Germany,42,240000
+Germany,43,220000
+Germany,44,210000
+Germany,45,2e+05
+Germany,46,190000
+Germany,47,190000
+Germany,48,190000
+Germany,49,180000
+Germany,50,170000
+Germany,51,160000
+Germany,52,140000
+Germany,53,130000
+Germany,54,120000
+Germany,55,1e+05
+Germany,56,90000
+Germany,57,77000
+Germany,58,68000
+Germany,59,59000
+Germany,60,47000
+Germany,61,40000
+Germany,62,34000
+Germany,63,31000
+Germany,64,26000
+Germany,65,260000
+Moldova,18,33000
+Moldova,19,33000
+Moldova,20,28000
+Moldova,21,26000
+Moldova,22,25000
+Moldova,23,24000
+Moldova,24,23000
+Moldova,25,31000
+Moldova,26,24000
+Moldova,27,19000
+Moldova,28,19000
+Moldova,29,18000
+Moldova,30,16000
+Moldova,31,16000
+Moldova,32,15000
+Moldova,33,13000
+Moldova,34,12000
+Moldova,35,11000
+Moldova,36,10000
+Moldova,37,9100
+Moldova,38,8500
+Moldova,39,7800
+Moldova,40,6700
+Moldova,41,6100
+Moldova,42,5500
+Moldova,43,5100
+Moldova,44,4400
+Moldova,45,4100
+Moldova,46,3600
+Moldova,47,3300
+Moldova,48,3000
+Moldova,49,2600
+Moldova,50,2300
+Moldova,51,2000
+Moldova,52,1800
+Moldova,53,1700
+Moldova,54,1500
+Moldova,55,1400
+Moldova,56,1300
+Moldova,57,1300
+Moldova,58,1200
+Moldova,59,1100
+Moldova,60,1000
+Moldova,61,1000
+Moldova,62,1000
+Moldova,63,1000
+Moldova,64,1000
+Moldova,65,6000
+Spain,18,290000
+Spain,19,380000
+Spain,20,420000
+Spain,21,460000
+Spain,22,520000
+Spain,23,570000
+Spain,24,560000
+Spain,25,660000
+Spain,26,590000
+Spain,27,480000
+Spain,28,520000
+Spain,29,480000
+Spain,30,420000
+Spain,31,4e+05
+Spain,32,380000
+Spain,33,370000
+Spain,34,360000
+Spain,35,340000
+Spain,36,340000
+Spain,37,330000
+Spain,38,350000
+Spain,39,340000
+Spain,40,320000
+Spain,41,310000
+Spain,42,310000
+Spain,43,3e+05
+Spain,44,290000
+Spain,45,260000
+Spain,46,250000
+Spain,47,240000
+Spain,48,230000
+Spain,49,210000
+Spain,50,190000
+Spain,51,170000
+Spain,52,160000
+Spain,53,150000
+Spain,54,140000
+Spain,55,130000
+Spain,56,110000
+Spain,57,1e+05
+Spain,58,95000
+Spain,59,86000
+Spain,60,73000
+Spain,61,66000
+Spain,62,57000
+Spain,63,51000
+Spain,64,44000
+Spain,65,380000
+France,18,660000
+France,19,740000
+France,20,730000
+France,21,770000
+France,22,760000
+France,23,760000
+France,24,690000
+France,25,7e+05
+France,26,620000
+France,27,540000
+France,28,580000
+France,29,520000
+France,30,440000
+France,31,410000
+France,32,370000
+France,33,350000
+France,34,320000
+France,35,290000
+France,36,270000
+France,37,260000
+France,38,270000
+France,39,250000
+France,40,210000
+France,41,210000
+France,42,190000
+France,43,190000
+France,44,190000
+France,45,180000
+France,46,170000
+France,47,160000
+France,48,150000
+France,49,130000
+France,50,120000
+France,51,110000
+France,52,98000
+France,53,93000
+France,54,85000
+France,55,76000
+France,56,67000
+France,57,58000
+France,58,58000
+France,59,50000
+France,60,42000
+France,61,37000
+France,62,33000
+France,63,30000
+France,64,28000
+France,65,340000
+Ukraine,18,420000
+Ukraine,19,450000
+Ukraine,20,380000
+Ukraine,21,380000
+Ukraine,22,390000
+Ukraine,23,390000
+Ukraine,24,390000
+Ukraine,25,530000
+Ukraine,26,450000
+Ukraine,27,360000
+Ukraine,28,370000
+Ukraine,29,360000
+Ukraine,30,340000
+Ukraine,31,320000
+Ukraine,32,320000
+Ukraine,33,280000
+Ukraine,34,270000
+Ukraine,35,250000
+Ukraine,36,230000
+Ukraine,37,210000
+Ukraine,38,2e+05
+Ukraine,39,180000
+Ukraine,40,160000
+Ukraine,41,150000
+Ukraine,42,140000
+Ukraine,43,130000
+Ukraine,44,120000
+Ukraine,45,110000
+Ukraine,46,1e+05
+Ukraine,47,91000
+Ukraine,48,84000
+Ukraine,49,73000
+Ukraine,50,66000
+Ukraine,51,58000
+Ukraine,52,53000
+Ukraine,53,47000
+Ukraine,54,43000
+Ukraine,55,42000
+Ukraine,56,39000
+Ukraine,57,35000
+Ukraine,58,32000
+Ukraine,59,28000
+Ukraine,60,24000
+Ukraine,61,20000
+Ukraine,62,17000
+Ukraine,63,15000
+Ukraine,64,12000
+Ukraine,65,120000
+Montenegro,18,6400
+Montenegro,19,8200
+Montenegro,20,8300
+Montenegro,21,9000
+Montenegro,22,9700
+Montenegro,23,11000
+Montenegro,24,11000
+Montenegro,25,12000
+Montenegro,26,10000
+Montenegro,27,8900
+Montenegro,28,10000
+Montenegro,29,9300
+Montenegro,30,7600
+Montenegro,31,7800
+Montenegro,32,7800
+Montenegro,33,7000
+Montenegro,34,6800
+Montenegro,35,6500
+Montenegro,36,6100
+Montenegro,37,5600
+Montenegro,38,5700
+Montenegro,39,5200
+Montenegro,40,4500
+Montenegro,41,4200
+Montenegro,42,3900
+Montenegro,43,3600
+Montenegro,44,3200
+Montenegro,45,2900
+Montenegro,46,2600
+Montenegro,47,2500
+Montenegro,48,2300
+Montenegro,49,2000
+Montenegro,50,1900
+Montenegro,51,1600
+Montenegro,52,1500
+Montenegro,53,1400
+Montenegro,54,1300
+Montenegro,55,1200
+Montenegro,56,1000
+Montenegro,57,1000
+Montenegro,58,1000
+Montenegro,59,1000
+Montenegro,60,1000
+Montenegro,61,1000
+Montenegro,62,1000
+Montenegro,63,1000
+Montenegro,64,1000
+Montenegro,65,4200
+Albania,18,1000
+Albania,19,1000
+Albania,20,1000
+Albania,21,1000
+Albania,22,1000
+Albania,23,1000
+Albania,24,1000
+Albania,25,1100
+Albania,26,1200
+Albania,27,1000
+Albania,28,1100
+Albania,29,1000
+Albania,30,1000
+Albania,31,1000
+Albania,32,1000
+Albania,33,1000
+Albania,34,1000
+Albania,35,1000
+Albania,36,1000
+Albania,37,1000
+Albania,38,1000
+Albania,39,1000
+Albania,40,1000
+Albania,41,1000
+Albania,42,1000
+Albania,43,1000
+Albania,44,1000
+Albania,45,1000
+Albania,46,1000
+Albania,47,1000
+Albania,48,1000
+Albania,49,1000
+Albania,50,1000
+Albania,51,1000
+Albania,52,1000
+Albania,53,1000
+Albania,54,1000
+Albania,55,1000
+Albania,56,1000
+Albania,57,1000
+Albania,58,1000
+Albania,59,1000
+Albania,60,1000
+Albania,61,1000
+Albania,62,1000
+Albania,63,1000
+Albania,64,1000
+Albania,65,1000
+Macedonia,18,17000
+Macedonia,19,22000
+Macedonia,20,23000
+Macedonia,21,24000
+Macedonia,22,27000
+Macedonia,23,30000
+Macedonia,24,28000
+Macedonia,25,30000
+Macedonia,26,25000
+Macedonia,27,22000
+Macedonia,28,25000
+Macedonia,29,22000
+Macedonia,30,18000
+Macedonia,31,17000
+Macedonia,32,16000
+Macedonia,33,15000
+Macedonia,34,14000
+Macedonia,35,13000
+Macedonia,36,12000
+Macedonia,37,12000
+Macedonia,38,12000
+Macedonia,39,11000
+Macedonia,40,9600
+Macedonia,41,8800
+Macedonia,42,8300
+Macedonia,43,7900
+Macedonia,44,7300
+Macedonia,45,6500
+Macedonia,46,5900
+Macedonia,47,5500
+Macedonia,48,5000
+Macedonia,49,4700
+Macedonia,50,3900
+Macedonia,51,3600
+Macedonia,52,3100
+Macedonia,53,2900
+Macedonia,54,2700
+Macedonia,55,2300
+Macedonia,56,2000
+Macedonia,57,1700
+Macedonia,58,1600
+Macedonia,59,1500
+Macedonia,60,1200
+Macedonia,61,1000
+Macedonia,62,1000
+Macedonia,63,1000
+Macedonia,64,1000
+Macedonia,65,6800
+Finland,18,62000
+Finland,19,69000
+Finland,20,67000
+Finland,21,66000
+Finland,22,65000
+Finland,23,64000
+Finland,24,63000
+Finland,25,65000
+Finland,26,61000
+Finland,27,54000
+Finland,28,55000
+Finland,29,52000
+Finland,30,46000
+Finland,31,44000
+Finland,32,41000
+Finland,33,40000
+Finland,34,40000
+Finland,35,38000
+Finland,36,38000
+Finland,37,36000
+Finland,38,34000
+Finland,39,33000
+Finland,40,31000
+Finland,41,31000
+Finland,42,30000
+Finland,43,29000
+Finland,44,27000
+Finland,45,24000
+Finland,46,22000
+Finland,47,22000
+Finland,48,21000
+Finland,49,20000
+Finland,50,19000
+Finland,51,19000
+Finland,52,17000
+Finland,53,16000
+Finland,54,15000
+Finland,55,14000
+Finland,56,13000
+Finland,57,12000
+Finland,58,11000
+Finland,59,10000
+Finland,60,8800
+Finland,61,8000
+Finland,62,7300
+Finland,63,6700
+Finland,64,6300
+Finland,65,51000
+Iceland,18,4200
+Iceland,19,4900
+Iceland,20,4900
+Iceland,21,5200
+Iceland,22,5100
+Iceland,23,5100
+Iceland,24,5000
+Iceland,25,5200
+Iceland,26,4900
+Iceland,27,4400
+Iceland,28,4800
+Iceland,29,4500
+Iceland,30,4000
+Iceland,31,3800
+Iceland,32,3400
+Iceland,33,3300
+Iceland,34,3100
+Iceland,35,3200
+Iceland,36,3200
+Iceland,37,3100
+Iceland,38,3000
+Iceland,39,3200
+Iceland,40,2900
+Iceland,41,2500
+Iceland,42,2500
+Iceland,43,2600
+Iceland,44,2300
+Iceland,45,2400
+Iceland,46,2500
+Iceland,47,2300
+Iceland,48,2000
+Iceland,49,1900
+Iceland,50,1800
+Iceland,51,1800
+Iceland,52,1800
+Iceland,53,1800
+Iceland,54,1600
+Iceland,55,1600
+Iceland,56,1500
+Iceland,57,1300
+Iceland,58,1300
+Iceland,59,1200
+Iceland,60,1100
+Iceland,61,1000
+Iceland,62,1000
+Iceland,63,1000
+Iceland,64,1000
+Iceland,65,5200
+Norway,18,64000
+Norway,19,65000
+Norway,20,64000
+Norway,21,65000
+Norway,22,64000
+Norway,23,62000
+Norway,24,60000
+Norway,25,62000
+Norway,26,59000
+Norway,27,57000
+Norway,28,59000
+Norway,29,57000
+Norway,30,53000
+Norway,31,51000
+Norway,32,47000
+Norway,33,45000
+Norway,34,43000
+Norway,35,41000
+Norway,36,40000
+Norway,37,38000
+Norway,38,38000
+Norway,39,37000
+Norway,40,35000
+Norway,41,33000
+Norway,42,34000
+Norway,43,33000
+Norway,44,34000
+Norway,45,34000
+Norway,46,35000
+Norway,47,34000
+Norway,48,33000
+Norway,49,32000
+Norway,50,31000
+Norway,51,29000
+Norway,52,28000
+Norway,53,27000
+Norway,54,25000
+Norway,55,23000
+Norway,56,21000
+Norway,57,20000
+Norway,58,19000
+Norway,59,17000
+Norway,60,16000
+Norway,61,15000
+Norway,62,14000
+Norway,63,13000
+Norway,64,12000
+Norway,65,98000
+Belgium,18,130000
+Belgium,19,140000
+Belgium,20,140000
+Belgium,21,130000
+Belgium,22,130000
+Belgium,23,130000
+Belgium,24,120000
+Belgium,25,120000
+Belgium,26,110000
+Belgium,27,1e+05
+Belgium,28,110000
+Belgium,29,97000
+Belgium,30,83000
+Belgium,31,78000
+Belgium,32,73000
+Belgium,33,69000
+Belgium,34,65000
+Belgium,35,63000
+Belgium,36,61000
+Belgium,37,60000
+Belgium,38,61000
+Belgium,39,58000
+Belgium,40,54000
+Belgium,41,53000
+Belgium,42,49000
+Belgium,43,47000
+Belgium,44,45000
+Belgium,45,44000
+Belgium,46,42000
+Belgium,47,41000
+Belgium,48,40000
+Belgium,49,37000
+Belgium,50,33000
+Belgium,51,31000
+Belgium,52,29000
+Belgium,53,27000
+Belgium,54,26000
+Belgium,55,24000
+Belgium,56,21000
+Belgium,57,19000
+Belgium,58,17000
+Belgium,59,1000
+Belgium,60,14000
+Belgium,61,12000
+Belgium,62,11000
+Belgium,63,9700
+Belgium,64,8700
+Belgium,65,75000
+Russia,18,860000
+Russia,19,1100000
+Russia,20,980000
+Russia,21,1100000
+Russia,22,1200000
+Russia,23,1400000
+Russia,24,1400000
+Russia,25,2100000
+Russia,26,1800000
+Russia,27,1500000
+Russia,28,1600000
+Russia,29,1700000
+Russia,30,1700000
+Russia,31,1700000
+Russia,32,1700000
+Russia,33,1600000
+Russia,34,1600000
+Russia,35,1500000
+Russia,36,1400000
+Russia,37,1200000
+Russia,38,1100000
+Russia,39,1e+06
+Russia,40,860000
+Russia,41,780000
+Russia,42,680000
+Russia,43,610000
+Russia,44,540000
+Russia,45,480000
+Russia,46,420000
+Russia,47,380000
+Russia,48,340000
+Russia,49,290000
+Russia,50,250000
+Russia,51,220000
+Russia,52,2e+05
+Russia,53,170000
+Russia,54,150000
+Russia,55,130000
+Russia,56,120000
+Russia,57,110000
+Russia,58,95000
+Russia,59,81000
+Russia,60,67000
+Russia,61,56000
+Russia,62,47000
+Russia,63,40000
+Russia,64,34000
+Russia,65,310000
+Bosnia and Herzegovina,18,30000
+Bosnia and Herzegovina,19,37000
+Bosnia and Herzegovina,20,38000
+Bosnia and Herzegovina,21,42000
+Bosnia and Herzegovina,22,47000
+Bosnia and Herzegovina,23,49000
+Bosnia and Herzegovina,24,44000
+Bosnia and Herzegovina,25,39000
+Bosnia and Herzegovina,26,32000
+Bosnia and Herzegovina,27,29000
+Bosnia and Herzegovina,28,33000
+Bosnia and Herzegovina,29,28000
+Bosnia and Herzegovina,30,22000
+Bosnia and Herzegovina,31,22000
+Bosnia and Herzegovina,32,22000
+Bosnia and Herzegovina,33,19000
+Bosnia and Herzegovina,34,18000
+Bosnia and Herzegovina,35,17000
+Bosnia and Herzegovina,36,16000
+Bosnia and Herzegovina,37,15000
+Bosnia and Herzegovina,38,15000
+Bosnia and Herzegovina,39,14000
+Bosnia and Herzegovina,40,12000
+Bosnia and Herzegovina,41,11000
+Bosnia and Herzegovina,42,10000
+Bosnia and Herzegovina,43,9600
+Bosnia and Herzegovina,44,8600
+Bosnia and Herzegovina,45,7500
+Bosnia and Herzegovina,46,6700
+Bosnia and Herzegovina,47,6000
+Bosnia and Herzegovina,48,5600
+Bosnia and Herzegovina,49,5000
+Bosnia and Herzegovina,50,4300
+Bosnia and Herzegovina,51,4000
+Bosnia and Herzegovina,52,3800
+Bosnia and Herzegovina,53,3400
+Bosnia and Herzegovina,54,3200
+Bosnia and Herzegovina,55,2800
+Bosnia and Herzegovina,56,2600
+Bosnia and Herzegovina,57,2400
+Bosnia and Herzegovina,58,2300
+Bosnia and Herzegovina,59,2000
+Bosnia and Herzegovina,60,1700
+Bosnia and Herzegovina,61,1400
+Bosnia and Herzegovina,62,1300
+Bosnia and Herzegovina,63,1200
+Bosnia and Herzegovina,64,1200
+Bosnia and Herzegovina,65,11000
+Slovakia,18,42000
+Slovakia,19,52000
+Slovakia,20,47000
+Slovakia,21,50000
+Slovakia,22,51000
+Slovakia,23,53000
+Slovakia,24,48000
+Slovakia,25,49000
+Slovakia,26,43000
+Slovakia,27,36000
+Slovakia,28,40000
+Slovakia,29,35000
+Slovakia,30,28000
+Slovakia,31,25000
+Slovakia,32,24000
+Slovakia,33,22000
+Slovakia,34,20000
+Slovakia,35,18000
+Slovakia,36,17000
+Slovakia,37,16000
+Slovakia,38,16000
+Slovakia,39,16000
+Slovakia,40,15000
+Slovakia,41,14000
+Slovakia,42,13000
+Slovakia,43,12000
+Slovakia,44,11000
+Slovakia,45,9700
+Slovakia,46,8500
+Slovakia,47,7000
+Slovakia,48,6500
+Slovakia,49,5600
+Slovakia,50,4800
+Slovakia,51,4200
+Slovakia,52,3800
+Slovakia,53,3400
+Slovakia,54,3300
+Slovakia,55,3000
+Slovakia,56,2400
+Slovakia,57,2100
+Slovakia,58,2000
+Slovakia,59,1700
+Slovakia,60,1500
+Slovakia,61,1500
+Slovakia,62,1400
+Slovakia,63,1200
+Slovakia,64,1100
+Slovakia,65,13000
+Hungary,18,76000
+Hungary,19,92000
+Hungary,20,91000
+Hungary,21,1e+05
+Hungary,22,1e+05
+Hungary,23,1e+05
+Hungary,24,90000
+Hungary,25,85000
+Hungary,26,74000
+Hungary,27,64000
+Hungary,28,67000
+Hungary,29,57000
+Hungary,30,47000
+Hungary,31,44000
+Hungary,32,42000
+Hungary,33,38000
+Hungary,34,34000
+Hungary,35,31000
+Hungary,36,30000
+Hungary,37,29000
+Hungary,38,32000
+Hungary,39,31000
+Hungary,40,30000
+Hungary,41,31000
+Hungary,42,31000
+Hungary,43,30000
+Hungary,44,29000
+Hungary,45,23000
+Hungary,46,20000
+Hungary,47,18000
+Hungary,48,17000
+Hungary,49,16000
+Hungary,50,14000
+Hungary,51,13000
+Hungary,52,11000
+Hungary,53,9000
+Hungary,54,7900
+Hungary,55,7000
+Hungary,56,5900
+Hungary,57,5500
+Hungary,58,5300
+Hungary,59,4900
+Hungary,60,4300
+Hungary,61,4300
+Hungary,62,4000
+Hungary,63,4100
+Hungary,64,4000
+Hungary,65,33000
+Belarus,18,72000
+Belarus,19,85000
+Belarus,20,80000
+Belarus,21,82000
+Belarus,22,86000
+Belarus,23,91000
+Belarus,24,93000
+Belarus,25,130000
+Belarus,26,110000
+Belarus,27,88000
+Belarus,28,91000
+Belarus,29,95000
+Belarus,30,95000
+Belarus,31,93000
+Belarus,32,89000
+Belarus,33,85000
+Belarus,34,80000
+Belarus,35,74000
+Belarus,36,67000
+Belarus,37,58000
+Belarus,38,52000
+Belarus,39,46000
+Belarus,40,40000
+Belarus,41,35000
+Belarus,42,31000
+Belarus,43,27000
+Belarus,44,24000
+Belarus,45,21000
+Belarus,46,19000
+Belarus,47,17000
+Belarus,48,15000
+Belarus,49,13000
+Belarus,50,11000
+Belarus,51,10000
+Belarus,52,8800
+Belarus,53,7900
+Belarus,54,7000
+Belarus,55,6400
+Belarus,56,5900
+Belarus,57,5200
+Belarus,58,4600
+Belarus,59,4000
+Belarus,60,3300
+Belarus,61,2700
+Belarus,62,2300
+Belarus,63,1900
+Belarus,64,1600
+Belarus,65,15000
+Estonia,18,15000
+Estonia,19,16000
+Estonia,20,14000
+Estonia,21,13000
+Estonia,22,13000
+Estonia,23,14000
+Estonia,24,13000
+Estonia,25,14000
+Estonia,26,14000
+Estonia,27,12000
+Estonia,28,14000
+Estonia,29,14000
+Estonia,30,12000
+Estonia,31,12000
+Estonia,32,10000
+Estonia,33,9400
+Estonia,34,8700
+Estonia,35,1000
+Estonia,36,7400
+Estonia,37,6900
+Estonia,38,6700
+Estonia,39,1000
+Estonia,40,5300
+Estonia,41,1000
+Estonia,42,4500
+Estonia,43,4200
+Estonia,44,3800
+Estonia,45,3500
+Estonia,46,3200
+Estonia,47,2800
+Estonia,48,2800
+Estonia,49,1000
+Estonia,50,2200
+Estonia,51,1800
+Estonia,52,1700
+Estonia,53,1600
+Estonia,54,1400
+Estonia,55,1300
+Estonia,56,1200
+Estonia,57,1100
+Estonia,58,1000
+Estonia,59,1000
+Estonia,60,1000
+Estonia,61,1000
+Estonia,62,1000
+Estonia,63,1000
+Estonia,64,1000
+Estonia,65,4200
+Lithuania,18,29000
+Lithuania,19,33000
+Lithuania,20,31000
+Lithuania,21,31000
+Lithuania,22,30000
+Lithuania,23,29000
+Lithuania,24,26000
+Lithuania,25,26000
+Lithuania,26,25000
+Lithuania,27,22000
+Lithuania,28,23000
+Lithuania,29,20000
+Lithuania,30,16000
+Lithuania,31,15000
+Lithuania,32,15000
+Lithuania,33,13000
+Lithuania,34,12000
+Lithuania,35,11000
+Lithuania,36,9400
+Lithuania,37,8400
+Lithuania,38,8100
+Lithuania,39,7500
+Lithuania,40,6600
+Lithuania,41,6200
+Lithuania,42,5700
+Lithuania,43,5200
+Lithuania,44,4900
+Lithuania,45,4300
+Lithuania,46,4000
+Lithuania,47,3700
+Lithuania,48,3600
+Lithuania,49,3300
+Lithuania,50,2800
+Lithuania,51,2500
+Lithuania,52,2400
+Lithuania,53,2100
+Lithuania,54,1900
+Lithuania,55,1800
+Lithuania,56,1600
+Lithuania,57,1500
+Lithuania,58,1300
+Lithuania,59,1200
+Lithuania,60,1000
+Lithuania,61,1000
+Lithuania,62,1000
+Lithuania,63,1000
+Lithuania,64,1000
+Lithuania,65,6000
+Serbia,18,53000
+Serbia,19,69000
+Serbia,20,75000
+Serbia,21,81000
+Serbia,22,89000
+Serbia,23,1e+05
+Serbia,24,91000
+Serbia,25,97000
+Serbia,26,79000
+Serbia,27,69000
+Serbia,28,76000
+Serbia,29,67000
+Serbia,30,56000
+Serbia,31,55000
+Serbia,32,54000
+Serbia,33,49000
+Serbia,34,49000
+Serbia,35,47000
+Serbia,36,44000
+Serbia,37,42000
+Serbia,38,44000
+Serbia,39,41000
+Serbia,40,37000
+Serbia,41,35000
+Serbia,42,34000
+Serbia,43,32000
+Serbia,44,29000
+Serbia,45,26000
+Serbia,46,23000
+Serbia,47,22000
+Serbia,48,20000
+Serbia,49,18000
+Serbia,50,16000
+Serbia,51,14000
+Serbia,52,12000
+Serbia,53,12000
+Serbia,54,10000
+Serbia,55,9300
+Serbia,56,8200
+Serbia,57,7600
+Serbia,58,6900
+Serbia,59,6400
+Serbia,60,5500
+Serbia,61,4700
+Serbia,62,4600
+Serbia,63,4300
+Serbia,64,4100
+Serbia,65,33000
+Ireland,18,55000
+Ireland,19,63000
+Ireland,20,64000
+Ireland,21,69000
+Ireland,22,71000
+Ireland,23,68000
+Ireland,24,65000
+Ireland,25,68000
+Ireland,26,60000
+Ireland,27,55000
+Ireland,28,61000
+Ireland,29,56000
+Ireland,30,49000
+Ireland,31,48000
+Ireland,32,46000
+Ireland,33,45000
+Ireland,34,43000
+Ireland,35,42000
+Ireland,36,41000
+Ireland,37,39000
+Ireland,38,39000
+Ireland,39,37000
+Ireland,40,32000
+Ireland,41,29000
+Ireland,42,27000
+Ireland,43,25000
+Ireland,44,24000
+Ireland,45,22000
+Ireland,46,21000
+Ireland,47,19000
+Ireland,48,18000
+Ireland,49,17000
+Ireland,50,14000
+Ireland,51,13000
+Ireland,52,12000
+Ireland,53,11000
+Ireland,54,10000
+Ireland,55,9600
+Ireland,56,8500
+Ireland,57,7700
+Ireland,58,7400
+Ireland,59,6500
+Ireland,60,5400
+Ireland,61,4900
+Ireland,62,4300
+Ireland,63,3700
+Ireland,64,3300
+Ireland,65,32000
+Sweden,18,120000
+Sweden,19,130000
+Sweden,20,130000
+Sweden,21,130000
+Sweden,22,130000
+Sweden,23,130000
+Sweden,24,130000
+Sweden,25,150000
+Sweden,26,140000
+Sweden,27,130000
+Sweden,28,140000
+Sweden,29,130000
+Sweden,30,120000
+Sweden,31,110000
+Sweden,32,1e+05
+Sweden,33,1e+05
+Sweden,34,95000
+Sweden,35,89000
+Sweden,36,87000
+Sweden,37,84000
+Sweden,38,85000
+Sweden,39,84000
+Sweden,40,78000
+Sweden,41,76000
+Sweden,42,75000
+Sweden,43,75000
+Sweden,44,77000
+Sweden,45,76000
+Sweden,46,74000
+Sweden,47,72000
+Sweden,48,71000
+Sweden,49,66000
+Sweden,50,64000
+Sweden,51,65000
+Sweden,52,65000
+Sweden,53,61000
+Sweden,54,60000
+Sweden,55,55000
+Sweden,56,50000
+Sweden,57,46000
+Sweden,58,44000
+Sweden,59,42000
+Sweden,60,40000
+Sweden,61,37000
+Sweden,62,35000
+Sweden,63,34000
+Sweden,64,31000
+Sweden,65,310000
+Greece,18,80000
+Greece,19,99000
+Greece,20,1e+05
+Greece,21,110000
+Greece,22,120000
+Greece,23,130000
+Greece,24,120000
+Greece,25,120000
+Greece,26,1e+05
+Greece,27,93000
+Greece,28,1e+05
+Greece,29,95000
+Greece,30,80000
+Greece,31,78000
+Greece,32,73000
+Greece,33,73000
+Greece,34,72000
+Greece,35,69000
+Greece,36,69000
+Greece,37,66000
+Greece,38,71000
+Greece,39,68000
+Greece,40,60000
+Greece,41,59000
+Greece,42,57000
+Greece,43,56000
+Greece,44,53000
+Greece,45,49000
+Greece,46,45000
+Greece,47,42000
+Greece,48,42000
+Greece,49,40000
+Greece,50,34000
+Greece,51,31000
+Greece,52,28000
+Greece,53,25000
+Greece,54,22000
+Greece,55,19000
+Greece,56,16000
+Greece,57,15000
+Greece,58,15000
+Greece,59,13000
+Greece,60,11000
+Greece,61,9600
+Greece,62,8100
+Greece,63,7500
+Greece,64,6200
+Greece,65,66000
+Portugal,18,96000
+Portugal,19,130000
+Portugal,20,130000
+Portugal,21,140000
+Portugal,22,140000
+Portugal,23,150000
+Portugal,24,140000
+Portugal,25,140000
+Portugal,26,120000
+Portugal,27,110000
+Portugal,28,120000
+Portugal,29,110000
+Portugal,30,87000
+Portugal,31,83000
+Portugal,32,79000
+Portugal,33,76000
+Portugal,34,77000
+Portugal,35,74000
+Portugal,36,75000
+Portugal,37,72000
+Portugal,38,76000
+Portugal,39,73000
+Portugal,40,70000
+Portugal,41,71000
+Portugal,42,72000
+Portugal,43,70000
+Portugal,44,65000
+Portugal,45,60000
+Portugal,46,56000
+Portugal,47,51000
+Portugal,48,48000
+Portugal,49,43000
+Portugal,50,38000
+Portugal,51,35000
+Portugal,52,33000
+Portugal,53,30000
+Portugal,54,29000
+Portugal,55,25000
+Portugal,56,23000
+Portugal,57,21000
+Portugal,58,20000
+Portugal,59,18000
+Portugal,60,16000
+Portugal,61,14000
+Portugal,62,13000
+Portugal,63,12000
+Portugal,64,10000
+Portugal,65,88000
+United Kingdom,18,670000
+United Kingdom,19,760000
+United Kingdom,20,770000
+United Kingdom,21,840000
+United Kingdom,22,890000
+United Kingdom,23,880000
+United Kingdom,24,880000
+United Kingdom,25,940000
+United Kingdom,26,820000
+United Kingdom,27,770000
+United Kingdom,28,810000
+United Kingdom,29,750000
+United Kingdom,30,670000
+United Kingdom,31,640000
+United Kingdom,32,590000
+United Kingdom,33,570000
+United Kingdom,34,530000
+United Kingdom,35,5e+05
+United Kingdom,36,470000
+United Kingdom,37,440000
+United Kingdom,38,450000
+United Kingdom,39,420000
+United Kingdom,40,360000
+United Kingdom,41,320000
+United Kingdom,42,3e+05
+United Kingdom,43,3e+05
+United Kingdom,44,290000
+United Kingdom,45,280000
+United Kingdom,46,270000
+United Kingdom,47,270000
+United Kingdom,48,270000
+United Kingdom,49,250000
+United Kingdom,50,230000
+United Kingdom,51,210000
+United Kingdom,52,2e+05
+United Kingdom,53,190000
+United Kingdom,54,180000
+United Kingdom,55,160000
+United Kingdom,56,150000
+United Kingdom,57,130000
+United Kingdom,58,120000
+United Kingdom,59,110000
+United Kingdom,60,94000
+United Kingdom,61,82000
+United Kingdom,62,72000
+United Kingdom,63,62000
+United Kingdom,64,54000
+United Kingdom,65,510000
+Latvia,18,22000
+Latvia,19,24000
+Latvia,20,19000
+Latvia,21,18000
+Latvia,22,17000
+Latvia,23,18000
+Latvia,24,17000
+Latvia,25,20000
+Latvia,26,20000
+Latvia,27,17000
+Latvia,28,19000
+Latvia,29,18000
+Latvia,30,16000
+Latvia,31,15000
+Latvia,32,14000
+Latvia,33,13000
+Latvia,34,12000
+Latvia,35,11000
+Latvia,36,10000
+Latvia,37,9000
+Latvia,38,8600
+Latvia,39,7700
+Latvia,40,6800
+Latvia,41,6200
+Latvia,42,5900
+Latvia,43,5700
+Latvia,44,5300
+Latvia,45,4700
+Latvia,46,4400
+Latvia,47,4200
+Latvia,48,4000
+Latvia,49,3500
+Latvia,50,3100
+Latvia,51,2800
+Latvia,52,2700
+Latvia,53,2500
+Latvia,54,2200
+Latvia,55,2000
+Latvia,56,1800
+Latvia,57,1600
+Latvia,58,1600
+Latvia,59,1400
+Latvia,60,1200
+Latvia,61,1100
+Latvia,62,1000
+Latvia,63,1000
+Latvia,64,1000
+Latvia,65,6300
+Netherlands,18,210000
+Netherlands,19,250000
+Netherlands,20,240000
+Netherlands,21,220000
+Netherlands,22,220000
+Netherlands,23,220000
+Netherlands,24,210000
+Netherlands,25,230000
+Netherlands,26,210000
+Netherlands,27,190000
+Netherlands,28,2e+05
+Netherlands,29,180000
+Netherlands,30,160000
+Netherlands,31,150000
+Netherlands,32,130000
+Netherlands,33,130000
+Netherlands,34,120000
+Netherlands,35,110000
+Netherlands,36,1e+05
+Netherlands,37,1e+05
+Netherlands,38,1e+05
+Netherlands,39,98000
+Netherlands,40,89000
+Netherlands,41,87000
+Netherlands,42,84000
+Netherlands,43,83000
+Netherlands,44,84000
+Netherlands,45,82000
+Netherlands,46,85000
+Netherlands,47,85000
+Netherlands,48,86000
+Netherlands,49,84000
+Netherlands,50,75000
+Netherlands,51,68000
+Netherlands,52,64000
+Netherlands,53,62000
+Netherlands,54,58000
+Netherlands,55,53000
+Netherlands,56,48000
+Netherlands,57,44000
+Netherlands,58,40000
+Netherlands,59,36000
+Netherlands,60,32000
+Netherlands,61,28000
+Netherlands,62,25000
+Netherlands,63,22000
+Netherlands,64,20000
+Netherlands,65,170000
+Poland,18,410000
+Poland,19,430000
+Poland,20,360000
+Poland,21,330000
+Poland,22,310000
+Poland,23,290000
+Poland,24,270000
+Poland,25,280000
+Poland,26,240000
+Poland,27,210000
+Poland,28,210000
+Poland,29,190000
+Poland,30,160000
+Poland,31,150000
+Poland,32,130000
+Poland,33,130000
+Poland,34,120000
+Poland,35,110000
+Poland,36,1e+05
+Poland,37,91000
+Poland,38,88000
+Poland,39,86000
+Poland,40,74000
+Poland,41,70000
+Poland,42,65000
+Poland,43,58000
+Poland,44,51000
+Poland,45,45000
+Poland,46,38000
+Poland,47,33000
+Poland,48,29000
+Poland,49,25000
+Poland,50,20000
+Poland,51,17000
+Poland,52,16000
+Poland,53,14000
+Poland,54,13000
+Poland,55,11000
+Poland,56,9900
+Poland,57,9000
+Poland,58,8600
+Poland,59,8400
+Poland,60,7400
+Poland,61,6900
+Poland,62,6400
+Poland,63,6100
+Poland,64,5200
+Poland,65,62000
+Cyprus,18,13000
+Cyprus,19,17000
+Cyprus,20,21000
+Cyprus,21,26000
+Cyprus,22,27000
+Cyprus,23,27000
+Cyprus,24,26000
+Cyprus,25,28000
+Cyprus,26,22000
+Cyprus,27,19000
+Cyprus,28,20000
+Cyprus,29,18000
+Cyprus,30,15000
+Cyprus,31,15000
+Cyprus,32,14000
+Cyprus,33,14000
+Cyprus,34,13000
+Cyprus,35,12000
+Cyprus,36,12000
+Cyprus,37,11000
+Cyprus,38,12000
+Cyprus,39,11000
+Cyprus,40,9600
+Cyprus,41,9300
+Cyprus,42,8900
+Cyprus,43,8000
+Cyprus,44,7500
+Cyprus,45,6900
+Cyprus,46,6500
+Cyprus,47,6000
+Cyprus,48,6000
+Cyprus,49,5500
+Cyprus,50,4900
+Cyprus,51,4600
+Cyprus,52,4100
+Cyprus,53,3800
+Cyprus,54,3800
+Cyprus,55,3400
+Cyprus,56,3000
+Cyprus,57,2700
+Cyprus,58,2800
+Cyprus,59,2600
+Cyprus,60,2100
+Cyprus,61,1800
+Cyprus,62,1600
+Cyprus,63,1500
+Cyprus,64,1300
+Cyprus,65,12000
+Slovenia,18,18000
+Slovenia,19,20000
+Slovenia,20,19000
+Slovenia,21,21000
+Slovenia,22,22000
+Slovenia,23,23000
+Slovenia,24,20000
+Slovenia,25,19000
+Slovenia,26,17000
+Slovenia,27,15000
+Slovenia,28,17000
+Slovenia,29,15000
+Slovenia,30,13000
+Slovenia,31,13000
+Slovenia,32,11000
+Slovenia,33,11000
+Slovenia,34,10000
+Slovenia,35,9700
+Slovenia,36,9300
+Slovenia,37,9200
+Slovenia,38,9300
+Slovenia,39,8700
+Slovenia,40,7800
+Slovenia,41,7500
+Slovenia,42,7000
+Slovenia,43,6800
+Slovenia,44,6100
+Slovenia,45,5400
+Slovenia,46,5200
+Slovenia,47,4500
+Slovenia,48,4100
+Slovenia,49,3700
+Slovenia,50,3200
+Slovenia,51,2800
+Slovenia,52,2700
+Slovenia,53,2400
+Slovenia,54,2100
+Slovenia,55,1900
+Slovenia,56,1600
+Slovenia,57,1500
+Slovenia,58,1300
+Slovenia,59,1100
+Slovenia,60,1000
+Slovenia,61,1000
+Slovenia,62,1000
+Slovenia,63,1000
+Slovenia,64,1000
+Slovenia,65,6700
+Paraguay,18,50000
+Paraguay,19,63000
+Paraguay,20,63000
+Paraguay,21,67000
+Paraguay,22,69000
+Paraguay,23,71000
+Paraguay,24,67000
+Paraguay,25,65000
+Paraguay,26,58000
+Paraguay,27,50000
+Paraguay,28,52000
+Paraguay,29,45000
+Paraguay,30,36000
+Paraguay,31,33000
+Paraguay,32,32000
+Paraguay,33,27000
+Paraguay,34,25000
+Paraguay,35,24000
+Paraguay,36,22000
+Paraguay,37,20000
+Paraguay,38,20000
+Paraguay,39,18000
+Paraguay,40,15000
+Paraguay,41,13000
+Paraguay,42,12000
+Paraguay,43,11000
+Paraguay,44,9800
+Paraguay,45,8600
+Paraguay,46,8100
+Paraguay,47,7500
+Paraguay,48,7900
+Paraguay,49,7200
+Paraguay,50,6200
+Paraguay,51,5600
+Paraguay,52,5100
+Paraguay,53,5000
+Paraguay,54,4600
+Paraguay,55,4300
+Paraguay,56,4000
+Paraguay,57,3400
+Paraguay,58,3400
+Paraguay,59,3100
+Paraguay,60,2500
+Paraguay,61,2400
+Paraguay,62,2100
+Paraguay,63,1900
+Paraguay,64,1700
+Paraguay,65,14000
+Chile,18,190000
+Chile,19,250000
+Chile,20,270000
+Chile,21,310000
+Chile,22,330000
+Chile,23,370000
+Chile,24,370000
+Chile,25,390000
+Chile,26,340000
+Chile,27,3e+05
+Chile,28,350000
+Chile,29,310000
+Chile,30,250000
+Chile,31,230000
+Chile,32,210000
+Chile,33,190000
+Chile,34,170000
+Chile,35,160000
+Chile,36,150000
+Chile,37,150000
+Chile,38,140000
+Chile,39,130000
+Chile,40,110000
+Chile,41,1e+05
+Chile,42,97000
+Chile,43,96000
+Chile,44,91000
+Chile,45,84000
+Chile,46,75000
+Chile,47,70000
+Chile,48,67000
+Chile,49,59000
+Chile,50,53000
+Chile,51,51000
+Chile,52,45000
+Chile,53,44000
+Chile,54,41000
+Chile,55,36000
+Chile,56,34000
+Chile,57,30000
+Chile,58,29000
+Chile,59,25000
+Chile,60,22000
+Chile,61,20000
+Chile,62,18000
+Chile,63,16000
+Chile,64,14000
+Chile,65,120000
+Brazil,18,2100000
+Brazil,19,2800000
+Brazil,20,2800000
+Brazil,21,2800000
+Brazil,22,2800000
+Brazil,23,2900000
+Brazil,24,2900000
+Brazil,25,3e+06
+Brazil,26,2500000
+Brazil,27,2200000
+Brazil,28,2300000
+Brazil,29,2200000
+Brazil,30,1900000
+Brazil,31,1900000
+Brazil,32,1900000
+Brazil,33,1800000
+Brazil,34,1600000
+Brazil,35,1600000
+Brazil,36,1600000
+Brazil,37,1600000
+Brazil,38,1500000
+Brazil,39,1400000
+Brazil,40,1200000
+Brazil,41,1100000
+Brazil,42,1e+06
+Brazil,43,960000
+Brazil,44,870000
+Brazil,45,8e+05
+Brazil,46,760000
+Brazil,47,690000
+Brazil,48,680000
+Brazil,49,630000
+Brazil,50,570000
+Brazil,51,530000
+Brazil,52,5e+05
+Brazil,53,5e+05
+Brazil,54,470000
+Brazil,55,430000
+Brazil,56,4e+05
+Brazil,57,350000
+Brazil,58,340000
+Brazil,59,310000
+Brazil,60,270000
+Brazil,61,250000
+Brazil,62,220000
+Brazil,63,2e+05
+Brazil,64,180000
+Brazil,65,1300000
+Suriname,18,5200
+Suriname,19,5800
+Suriname,20,5500
+Suriname,21,5700
+Suriname,22,5200
+Suriname,23,4700
+Suriname,24,4200
+Suriname,25,4400
+Suriname,26,3800
+Suriname,27,3300
+Suriname,28,3300
+Suriname,29,3300
+Suriname,30,2800
+Suriname,31,2500
+Suriname,32,2400
+Suriname,33,2300
+Suriname,34,2100
+Suriname,35,1900
+Suriname,36,1800
+Suriname,37,1600
+Suriname,38,1600
+Suriname,39,1400
+Suriname,40,1200
+Suriname,41,1000
+Suriname,42,1000
+Suriname,43,1000
+Suriname,44,1000
+Suriname,45,1000
+Suriname,46,1000
+Suriname,47,1000
+Suriname,48,1000
+Suriname,49,1000
+Suriname,50,1000
+Suriname,51,1000
+Suriname,52,1000
+Suriname,53,1000
+Suriname,54,1000
+Suriname,55,1000
+Suriname,56,1000
+Suriname,57,1000
+Suriname,58,1000
+Suriname,59,1000
+Suriname,60,1000
+Suriname,61,1000
+Suriname,62,1000
+Suriname,63,1000
+Suriname,64,1000
+Suriname,65,1100
+Uruguay,18,35000
+Uruguay,19,49000
+Uruguay,20,51000
+Uruguay,21,55000
+Uruguay,22,59000
+Uruguay,23,60000
+Uruguay,24,59000
+Uruguay,25,60000
+Uruguay,26,50000
+Uruguay,27,42000
+Uruguay,28,47000
+Uruguay,29,42000
+Uruguay,30,35000
+Uruguay,31,33000
+Uruguay,32,33000
+Uruguay,33,29000
+Uruguay,34,27000
+Uruguay,35,25000
+Uruguay,36,24000
+Uruguay,37,23000
+Uruguay,38,23000
+Uruguay,39,22000
+Uruguay,40,20000
+Uruguay,41,20000
+Uruguay,42,19000
+Uruguay,43,18000
+Uruguay,44,17000
+Uruguay,45,15000
+Uruguay,46,14000
+Uruguay,47,13000
+Uruguay,48,13000
+Uruguay,49,12000
+Uruguay,50,11000
+Uruguay,51,10000
+Uruguay,52,9300
+Uruguay,53,9100
+Uruguay,54,9000
+Uruguay,55,8400
+Uruguay,56,7900
+Uruguay,57,7300
+Uruguay,58,7200
+Uruguay,59,6200
+Uruguay,60,5900
+Uruguay,61,5200
+Uruguay,62,4700
+Uruguay,63,4300
+Uruguay,64,3800
+Uruguay,65,32000
+Venezuela,18,88000
+Venezuela,19,110000
+Venezuela,20,110000
+Venezuela,21,110000
+Venezuela,22,130000
+Venezuela,23,140000
+Venezuela,24,150000
+Venezuela,25,140000
+Venezuela,26,130000
+Venezuela,27,120000
+Venezuela,28,140000
+Venezuela,29,130000
+Venezuela,30,110000
+Venezuela,31,1e+05
+Venezuela,32,110000
+Venezuela,33,99000
+Venezuela,34,98000
+Venezuela,35,95000
+Venezuela,36,93000
+Venezuela,37,89000
+Venezuela,38,95000
+Venezuela,39,90000
+Venezuela,40,78000
+Venezuela,41,75000
+Venezuela,42,69000
+Venezuela,43,66000
+Venezuela,44,62000
+Venezuela,45,57000
+Venezuela,46,55000
+Venezuela,47,51000
+Venezuela,48,54000
+Venezuela,49,50000
+Venezuela,50,46000
+Venezuela,51,44000
+Venezuela,52,40000
+Venezuela,53,40000
+Venezuela,54,38000
+Venezuela,55,35000
+Venezuela,56,33000
+Venezuela,57,30000
+Venezuela,58,31000
+Venezuela,59,28000
+Venezuela,60,24000
+Venezuela,61,21000
+Venezuela,62,20000
+Venezuela,63,19000
+Venezuela,64,17000
+Venezuela,65,130000
+French Guiana,18,3100
+French Guiana,19,3400
+French Guiana,20,2900
+French Guiana,21,3000
+French Guiana,22,2800
+French Guiana,23,2600
+French Guiana,24,2400
+French Guiana,25,2600
+French Guiana,26,2200
+French Guiana,27,1800
+French Guiana,28,1700
+French Guiana,29,1600
+French Guiana,30,1400
+French Guiana,31,1300
+French Guiana,32,1200
+French Guiana,33,1100
+French Guiana,34,1000
+French Guiana,35,1000
+French Guiana,36,1000
+French Guiana,37,1000
+French Guiana,38,1000
+French Guiana,39,1000
+French Guiana,40,1000
+French Guiana,41,1000
+French Guiana,42,1000
+French Guiana,43,1000
+French Guiana,44,1000
+French Guiana,45,1000
+French Guiana,46,1000
+French Guiana,47,1000
+French Guiana,48,1000
+French Guiana,49,1000
+French Guiana,50,1000
+French Guiana,51,1000
+French Guiana,52,1000
+French Guiana,53,1000
+French Guiana,54,1000
+French Guiana,55,1000
+French Guiana,56,1000
+French Guiana,57,1000
+French Guiana,58,1000
+French Guiana,59,1000
+French Guiana,60,1000
+French Guiana,61,1000
+French Guiana,62,1000
+French Guiana,63,1000
+French Guiana,64,1000
+French Guiana,65,1000
+Argentina,18,440000
+Argentina,19,6e+05
+Argentina,20,620000
+Argentina,21,680000
+Argentina,22,720000
+Argentina,23,720000
+Argentina,24,7e+05
+Argentina,25,720000
+Argentina,26,610000
+Argentina,27,540000
+Argentina,28,6e+05
+Argentina,29,520000
+Argentina,30,440000
+Argentina,31,420000
+Argentina,32,440000
+Argentina,33,370000
+Argentina,34,350000
+Argentina,35,330000
+Argentina,36,330000
+Argentina,37,320000
+Argentina,38,320000
+Argentina,39,310000
+Argentina,40,280000
+Argentina,41,270000
+Argentina,42,250000
+Argentina,43,230000
+Argentina,44,220000
+Argentina,45,190000
+Argentina,46,180000
+Argentina,47,170000
+Argentina,48,160000
+Argentina,49,150000
+Argentina,50,130000
+Argentina,51,120000
+Argentina,52,110000
+Argentina,53,110000
+Argentina,54,99000
+Argentina,55,91000
+Argentina,56,87000
+Argentina,57,79000
+Argentina,58,77000
+Argentina,59,70000
+Argentina,60,61000
+Argentina,61,55000
+Argentina,62,52000
+Argentina,63,47000
+Argentina,64,43000
+Argentina,65,390000
+Colombia,18,380000
+Colombia,19,520000
+Colombia,20,520000
+Colombia,21,550000
+Colombia,22,560000
+Colombia,23,590000
+Colombia,24,560000
+Colombia,25,530000
+Colombia,26,470000
+Colombia,27,410000
+Colombia,28,440000
+Colombia,29,390000
+Colombia,30,330000
+Colombia,31,3e+05
+Colombia,32,290000
+Colombia,33,270000
+Colombia,34,250000
+Colombia,35,230000
+Colombia,36,220000
+Colombia,37,2e+05
+Colombia,38,210000
+Colombia,39,190000
+Colombia,40,160000
+Colombia,41,140000
+Colombia,42,130000
+Colombia,43,120000
+Colombia,44,1e+05
+Colombia,45,91000
+Colombia,46,86000
+Colombia,47,79000
+Colombia,48,86000
+Colombia,49,80000
+Colombia,50,69000
+Colombia,51,63000
+Colombia,52,58000
+Colombia,53,57000
+Colombia,54,54000
+Colombia,55,49000
+Colombia,56,45000
+Colombia,57,39000
+Colombia,58,41000
+Colombia,59,36000
+Colombia,60,30000
+Colombia,61,27000
+Colombia,62,25000
+Colombia,63,22000
+Colombia,64,20000
+Colombia,65,190000
+Ecuador,18,160000
+Ecuador,19,210000
+Ecuador,20,2e+05
+Ecuador,21,210000
+Ecuador,22,210000
+Ecuador,23,210000
+Ecuador,24,180000
+Ecuador,25,170000
+Ecuador,26,150000
+Ecuador,27,120000
+Ecuador,28,130000
+Ecuador,29,110000
+Ecuador,30,99000
+Ecuador,31,93000
+Ecuador,32,90000
+Ecuador,33,79000
+Ecuador,34,75000
+Ecuador,35,64000
+Ecuador,36,62000
+Ecuador,37,57000
+Ecuador,38,58000
+Ecuador,39,54000
+Ecuador,40,46000
+Ecuador,41,43000
+Ecuador,42,37000
+Ecuador,43,34000
+Ecuador,44,31000
+Ecuador,45,27000
+Ecuador,46,26000
+Ecuador,47,23000
+Ecuador,48,23000
+Ecuador,49,21000
+Ecuador,50,18000
+Ecuador,51,16000
+Ecuador,52,15000
+Ecuador,53,14000
+Ecuador,54,14000
+Ecuador,55,12000
+Ecuador,56,11000
+Ecuador,57,9700
+Ecuador,58,9600
+Ecuador,59,8600
+Ecuador,60,7100
+Ecuador,61,6500
+Ecuador,62,6000
+Ecuador,63,5600
+Ecuador,64,5100
+Ecuador,65,42000
+Peru,18,220000
+Peru,19,280000
+Peru,20,290000
+Peru,21,290000
+Peru,22,3e+05
+Peru,23,3e+05
+Peru,24,280000
+Peru,25,250000
+Peru,26,220000
+Peru,27,190000
+Peru,28,2e+05
+Peru,29,170000
+Peru,30,150000
+Peru,31,140000
+Peru,32,130000
+Peru,33,110000
+Peru,34,1e+05
+Peru,35,86000
+Peru,36,85000
+Peru,37,75000
+Peru,38,81000
+Peru,39,72000
+Peru,40,61000
+Peru,41,56000
+Peru,42,51000
+Peru,43,49000
+Peru,44,46000
+Peru,45,39000
+Peru,46,35000
+Peru,47,32000
+Peru,48,34000
+Peru,49,30000
+Peru,50,26000
+Peru,51,23000
+Peru,52,21000
+Peru,53,20000
+Peru,54,19000
+Peru,55,16000
+Peru,56,15000
+Peru,57,13000
+Peru,58,14000
+Peru,59,12000
+Peru,60,9600
+Peru,61,8200
+Peru,62,7300
+Peru,63,6800
+Peru,64,6000
+Peru,65,59000
+Guyana,18,5000
+Guyana,19,6000
+Guyana,20,5700
+Guyana,21,6000
+Guyana,22,6000
+Guyana,23,5800
+Guyana,24,5900
+Guyana,25,5600
+Guyana,26,4600
+Guyana,27,3700
+Guyana,28,3600
+Guyana,29,3400
+Guyana,30,3000
+Guyana,31,2700
+Guyana,32,2500
+Guyana,33,2200
+Guyana,34,1900
+Guyana,35,1600
+Guyana,36,1600
+Guyana,37,1500
+Guyana,38,1600
+Guyana,39,1400
+Guyana,40,1200
+Guyana,41,1000
+Guyana,42,1000
+Guyana,43,1000
+Guyana,44,1000
+Guyana,45,1000
+Guyana,46,1000
+Guyana,47,1000
+Guyana,48,1000
+Guyana,49,1000
+Guyana,50,1000
+Guyana,51,1000
+Guyana,52,1000
+Guyana,53,1000
+Guyana,54,1000
+Guyana,55,1000
+Guyana,56,1000
+Guyana,57,1000
+Guyana,58,1000
+Guyana,59,1000
+Guyana,60,1000
+Guyana,61,1000
+Guyana,62,1000
+Guyana,63,1000
+Guyana,64,1000
+Guyana,65,1000
+Bolivia,18,50000
+Bolivia,19,60000
+Bolivia,20,60000
+Bolivia,21,60000
+Bolivia,22,58000
+Bolivia,23,57000
+Bolivia,24,53000
+Bolivia,25,48000
+Bolivia,26,40000
+Bolivia,27,34000
+Bolivia,28,34000
+Bolivia,29,30000
+Bolivia,30,24000
+Bolivia,31,22000
+Bolivia,32,19000
+Bolivia,33,17000
+Bolivia,34,14000
+Bolivia,35,12000
+Bolivia,36,11000
+Bolivia,37,9900
+Bolivia,38,10000
+Bolivia,39,9300
+Bolivia,40,7400
+Bolivia,41,6500
+Bolivia,42,5700
+Bolivia,43,5300
+Bolivia,44,4800
+Bolivia,45,4100
+Bolivia,46,3800
+Bolivia,47,3400
+Bolivia,48,3500
+Bolivia,49,3100
+Bolivia,50,2500
+Bolivia,51,2200
+Bolivia,52,2000
+Bolivia,53,1900
+Bolivia,54,1800
+Bolivia,55,1600
+Bolivia,56,1400
+Bolivia,57,1200
+Bolivia,58,1300
+Bolivia,59,1200
+Bolivia,60,1000
+Bolivia,61,1000
+Bolivia,62,1000
+Bolivia,63,1000
+Bolivia,64,1000
+Bolivia,65,8300
+Canada,18,250000
+Canada,19,350000
+Canada,20,380000
+Canada,21,430000
+Canada,22,470000
+Canada,23,540000
+Canada,24,530000
+Canada,25,550000
+Canada,26,510000
+Canada,27,460000
+Canada,28,520000
+Canada,29,470000
+Canada,30,390000
+Canada,31,360000
+Canada,32,340000
+Canada,33,330000
+Canada,34,310000
+Canada,35,290000
+Canada,36,270000
+Canada,37,260000
+Canada,38,260000
+Canada,39,240000
+Canada,40,210000
+Canada,41,2e+05
+Canada,42,190000
+Canada,43,190000
+Canada,44,180000
+Canada,45,160000
+Canada,46,150000
+Canada,47,150000
+Canada,48,150000
+Canada,49,140000
+Canada,50,120000
+Canada,51,110000
+Canada,52,110000
+Canada,53,1e+05
+Canada,54,1e+05
+Canada,55,93000
+Canada,56,86000
+Canada,57,79000
+Canada,58,79000
+Canada,59,71000
+Canada,60,60000
+Canada,61,55000
+Canada,62,49000
+Canada,63,45000
+Canada,64,41000
+Canada,65,370000
+United States,18,2600000
+United States,19,3300000
+United States,20,3500000
+United States,21,3900000
+United States,22,4300000
+United States,23,4800000
+United States,24,4900000
+United States,25,5400000
+United States,26,4900000
+United States,27,4300000
+United States,28,4700000
+United States,29,4200000
+United States,30,3600000
+United States,31,3400000
+United States,32,3200000
+United States,33,3100000
+United States,34,2900000
+United States,35,2700000
+United States,36,2600000
+United States,37,2400000
+United States,38,2500000
+United States,39,2300000
+United States,40,2e+06
+United States,41,1900000
+United States,42,1800000
+United States,43,1700000
+United States,44,1600000
+United States,45,1500000
+United States,46,1400000
+United States,47,1400000
+United States,48,1500000
+United States,49,1400000
+United States,50,1200000
+United States,51,1100000
+United States,52,1e+06
+United States,53,970000
+United States,54,950000
+United States,55,890000
+United States,56,810000
+United States,57,750000
+United States,58,730000
+United States,59,670000
+United States,60,590000
+United States,61,540000
+United States,62,5e+05
+United States,63,460000
+United States,64,410000
+United States,65,3700000
+India,18,4e+06
+India,19,5200000
+India,20,5400000
+India,21,5300000
+India,22,5100000
+India,23,4800000
+India,24,4100000
+India,25,4100000
+India,26,3300000
+India,27,2500000
+India,28,2300000
+India,29,1900000
+India,30,1500000
+India,31,1300000
+India,32,1400000
+India,33,920000
+India,34,780000
+India,35,650000
+India,36,590000
+India,37,480000
+India,38,520000
+India,39,470000
+India,40,4e+05
+India,41,360000
+India,42,340000
+India,43,340000
+India,44,310000
+India,45,250000
+India,46,250000
+India,47,220000
+India,48,2e+05
+India,49,190000
+India,50,160000
+India,51,130000
+India,52,110000
+India,53,1e+05
+India,54,92000
+India,55,74000
+India,56,63000
+India,57,51000
+India,58,51000
+India,59,43000
+India,60,34000
+India,61,29000
+India,62,27000
+India,63,24000
+India,64,21000
+India,65,380000
+Vietnam,18,4e+05
+Vietnam,19,450000
+Vietnam,20,4e+05
+Vietnam,21,4e+05
+Vietnam,22,380000
+Vietnam,23,360000
+Vietnam,24,290000
+Vietnam,25,240000
+Vietnam,26,190000
+Vietnam,27,150000
+Vietnam,28,150000
+Vietnam,29,110000
+Vietnam,30,82000
+Vietnam,31,65000
+Vietnam,32,51000
+Vietnam,33,40000
+Vietnam,34,37000
+Vietnam,35,33000
+Vietnam,36,28000
+Vietnam,37,24000
+Vietnam,38,25000
+Vietnam,39,23000
+Vietnam,40,18000
+Vietnam,41,16000
+Vietnam,42,16000
+Vietnam,43,14000
+Vietnam,44,12000
+Vietnam,45,11000
+Vietnam,46,9400
+Vietnam,47,8100
+Vietnam,48,8100
+Vietnam,49,7300
+Vietnam,50,5500
+Vietnam,51,4400
+Vietnam,52,3600
+Vietnam,53,3400
+Vietnam,54,3000
+Vietnam,55,2700
+Vietnam,56,2400
+Vietnam,57,2000
+Vietnam,58,2200
+Vietnam,59,1900
+Vietnam,60,1500
+Vietnam,61,1300
+Vietnam,62,1100
+Vietnam,63,1000
+Vietnam,64,1000
+Vietnam,65,20000
+Taiwan,18,240000
+Taiwan,19,290000
+Taiwan,20,3e+05
+Taiwan,21,330000
+Taiwan,22,340000
+Taiwan,23,350000
+Taiwan,24,330000
+Taiwan,25,310000
+Taiwan,26,290000
+Taiwan,27,260000
+Taiwan,28,290000
+Taiwan,29,260000
+Taiwan,30,230000
+Taiwan,31,2e+05
+Taiwan,32,170000
+Taiwan,33,170000
+Taiwan,34,170000
+Taiwan,35,150000
+Taiwan,36,150000
+Taiwan,37,140000
+Taiwan,38,140000
+Taiwan,39,120000
+Taiwan,40,110000
+Taiwan,41,94000
+Taiwan,42,96000
+Taiwan,43,81000
+Taiwan,44,71000
+Taiwan,45,65000
+Taiwan,46,60000
+Taiwan,47,57000
+Taiwan,48,57000
+Taiwan,49,51000
+Taiwan,50,45000
+Taiwan,51,40000
+Taiwan,52,35000
+Taiwan,53,31000
+Taiwan,54,26000
+Taiwan,55,22000
+Taiwan,56,18000
+Taiwan,57,15000
+Taiwan,58,13000
+Taiwan,59,10000
+Taiwan,60,8500
+Taiwan,61,6700
+Taiwan,62,5700
+Taiwan,63,5100
+Taiwan,64,4300
+Taiwan,65,56000
+Sri Lanka,18,45000
+Sri Lanka,19,56000
+Sri Lanka,20,59000
+Sri Lanka,21,63000
+Sri Lanka,22,62000
+Sri Lanka,23,59000
+Sri Lanka,24,53000
+Sri Lanka,25,51000
+Sri Lanka,26,43000
+Sri Lanka,27,36000
+Sri Lanka,28,32000
+Sri Lanka,29,27000
+Sri Lanka,30,22000
+Sri Lanka,31,18000
+Sri Lanka,32,16000
+Sri Lanka,33,13000
+Sri Lanka,34,12000
+Sri Lanka,35,9300
+Sri Lanka,36,8200
+Sri Lanka,37,7400
+Sri Lanka,38,7200
+Sri Lanka,39,6400
+Sri Lanka,40,5700
+Sri Lanka,41,5200
+Sri Lanka,42,5000
+Sri Lanka,43,4700
+Sri Lanka,44,4600
+Sri Lanka,45,4000
+Sri Lanka,46,4100
+Sri Lanka,47,4000
+Sri Lanka,48,3600
+Sri Lanka,49,3300
+Sri Lanka,50,2900
+Sri Lanka,51,2600
+Sri Lanka,52,2200
+Sri Lanka,53,2100
+Sri Lanka,54,1900
+Sri Lanka,55,1600
+Sri Lanka,56,1300
+Sri Lanka,57,1200
+Sri Lanka,58,1000
+Sri Lanka,59,1000
+Sri Lanka,60,1000
+Sri Lanka,61,1000
+Sri Lanka,62,1000
+Sri Lanka,63,1000
+Sri Lanka,64,1000
+Sri Lanka,65,5500
+Brunei,18,4500
+Brunei,19,5900
+Brunei,20,5900
+Brunei,21,7000
+Brunei,22,8700
+Brunei,23,10000
+Brunei,24,11000
+Brunei,25,12000
+Brunei,26,10000
+Brunei,27,8700
+Brunei,28,9900
+Brunei,29,8900
+Brunei,30,7500
+Brunei,31,7100
+Brunei,32,6500
+Brunei,33,6200
+Brunei,34,5600
+Brunei,35,5000
+Brunei,36,4700
+Brunei,37,4400
+Brunei,38,4800
+Brunei,39,4400
+Brunei,40,3400
+Brunei,41,3200
+Brunei,42,2800
+Brunei,43,2600
+Brunei,44,2400
+Brunei,45,2100
+Brunei,46,1900
+Brunei,47,1800
+Brunei,48,1800
+Brunei,49,1600
+Brunei,50,1400
+Brunei,51,1200
+Brunei,52,1000
+Brunei,53,1000
+Brunei,54,1000
+Brunei,55,1000
+Brunei,56,1000
+Brunei,57,1000
+Brunei,58,1000
+Brunei,59,1000
+Brunei,60,1000
+Brunei,61,1000
+Brunei,62,1000
+Brunei,63,1000
+Brunei,64,1000
+Brunei,65,3300
+Pakistan,18,3e+05
+Pakistan,19,390000
+Pakistan,20,410000
+Pakistan,21,4e+05
+Pakistan,22,390000
+Pakistan,23,360000
+Pakistan,24,330000
+Pakistan,25,320000
+Pakistan,26,280000
+Pakistan,27,210000
+Pakistan,28,210000
+Pakistan,29,190000
+Pakistan,30,140000
+Pakistan,31,120000
+Pakistan,32,120000
+Pakistan,33,88000
+Pakistan,34,76000
+Pakistan,35,57000
+Pakistan,36,52000
+Pakistan,37,44000
+Pakistan,38,50000
+Pakistan,39,47000
+Pakistan,40,32000
+Pakistan,41,28000
+Pakistan,42,25000
+Pakistan,43,26000
+Pakistan,44,23000
+Pakistan,45,18000
+Pakistan,46,18000
+Pakistan,47,16000
+Pakistan,48,18000
+Pakistan,49,17000
+Pakistan,50,13000
+Pakistan,51,11000
+Pakistan,52,9200
+Pakistan,53,11000
+Pakistan,54,9900
+Pakistan,55,7000
+Pakistan,56,6400
+Pakistan,57,5200
+Pakistan,58,5800
+Pakistan,59,5300
+Pakistan,60,3800
+Pakistan,61,3400
+Pakistan,62,3000
+Pakistan,63,2800
+Pakistan,64,2500
+Pakistan,65,31000
+Kuwait,18,19000
+Kuwait,19,31000
+Kuwait,20,30000
+Kuwait,21,31000
+Kuwait,22,36000
+Kuwait,23,48000
+Kuwait,24,60000
+Kuwait,25,110000
+Kuwait,26,1e+05
+Kuwait,27,83000
+Kuwait,28,97000
+Kuwait,29,110000
+Kuwait,30,94000
+Kuwait,31,92000
+Kuwait,32,86000
+Kuwait,33,81000
+Kuwait,34,78000
+Kuwait,35,69000
+Kuwait,36,63000
+Kuwait,37,57000
+Kuwait,38,56000
+Kuwait,39,52000
+Kuwait,40,39000
+Kuwait,41,34000
+Kuwait,42,30000
+Kuwait,43,27000
+Kuwait,44,24000
+Kuwait,45,20000
+Kuwait,46,18000
+Kuwait,47,16000
+Kuwait,48,15000
+Kuwait,49,15000
+Kuwait,50,11000
+Kuwait,51,9200
+Kuwait,52,8500
+Kuwait,53,8000
+Kuwait,54,7000
+Kuwait,55,5700
+Kuwait,56,4900
+Kuwait,57,4300
+Kuwait,58,4400
+Kuwait,59,4000
+Kuwait,60,2800
+Kuwait,61,2400
+Kuwait,62,2100
+Kuwait,63,1900
+Kuwait,64,1700
+Kuwait,65,14000
+Qatar,18,11000
+Qatar,19,17000
+Qatar,20,17000
+Qatar,21,20000
+Qatar,22,24000
+Qatar,23,31000
+Qatar,24,37000
+Qatar,25,56000
+Qatar,26,51000
+Qatar,27,44000
+Qatar,28,49000
+Qatar,29,49000
+Qatar,30,43000
+Qatar,31,40000
+Qatar,32,39000
+Qatar,33,35000
+Qatar,34,32000
+Qatar,35,28000
+Qatar,36,25000
+Qatar,37,23000
+Qatar,38,22000
+Qatar,39,21000
+Qatar,40,15000
+Qatar,41,13000
+Qatar,42,12000
+Qatar,43,10000
+Qatar,44,9100
+Qatar,45,7500
+Qatar,46,6600
+Qatar,47,5900
+Qatar,48,5800
+Qatar,49,5100
+Qatar,50,4000
+Qatar,51,3300
+Qatar,52,2900
+Qatar,53,2600
+Qatar,54,2400
+Qatar,55,2000
+Qatar,56,1700
+Qatar,57,1400
+Qatar,58,1500
+Qatar,59,1400
+Qatar,60,1000
+Qatar,61,1000
+Qatar,62,1000
+Qatar,63,1000
+Qatar,64,1000
+Qatar,65,9200
+Malaysia,18,360000
+Malaysia,19,440000
+Malaysia,20,470000
+Malaysia,21,540000
+Malaysia,22,560000
+Malaysia,23,570000
+Malaysia,24,550000
+Malaysia,25,570000
+Malaysia,26,490000
+Malaysia,27,420000
+Malaysia,28,460000
+Malaysia,29,390000
+Malaysia,30,340000
+Malaysia,31,310000
+Malaysia,32,290000
+Malaysia,33,270000
+Malaysia,34,250000
+Malaysia,35,210000
+Malaysia,36,2e+05
+Malaysia,37,190000
+Malaysia,38,190000
+Malaysia,39,170000
+Malaysia,40,140000
+Malaysia,41,130000
+Malaysia,42,120000
+Malaysia,43,110000
+Malaysia,44,110000
+Malaysia,45,94000
+Malaysia,46,88000
+Malaysia,47,80000
+Malaysia,48,78000
+Malaysia,49,70000
+Malaysia,50,63000
+Malaysia,51,58000
+Malaysia,52,51000
+Malaysia,53,47000
+Malaysia,54,42000
+Malaysia,55,38000
+Malaysia,56,34000
+Malaysia,57,29000
+Malaysia,58,28000
+Malaysia,59,23000
+Malaysia,60,19000
+Malaysia,61,18000
+Malaysia,62,15000
+Malaysia,63,12000
+Malaysia,64,9600
+Malaysia,65,96000
+Japan,18,450000
+Japan,19,690000
+Japan,20,960000
+Japan,21,1200000
+Japan,22,1200000
+Japan,23,1200000
+Japan,24,1100000
+Japan,25,1100000
+Japan,26,1e+06
+Japan,27,930000
+Japan,28,920000
+Japan,29,890000
+Japan,30,860000
+Japan,31,820000
+Japan,32,8e+05
+Japan,33,760000
+Japan,34,740000
+Japan,35,690000
+Japan,36,650000
+Japan,37,6e+05
+Japan,38,570000
+Japan,39,550000
+Japan,40,510000
+Japan,41,490000
+Japan,42,460000
+Japan,43,450000
+Japan,44,430000
+Japan,45,410000
+Japan,46,390000
+Japan,47,350000
+Japan,48,330000
+Japan,49,3e+05
+Japan,50,280000
+Japan,51,260000
+Japan,52,220000
+Japan,53,2e+05
+Japan,54,190000
+Japan,55,160000
+Japan,56,150000
+Japan,57,120000
+Japan,58,110000
+Japan,59,93000
+Japan,60,79000
+Japan,61,62000
+Japan,62,52000
+Japan,63,43000
+Japan,64,36000
+Japan,65,190000
+United Arab Emirates,18,40000
+United Arab Emirates,19,60000
+United Arab Emirates,20,66000
+United Arab Emirates,21,80000
+United Arab Emirates,22,94000
+United Arab Emirates,23,120000
+United Arab Emirates,24,140000
+United Arab Emirates,25,2e+05
+United Arab Emirates,26,190000
+United Arab Emirates,27,170000
+United Arab Emirates,28,190000
+United Arab Emirates,29,2e+05
+United Arab Emirates,30,170000
+United Arab Emirates,31,160000
+United Arab Emirates,32,150000
+United Arab Emirates,33,140000
+United Arab Emirates,34,130000
+United Arab Emirates,35,110000
+United Arab Emirates,36,1e+05
+United Arab Emirates,37,92000
+United Arab Emirates,38,91000
+United Arab Emirates,39,82000
+United Arab Emirates,40,61000
+United Arab Emirates,41,54000
+United Arab Emirates,42,46000
+United Arab Emirates,43,42000
+United Arab Emirates,44,36000
+United Arab Emirates,45,30000
+United Arab Emirates,46,27000
+United Arab Emirates,47,24000
+United Arab Emirates,48,24000
+United Arab Emirates,49,20000
+United Arab Emirates,50,15000
+United Arab Emirates,51,13000
+United Arab Emirates,52,11000
+United Arab Emirates,53,11000
+United Arab Emirates,54,9400
+United Arab Emirates,55,7600
+United Arab Emirates,56,6700
+United Arab Emirates,57,5600
+United Arab Emirates,58,6100
+United Arab Emirates,59,5400
+United Arab Emirates,60,3700
+United Arab Emirates,61,3200
+United Arab Emirates,62,2700
+United Arab Emirates,63,2500
+United Arab Emirates,64,2200
+United Arab Emirates,65,33000
+Macau,18,3200
+Macau,19,4200
+Macau,20,4200
+Macau,21,5000
+Macau,22,5700
+Macau,23,6600
+Macau,24,7200
+Macau,25,7800
+Macau,26,7800
+Macau,27,7400
+Macau,28,8300
+Macau,29,7700
+Macau,30,7500
+Macau,31,6400
+Macau,32,5600
+Macau,33,5000
+Macau,34,4100
+Macau,35,3600
+Macau,36,3100
+Macau,37,2700
+Macau,38,2700
+Macau,39,2300
+Macau,40,1700
+Macau,41,1500
+Macau,42,1300
+Macau,43,1300
+Macau,44,1100
+Macau,45,1000
+Macau,46,1000
+Macau,47,1000
+Macau,48,1000
+Macau,49,1000
+Macau,50,1000
+Macau,51,1000
+Macau,52,1000
+Macau,53,1000
+Macau,54,1000
+Macau,55,1000
+Macau,56,1000
+Macau,57,1000
+Macau,58,1000
+Macau,59,1000
+Macau,60,1000
+Macau,61,1000
+Macau,62,1000
+Macau,63,1000
+Macau,64,1000
+Macau,65,2500
+Kyrgyzstan,18,52000
+Kyrgyzstan,19,53000
+Kyrgyzstan,20,52000
+Kyrgyzstan,21,58000
+Kyrgyzstan,22,65000
+Kyrgyzstan,23,78000
+Kyrgyzstan,24,86000
+Kyrgyzstan,25,130000
+Kyrgyzstan,26,1e+05
+Kyrgyzstan,27,84000
+Kyrgyzstan,28,82000
+Kyrgyzstan,29,81000
+Kyrgyzstan,30,77000
+Kyrgyzstan,31,73000
+Kyrgyzstan,32,69000
+Kyrgyzstan,33,61000
+Kyrgyzstan,34,54000
+Kyrgyzstan,35,47000
+Kyrgyzstan,36,41000
+Kyrgyzstan,37,36000
+Kyrgyzstan,38,31000
+Kyrgyzstan,39,27000
+Kyrgyzstan,40,23000
+Kyrgyzstan,41,20000
+Kyrgyzstan,42,18000
+Kyrgyzstan,43,16000
+Kyrgyzstan,44,14000
+Kyrgyzstan,45,12000
+Kyrgyzstan,46,11000
+Kyrgyzstan,47,9700
+Kyrgyzstan,48,8900
+Kyrgyzstan,49,8000
+Kyrgyzstan,50,7000
+Kyrgyzstan,51,6300
+Kyrgyzstan,52,5500
+Kyrgyzstan,53,5100
+Kyrgyzstan,54,4400
+Kyrgyzstan,55,4100
+Kyrgyzstan,56,3600
+Kyrgyzstan,57,3200
+Kyrgyzstan,58,3000
+Kyrgyzstan,59,2600
+Kyrgyzstan,60,2200
+Kyrgyzstan,61,1800
+Kyrgyzstan,62,1500
+Kyrgyzstan,63,1300
+Kyrgyzstan,64,1000
+Kyrgyzstan,65,11000
+Philippines,18,510000
+Philippines,19,630000
+Philippines,20,620000
+Philippines,21,630000
+Philippines,22,590000
+Philippines,23,570000
+Philippines,24,5e+05
+Philippines,25,460000
+Philippines,26,410000
+Philippines,27,350000
+Philippines,28,410000
+Philippines,29,330000
+Philippines,30,240000
+Philippines,31,220000
+Philippines,32,2e+05
+Philippines,33,180000
+Philippines,34,160000
+Philippines,35,140000
+Philippines,36,130000
+Philippines,37,120000
+Philippines,38,130000
+Philippines,39,110000
+Philippines,40,89000
+Philippines,41,78000
+Philippines,42,71000
+Philippines,43,63000
+Philippines,44,55000
+Philippines,45,47000
+Philippines,46,45000
+Philippines,47,41000
+Philippines,48,41000
+Philippines,49,39000
+Philippines,50,32000
+Philippines,51,28000
+Philippines,52,25000
+Philippines,53,25000
+Philippines,54,23000
+Philippines,55,20000
+Philippines,56,19000
+Philippines,57,17000
+Philippines,58,18000
+Philippines,59,15000
+Philippines,60,13000
+Philippines,61,11000
+Philippines,62,11000
+Philippines,63,10000
+Philippines,64,8800
+Philippines,65,110000
+Cambodia,18,35000
+Cambodia,19,44000
+Cambodia,20,38000
+Cambodia,21,35000
+Cambodia,22,33000
+Cambodia,23,35000
+Cambodia,24,34000
+Cambodia,25,35000
+Cambodia,26,29000
+Cambodia,27,21000
+Cambodia,28,23000
+Cambodia,29,20000
+Cambodia,30,14000
+Cambodia,31,12000
+Cambodia,32,9300
+Cambodia,33,7900
+Cambodia,34,7100
+Cambodia,35,5500
+Cambodia,36,5300
+Cambodia,37,4700
+Cambodia,38,5000
+Cambodia,39,4700
+Cambodia,40,2400
+Cambodia,41,1300
+Cambodia,42,1200
+Cambodia,43,1300
+Cambodia,44,1400
+Cambodia,45,1000
+Cambodia,46,1000
+Cambodia,47,1000
+Cambodia,48,1100
+Cambodia,49,1100
+Cambodia,50,1000
+Cambodia,51,1000
+Cambodia,52,1000
+Cambodia,53,1000
+Cambodia,54,1000
+Cambodia,55,1000
+Cambodia,56,1000
+Cambodia,57,1000
+Cambodia,58,1000
+Cambodia,59,1000
+Cambodia,60,1000
+Cambodia,61,1000
+Cambodia,62,1000
+Cambodia,63,1000
+Cambodia,64,1000
+Cambodia,65,2600
+Azerbaijan,18,56000
+Azerbaijan,19,69000
+Azerbaijan,20,70000
+Azerbaijan,21,77000
+Azerbaijan,22,89000
+Azerbaijan,23,110000
+Azerbaijan,24,130000
+Azerbaijan,25,190000
+Azerbaijan,26,150000
+Azerbaijan,27,130000
+Azerbaijan,28,140000
+Azerbaijan,29,130000
+Azerbaijan,30,120000
+Azerbaijan,31,120000
+Azerbaijan,32,110000
+Azerbaijan,33,95000
+Azerbaijan,34,84000
+Azerbaijan,35,74000
+Azerbaijan,36,65000
+Azerbaijan,37,57000
+Azerbaijan,38,54000
+Azerbaijan,39,46000
+Azerbaijan,40,38000
+Azerbaijan,41,33000
+Azerbaijan,42,30000
+Azerbaijan,43,26000
+Azerbaijan,44,23000
+Azerbaijan,45,20000
+Azerbaijan,46,17000
+Azerbaijan,47,15000
+Azerbaijan,48,15000
+Azerbaijan,49,14000
+Azerbaijan,50,12000
+Azerbaijan,51,11000
+Azerbaijan,52,10000
+Azerbaijan,53,10000
+Azerbaijan,54,9400
+Azerbaijan,55,8900
+Azerbaijan,56,8500
+Azerbaijan,57,7700
+Azerbaijan,58,7400
+Azerbaijan,59,6600
+Azerbaijan,60,5600
+Azerbaijan,61,4800
+Azerbaijan,62,4100
+Azerbaijan,63,3600
+Azerbaijan,64,2900
+Azerbaijan,65,25000
+Indonesia,18,2900000
+Indonesia,19,3600000
+Indonesia,20,3200000
+Indonesia,21,3100000
+Indonesia,22,3200000
+Indonesia,23,3300000
+Indonesia,24,3e+06
+Indonesia,25,3e+06
+Indonesia,26,2500000
+Indonesia,27,2e+06
+Indonesia,28,2e+06
+Indonesia,29,1800000
+Indonesia,30,1500000
+Indonesia,31,1400000
+Indonesia,32,1800000
+Indonesia,33,1100000
+Indonesia,34,1e+06
+Indonesia,35,890000
+Indonesia,36,870000
+Indonesia,37,780000
+Indonesia,38,820000
+Indonesia,39,750000
+Indonesia,40,580000
+Indonesia,41,530000
+Indonesia,42,490000
+Indonesia,43,450000
+Indonesia,44,390000
+Indonesia,45,340000
+Indonesia,46,330000
+Indonesia,47,290000
+Indonesia,48,3e+05
+Indonesia,49,270000
+Indonesia,50,220000
+Indonesia,51,190000
+Indonesia,52,160000
+Indonesia,53,160000
+Indonesia,54,130000
+Indonesia,55,110000
+Indonesia,56,94000
+Indonesia,57,76000
+Indonesia,58,74000
+Indonesia,59,63000
+Indonesia,60,47000
+Indonesia,61,37000
+Indonesia,62,31000
+Indonesia,63,29000
+Indonesia,64,26000
+Indonesia,65,880000
+Armenia,18,29000
+Armenia,19,28000
+Armenia,20,26000
+Armenia,21,28000
+Armenia,22,28000
+Armenia,23,28000
+Armenia,24,27000
+Armenia,25,32000
+Armenia,26,28000
+Armenia,27,25000
+Armenia,28,26000
+Armenia,29,23000
+Armenia,30,19000
+Armenia,31,18000
+Armenia,32,18000
+Armenia,33,16000
+Armenia,34,15000
+Armenia,35,14000
+Armenia,36,13000
+Armenia,37,12000
+Armenia,38,12000
+Armenia,39,11000
+Armenia,40,9200
+Armenia,41,8600
+Armenia,42,7700
+Armenia,43,7100
+Armenia,44,6300
+Armenia,45,5700
+Armenia,46,5100
+Armenia,47,4700
+Armenia,48,4400
+Armenia,49,3800
+Armenia,50,3300
+Armenia,51,3000
+Armenia,52,2900
+Armenia,53,2900
+Armenia,54,2600
+Armenia,55,2600
+Armenia,56,2400
+Armenia,57,2400
+Armenia,58,2200
+Armenia,59,2100
+Armenia,60,1800
+Armenia,61,1600
+Armenia,62,1400
+Armenia,63,1300
+Armenia,64,1100
+Armenia,65,10000
+Saudi Arabia,18,180000
+Saudi Arabia,19,340000
+Saudi Arabia,20,320000
+Saudi Arabia,21,290000
+Saudi Arabia,22,290000
+Saudi Arabia,23,360000
+Saudi Arabia,24,440000
+Saudi Arabia,25,1e+06
+Saudi Arabia,26,920000
+Saudi Arabia,27,650000
+Saudi Arabia,28,780000
+Saudi Arabia,29,850000
+Saudi Arabia,30,730000
+Saudi Arabia,31,670000
+Saudi Arabia,32,590000
+Saudi Arabia,33,520000
+Saudi Arabia,34,460000
+Saudi Arabia,35,370000
+Saudi Arabia,36,340000
+Saudi Arabia,37,280000
+Saudi Arabia,38,250000
+Saudi Arabia,39,230000
+Saudi Arabia,40,150000
+Saudi Arabia,41,130000
+Saudi Arabia,42,110000
+Saudi Arabia,43,93000
+Saudi Arabia,44,81000
+Saudi Arabia,45,62000
+Saudi Arabia,46,54000
+Saudi Arabia,47,46000
+Saudi Arabia,48,49000
+Saudi Arabia,49,48000
+Saudi Arabia,50,32000
+Saudi Arabia,51,27000
+Saudi Arabia,52,25000
+Saudi Arabia,53,24000
+Saudi Arabia,54,21000
+Saudi Arabia,55,17000
+Saudi Arabia,56,15000
+Saudi Arabia,57,12000
+Saudi Arabia,58,14000
+Saudi Arabia,59,14000
+Saudi Arabia,60,9600
+Saudi Arabia,61,8000
+Saudi Arabia,62,6900
+Saudi Arabia,63,7300
+Saudi Arabia,64,6400
+Saudi Arabia,65,140000
+Israel,18,89000
+Israel,19,110000
+Israel,20,110000
+Israel,21,120000
+Israel,22,130000
+Israel,23,140000
+Israel,24,140000
+Israel,25,180000
+Israel,26,140000
+Israel,27,110000
+Israel,28,130000
+Israel,29,110000
+Israel,30,91000
+Israel,31,86000
+Israel,32,80000
+Israel,33,74000
+Israel,34,68000
+Israel,35,63000
+Israel,36,60000
+Israel,37,54000
+Israel,38,57000
+Israel,39,51000
+Israel,40,46000
+Israel,41,45000
+Israel,42,44000
+Israel,43,43000
+Israel,44,40000
+Israel,45,38000
+Israel,46,35000
+Israel,47,33000
+Israel,48,33000
+Israel,49,30000
+Israel,50,26000
+Israel,51,23000
+Israel,52,22000
+Israel,53,20000
+Israel,54,19000
+Israel,55,16000
+Israel,56,15000
+Israel,57,14000
+Israel,58,14000
+Israel,59,13000
+Israel,60,11000
+Israel,61,10000
+Israel,62,9000
+Israel,63,8800
+Israel,64,7700
+Israel,65,70000
+Hong Kong,18,52000
+Hong Kong,19,62000
+Hong Kong,20,60000
+Hong Kong,21,80000
+Hong Kong,22,90000
+Hong Kong,23,98000
+Hong Kong,24,98000
+Hong Kong,25,1e+05
+Hong Kong,26,97000
+Hong Kong,27,89000
+Hong Kong,28,110000
+Hong Kong,29,1e+05
+Hong Kong,30,94000
+Hong Kong,31,81000
+Hong Kong,32,71000
+Hong Kong,33,69000
+Hong Kong,34,62000
+Hong Kong,35,60000
+Hong Kong,36,57000
+Hong Kong,37,53000
+Hong Kong,38,62000
+Hong Kong,39,51000
+Hong Kong,40,38000
+Hong Kong,41,34000
+Hong Kong,42,31000
+Hong Kong,43,29000
+Hong Kong,44,27000
+Hong Kong,45,24000
+Hong Kong,46,22000
+Hong Kong,47,19000
+Hong Kong,48,21000
+Hong Kong,49,18000
+Hong Kong,50,14000
+Hong Kong,51,13000
+Hong Kong,52,12000
+Hong Kong,53,11000
+Hong Kong,54,10000
+Hong Kong,55,9400
+Hong Kong,56,8200
+Hong Kong,57,7000
+Hong Kong,58,8000
+Hong Kong,59,6400
+Hong Kong,60,4800
+Hong Kong,61,4100
+Hong Kong,62,3300
+Hong Kong,63,3100
+Hong Kong,64,2500
+Hong Kong,65,63000
+Turkey,18,870000
+Turkey,19,1100000
+Turkey,20,1200000
+Turkey,21,1300000
+Turkey,22,1400000
+Turkey,23,1500000
+Turkey,24,1500000
+Turkey,25,2e+06
+Turkey,26,1500000
+Turkey,27,1200000
+Turkey,28,1300000
+Turkey,29,1300000
+Turkey,30,1100000
+Turkey,31,1100000
+Turkey,32,1100000
+Turkey,33,970000
+Turkey,34,940000
+Turkey,35,890000
+Turkey,36,850000
+Turkey,37,840000
+Turkey,38,870000
+Turkey,39,840000
+Turkey,40,710000
+Turkey,41,670000
+Turkey,42,620000
+Turkey,43,560000
+Turkey,44,540000
+Turkey,45,530000
+Turkey,46,470000
+Turkey,47,430000
+Turkey,48,420000
+Turkey,49,4e+05
+Turkey,50,330000
+Turkey,51,290000
+Turkey,52,260000
+Turkey,53,290000
+Turkey,54,290000
+Turkey,55,240000
+Turkey,56,210000
+Turkey,57,190000
+Turkey,58,180000
+Turkey,59,180000
+Turkey,60,140000
+Turkey,61,120000
+Turkey,62,1e+05
+Turkey,63,120000
+Turkey,64,92000
+Turkey,65,660000
+Uzbekistan,18,33000
+Uzbekistan,19,42000
+Uzbekistan,20,47000
+Uzbekistan,21,60000
+Uzbekistan,22,76000
+Uzbekistan,23,97000
+Uzbekistan,24,110000
+Uzbekistan,25,140000
+Uzbekistan,26,130000
+Uzbekistan,27,110000
+Uzbekistan,28,110000
+Uzbekistan,29,1e+05
+Uzbekistan,30,93000
+Uzbekistan,31,85000
+Uzbekistan,32,80000
+Uzbekistan,33,69000
+Uzbekistan,34,60000
+Uzbekistan,35,51000
+Uzbekistan,36,44000
+Uzbekistan,37,37000
+Uzbekistan,38,32000
+Uzbekistan,39,27000
+Uzbekistan,40,23000
+Uzbekistan,41,20000
+Uzbekistan,42,17000
+Uzbekistan,43,15000
+Uzbekistan,44,12000
+Uzbekistan,45,11000
+Uzbekistan,46,8900
+Uzbekistan,47,7800
+Uzbekistan,48,6900
+Uzbekistan,49,5800
+Uzbekistan,50,5000
+Uzbekistan,51,4300
+Uzbekistan,52,3800
+Uzbekistan,53,3400
+Uzbekistan,54,3000
+Uzbekistan,55,2700
+Uzbekistan,56,2600
+Uzbekistan,57,2200
+Uzbekistan,58,2000
+Uzbekistan,59,1800
+Uzbekistan,60,1600
+Uzbekistan,61,1400
+Uzbekistan,62,1100
+Uzbekistan,63,1000
+Uzbekistan,64,1000
+Uzbekistan,65,8400
+Georgia,18,37000
+Georgia,19,42000
+Georgia,20,39000
+Georgia,21,39000
+Georgia,22,39000
+Georgia,23,39000
+Georgia,24,35000
+Georgia,25,38000
+Georgia,26,34000
+Georgia,27,31000
+Georgia,28,34000
+Georgia,29,29000
+Georgia,30,24000
+Georgia,31,22000
+Georgia,32,22000
+Georgia,33,20000
+Georgia,34,19000
+Georgia,35,17000
+Georgia,36,15000
+Georgia,37,14000
+Georgia,38,14000
+Georgia,39,13000
+Georgia,40,11000
+Georgia,41,9900
+Georgia,42,9200
+Georgia,43,8500
+Georgia,44,7500
+Georgia,45,6800
+Georgia,46,5900
+Georgia,47,5400
+Georgia,48,5400
+Georgia,49,4700
+Georgia,50,3800
+Georgia,51,3400
+Georgia,52,3000
+Georgia,53,3100
+Georgia,54,2900
+Georgia,55,2500
+Georgia,56,2300
+Georgia,57,2200
+Georgia,58,2100
+Georgia,59,1800
+Georgia,60,1500
+Georgia,61,1400
+Georgia,62,1200
+Georgia,63,1100
+Georgia,64,1000
+Georgia,65,14000
+Mongolia,18,21000
+Mongolia,19,29000
+Mongolia,20,26000
+Mongolia,21,23000
+Mongolia,22,21000
+Mongolia,23,21000
+Mongolia,24,19000
+Mongolia,25,15000
+Mongolia,26,14000
+Mongolia,27,14000
+Mongolia,28,16000
+Mongolia,29,15000
+Mongolia,30,11000
+Mongolia,31,9800
+Mongolia,32,8500
+Mongolia,33,7400
+Mongolia,34,6100
+Mongolia,35,4900
+Mongolia,36,4200
+Mongolia,37,3600
+Mongolia,38,3800
+Mongolia,39,3200
+Mongolia,40,2300
+Mongolia,41,2100
+Mongolia,42,1800
+Mongolia,43,1700
+Mongolia,44,1500
+Mongolia,45,1300
+Mongolia,46,1200
+Mongolia,47,1000
+Mongolia,48,1000
+Mongolia,49,1000
+Mongolia,50,1000
+Mongolia,51,1000
+Mongolia,52,1000
+Mongolia,53,1000
+Mongolia,54,1000
+Mongolia,55,1000
+Mongolia,56,1000
+Mongolia,57,1000
+Mongolia,58,1000
+Mongolia,59,1000
+Mongolia,60,1000
+Mongolia,61,1000
+Mongolia,62,1000
+Mongolia,63,1000
+Mongolia,64,1000
+Mongolia,65,6100
+Thailand,18,410000
+Thailand,19,6e+05
+Thailand,20,650000
+Thailand,21,670000
+Thailand,22,780000
+Thailand,23,710000
+Thailand,24,620000
+Thailand,25,560000
+Thailand,26,490000
+Thailand,27,430000
+Thailand,28,450000
+Thailand,29,390000
+Thailand,30,330000
+Thailand,31,320000
+Thailand,32,3e+05
+Thailand,33,250000
+Thailand,34,240000
+Thailand,35,210000
+Thailand,36,230000
+Thailand,37,2e+05
+Thailand,38,2e+05
+Thailand,39,170000
+Thailand,40,140000
+Thailand,41,130000
+Thailand,42,120000
+Thailand,43,110000
+Thailand,44,96000
+Thailand,45,81000
+Thailand,46,74000
+Thailand,47,66000
+Thailand,48,68000
+Thailand,49,62000
+Thailand,50,52000
+Thailand,51,47000
+Thailand,52,41000
+Thailand,53,39000
+Thailand,54,34000
+Thailand,55,28000
+Thailand,56,25000
+Thailand,57,23000
+Thailand,58,22000
+Thailand,59,19000
+Thailand,60,15000
+Thailand,61,13000
+Thailand,62,11000
+Thailand,63,11000
+Thailand,64,8900
+Thailand,65,150000
+Lebanon,18,60000
+Lebanon,19,70000
+Lebanon,20,68000
+Lebanon,21,69000
+Lebanon,22,67000
+Lebanon,23,68000
+Lebanon,24,67000
+Lebanon,25,83000
+Lebanon,26,65000
+Lebanon,27,50000
+Lebanon,28,59000
+Lebanon,29,56000
+Lebanon,30,42000
+Lebanon,31,39000
+Lebanon,32,37000
+Lebanon,33,33000
+Lebanon,34,29000
+Lebanon,35,26000
+Lebanon,36,26000
+Lebanon,37,23000
+Lebanon,38,26000
+Lebanon,39,24000
+Lebanon,40,19000
+Lebanon,41,18000
+Lebanon,42,16000
+Lebanon,43,16000
+Lebanon,44,16000
+Lebanon,45,14000
+Lebanon,46,14000
+Lebanon,47,12000
+Lebanon,48,14000
+Lebanon,49,13000
+Lebanon,50,10000
+Lebanon,51,9700
+Lebanon,52,9200
+Lebanon,53,9200
+Lebanon,54,8700
+Lebanon,55,7500
+Lebanon,56,6700
+Lebanon,57,6100
+Lebanon,58,6400
+Lebanon,59,5500
+Lebanon,60,4300
+Lebanon,61,3800
+Lebanon,62,3200
+Lebanon,63,3100
+Lebanon,64,2700
+Lebanon,65,24000
+Maldives,18,4300
+Maldives,19,5100
+Maldives,20,5100
+Maldives,21,5500
+Maldives,22,6200
+Maldives,23,6500
+Maldives,24,6800
+Maldives,25,7500
+Maldives,26,7100
+Maldives,27,6300
+Maldives,28,6700
+Maldives,29,6500
+Maldives,30,5700
+Maldives,31,5500
+Maldives,32,4900
+Maldives,33,5000
+Maldives,34,4400
+Maldives,35,3500
+Maldives,36,3100
+Maldives,37,2800
+Maldives,38,2600
+Maldives,39,2300
+Maldives,40,1600
+Maldives,41,1400
+Maldives,42,1400
+Maldives,43,1300
+Maldives,44,1100
+Maldives,45,1000
+Maldives,46,1000
+Maldives,47,1000
+Maldives,48,1000
+Maldives,49,1000
+Maldives,50,1000
+Maldives,51,1000
+Maldives,52,1000
+Maldives,53,1000
+Maldives,54,1000
+Maldives,55,1000
+Maldives,56,1000
+Maldives,57,1000
+Maldives,58,1000
+Maldives,59,1000
+Maldives,60,1000
+Maldives,61,1000
+Maldives,62,1000
+Maldives,63,1000
+Maldives,64,1000
+Maldives,65,1200
+South Korea,18,470000
+South Korea,19,550000
+South Korea,20,490000
+South Korea,21,5e+05
+South Korea,22,490000
+South Korea,23,510000
+South Korea,24,5e+05
+South Korea,25,520000
+South Korea,26,510000
+South Korea,27,470000
+South Korea,28,450000
+South Korea,29,440000
+South Korea,30,420000
+South Korea,31,4e+05
+South Korea,32,380000
+South Korea,33,360000
+South Korea,34,340000
+South Korea,35,320000
+South Korea,36,310000
+South Korea,37,290000
+South Korea,38,260000
+South Korea,39,230000
+South Korea,40,180000
+South Korea,41,160000
+South Korea,42,140000
+South Korea,43,130000
+South Korea,44,120000
+South Korea,45,110000
+South Korea,46,98000
+South Korea,47,90000
+South Korea,48,82000
+South Korea,49,70000
+South Korea,50,61000
+South Korea,51,50000
+South Korea,52,42000
+South Korea,53,38000
+South Korea,54,33000
+South Korea,55,29000
+South Korea,56,27000
+South Korea,57,22000
+South Korea,58,20000
+South Korea,59,17000
+South Korea,60,14000
+South Korea,61,12000
+South Korea,62,9100
+South Korea,63,7100
+South Korea,64,6200
+South Korea,65,47000
+Afghanistan,18,22000
+Afghanistan,19,33000
+Afghanistan,20,33000
+Afghanistan,21,30000
+Afghanistan,22,26000
+Afghanistan,23,27000
+Afghanistan,24,29000
+Afghanistan,25,40000
+Afghanistan,26,26000
+Afghanistan,27,19000
+Afghanistan,28,20000
+Afghanistan,29,26000
+Afghanistan,30,13000
+Afghanistan,31,12000
+Afghanistan,32,28000
+Afghanistan,33,7700
+Afghanistan,34,7600
+Afghanistan,35,4600
+Afghanistan,36,4500
+Afghanistan,37,4300
+Afghanistan,38,3900
+Afghanistan,39,5000
+Afghanistan,40,2100
+Afghanistan,41,2000
+Afghanistan,42,1700
+Afghanistan,43,1900
+Afghanistan,44,1900
+Afghanistan,45,1300
+Afghanistan,46,1200
+Afghanistan,47,1000
+Afghanistan,48,1300
+Afghanistan,49,1600
+Afghanistan,50,1000
+Afghanistan,51,1000
+Afghanistan,52,1000
+Afghanistan,53,1000
+Afghanistan,54,1000
+Afghanistan,55,1000
+Afghanistan,56,1000
+Afghanistan,57,1000
+Afghanistan,58,1000
+Afghanistan,59,1000
+Afghanistan,60,1000
+Afghanistan,61,1000
+Afghanistan,62,1000
+Afghanistan,63,1000
+Afghanistan,64,1000
+Afghanistan,65,6800
+Yemen,18,14000
+Yemen,19,20000
+Yemen,20,20000
+Yemen,21,19000
+Yemen,22,19000
+Yemen,23,20000
+Yemen,24,21000
+Yemen,25,28000
+Yemen,26,19000
+Yemen,27,14000
+Yemen,28,15000
+Yemen,29,16000
+Yemen,30,12000
+Yemen,31,10000
+Yemen,32,12000
+Yemen,33,6700
+Yemen,34,6200
+Yemen,35,4700
+Yemen,36,4200
+Yemen,37,3500
+Yemen,38,3300
+Yemen,39,3400
+Yemen,40,2100
+Yemen,41,1800
+Yemen,42,1500
+Yemen,43,1300
+Yemen,44,1300
+Yemen,45,1000
+Yemen,46,1000
+Yemen,47,1000
+Yemen,48,1000
+Yemen,49,1000
+Yemen,50,1000
+Yemen,51,1000
+Yemen,52,1000
+Yemen,53,1000
+Yemen,54,1000
+Yemen,55,1000
+Yemen,56,1000
+Yemen,57,1000
+Yemen,58,1000
+Yemen,59,1000
+Yemen,60,1000
+Yemen,61,1000
+Yemen,62,1000
+Yemen,63,1000
+Yemen,64,1000
+Yemen,65,1800
+Kazakhstan,18,170000
+Kazakhstan,19,190000
+Kazakhstan,20,170000
+Kazakhstan,21,170000
+Kazakhstan,22,190000
+Kazakhstan,23,220000
+Kazakhstan,24,250000
+Kazakhstan,25,470000
+Kazakhstan,26,340000
+Kazakhstan,27,280000
+Kazakhstan,28,290000
+Kazakhstan,29,3e+05
+Kazakhstan,30,310000
+Kazakhstan,31,320000
+Kazakhstan,32,310000
+Kazakhstan,33,3e+05
+Kazakhstan,34,290000
+Kazakhstan,35,260000
+Kazakhstan,36,240000
+Kazakhstan,37,220000
+Kazakhstan,38,2e+05
+Kazakhstan,39,180000
+Kazakhstan,40,160000
+Kazakhstan,41,140000
+Kazakhstan,42,130000
+Kazakhstan,43,120000
+Kazakhstan,44,1e+05
+Kazakhstan,45,93000
+Kazakhstan,46,83000
+Kazakhstan,47,77000
+Kazakhstan,48,69000
+Kazakhstan,49,62000
+Kazakhstan,50,55000
+Kazakhstan,51,49000
+Kazakhstan,52,44000
+Kazakhstan,53,41000
+Kazakhstan,54,36000
+Kazakhstan,55,32000
+Kazakhstan,56,29000
+Kazakhstan,57,26000
+Kazakhstan,58,23000
+Kazakhstan,59,20000
+Kazakhstan,60,17000
+Kazakhstan,61,13000
+Kazakhstan,62,11000
+Kazakhstan,63,9300
+Kazakhstan,64,7400
+Kazakhstan,65,49000
+Nepal,18,65000
+Nepal,19,87000
+Nepal,20,85000
+Nepal,21,79000
+Nepal,22,79000
+Nepal,23,82000
+Nepal,24,67000
+Nepal,25,60000
+Nepal,26,47000
+Nepal,27,36000
+Nepal,28,37000
+Nepal,29,34000
+Nepal,30,24000
+Nepal,31,24000
+Nepal,32,43000
+Nepal,33,16000
+Nepal,34,13000
+Nepal,35,9500
+Nepal,36,9700
+Nepal,37,8400
+Nepal,38,8900
+Nepal,39,8300
+Nepal,40,5400
+Nepal,41,4900
+Nepal,42,4200
+Nepal,43,4600
+Nepal,44,4000
+Nepal,45,2900
+Nepal,46,2600
+Nepal,47,2500
+Nepal,48,2500
+Nepal,49,2500
+Nepal,50,1700
+Nepal,51,1600
+Nepal,52,1300
+Nepal,53,1400
+Nepal,54,1100
+Nepal,55,1000
+Nepal,56,1000
+Nepal,57,1000
+Nepal,58,1000
+Nepal,59,1000
+Nepal,60,1000
+Nepal,61,1000
+Nepal,62,1000
+Nepal,63,1000
+Nepal,64,1000
+Nepal,65,15000
+Bahrain,18,9400
+Bahrain,19,15000
+Bahrain,20,15000
+Bahrain,21,17000
+Bahrain,22,19000
+Bahrain,23,22000
+Bahrain,24,26000
+Bahrain,25,39000
+Bahrain,26,36000
+Bahrain,27,29000
+Bahrain,28,33000
+Bahrain,29,34000
+Bahrain,30,31000
+Bahrain,31,31000
+Bahrain,32,29000
+Bahrain,33,28000
+Bahrain,34,27000
+Bahrain,35,24000
+Bahrain,36,23000
+Bahrain,37,21000
+Bahrain,38,21000
+Bahrain,39,19000
+Bahrain,40,16000
+Bahrain,41,14000
+Bahrain,42,13000
+Bahrain,43,11000
+Bahrain,44,9800
+Bahrain,45,8300
+Bahrain,46,7400
+Bahrain,47,6600
+Bahrain,48,6500
+Bahrain,49,6300
+Bahrain,50,4800
+Bahrain,51,4300
+Bahrain,52,3900
+Bahrain,53,3700
+Bahrain,54,3300
+Bahrain,55,2800
+Bahrain,56,2400
+Bahrain,57,2300
+Bahrain,58,2200
+Bahrain,59,2100
+Bahrain,60,1600
+Bahrain,61,1300
+Bahrain,62,1100
+Bahrain,63,1000
+Bahrain,64,1000
+Bahrain,65,7600
+Oman,18,19000
+Oman,19,30000
+Oman,20,33000
+Oman,21,36000
+Oman,22,43000
+Oman,23,56000
+Oman,24,69000
+Oman,25,110000
+Oman,26,95000
+Oman,27,74000
+Oman,28,76000
+Oman,29,76000
+Oman,30,69000
+Oman,31,65000
+Oman,32,58000
+Oman,33,49000
+Oman,34,42000
+Oman,35,35000
+Oman,36,29000
+Oman,37,24000
+Oman,38,22000
+Oman,39,20000
+Oman,40,14000
+Oman,41,12000
+Oman,42,10000
+Oman,43,8900
+Oman,44,7800
+Oman,45,6300
+Oman,46,5300
+Oman,47,4400
+Oman,48,4600
+Oman,49,4400
+Oman,50,2900
+Oman,51,2400
+Oman,52,1900
+Oman,53,1800
+Oman,54,1700
+Oman,55,1400
+Oman,56,1100
+Oman,57,1000
+Oman,58,1000
+Oman,59,1000
+Oman,60,1000
+Oman,61,1000
+Oman,62,1000
+Oman,63,1000
+Oman,64,1000
+Oman,65,5900
+China,18,61000
+China,19,91000
+China,20,110000
+China,21,130000
+China,22,130000
+China,23,140000
+China,24,140000
+China,25,160000
+China,26,150000
+China,27,140000
+China,28,160000
+China,29,160000
+China,30,140000
+China,31,130000
+China,32,120000
+China,33,1e+05
+China,34,91000
+China,35,79000
+China,36,70000
+China,37,58000
+China,38,49000
+China,39,41000
+China,40,32000
+China,41,27000
+China,42,22000
+China,43,19000
+China,44,16000
+China,45,13000
+China,46,12000
+China,47,9700
+China,48,8800
+China,49,7700
+China,50,6000
+China,51,5000
+China,52,4000
+China,53,3700
+China,54,3100
+China,55,2700
+China,56,2200
+China,57,1700
+China,58,1800
+China,59,1400
+China,60,1100
+China,61,1000
+China,62,1000
+China,63,1000
+China,64,1000
+China,65,10000
+Bhutan,18,2600
+Bhutan,19,3000
+Bhutan,20,3300
+Bhutan,21,3300
+Bhutan,22,3400
+Bhutan,23,3400
+Bhutan,24,3100
+Bhutan,25,3200
+Bhutan,26,3000
+Bhutan,27,2500
+Bhutan,28,2600
+Bhutan,29,2300
+Bhutan,30,1900
+Bhutan,31,1700
+Bhutan,32,1600
+Bhutan,33,1300
+Bhutan,34,1200
+Bhutan,35,1000
+Bhutan,36,1000
+Bhutan,37,1000
+Bhutan,38,1000
+Bhutan,39,1000
+Bhutan,40,1000
+Bhutan,41,1000
+Bhutan,42,1000
+Bhutan,43,1000
+Bhutan,44,1000
+Bhutan,45,1000
+Bhutan,46,1000
+Bhutan,47,1000
+Bhutan,48,1000
+Bhutan,49,1000
+Bhutan,50,1000
+Bhutan,51,1000
+Bhutan,52,1000
+Bhutan,53,1000
+Bhutan,54,1000
+Bhutan,55,1000
+Bhutan,56,1000
+Bhutan,57,1000
+Bhutan,58,1000
+Bhutan,59,1000
+Bhutan,60,1000
+Bhutan,61,1000
+Bhutan,62,1000
+Bhutan,63,1000
+Bhutan,64,1000
+Bhutan,65,1000
+Singapore,18,38000
+Singapore,19,49000
+Singapore,20,53000
+Singapore,21,67000
+Singapore,22,74000
+Singapore,23,83000
+Singapore,24,86000
+Singapore,25,96000
+Singapore,26,91000
+Singapore,27,84000
+Singapore,28,1e+05
+Singapore,29,88000
+Singapore,30,82000
+Singapore,31,71000
+Singapore,32,60000
+Singapore,33,60000
+Singapore,34,56000
+Singapore,35,50000
+Singapore,36,48000
+Singapore,37,44000
+Singapore,38,45000
+Singapore,39,41000
+Singapore,40,35000
+Singapore,41,31000
+Singapore,42,31000
+Singapore,43,29000
+Singapore,44,27000
+Singapore,45,26000
+Singapore,46,25000
+Singapore,47,23000
+Singapore,48,22000
+Singapore,49,20000
+Singapore,50,17000
+Singapore,51,16000
+Singapore,52,15000
+Singapore,53,15000
+Singapore,54,13000
+Singapore,55,12000
+Singapore,56,11000
+Singapore,57,9600
+Singapore,58,9700
+Singapore,59,8600
+Singapore,60,7000
+Singapore,61,6000
+Singapore,62,5300
+Singapore,63,4700
+Singapore,64,3900
+Singapore,65,35000
+Turkmenistan,18,1000
+Turkmenistan,19,1000
+Turkmenistan,20,1000
+Turkmenistan,21,1000
+Turkmenistan,22,1100
+Turkmenistan,23,1500
+Turkmenistan,24,2000
+Turkmenistan,25,3300
+Turkmenistan,26,2800
+Turkmenistan,27,2600
+Turkmenistan,28,2500
+Turkmenistan,29,2500
+Turkmenistan,30,2400
+Turkmenistan,31,2100
+Turkmenistan,32,2000
+Turkmenistan,33,1700
+Turkmenistan,34,1500
+Turkmenistan,35,1300
+Turkmenistan,36,1200
+Turkmenistan,37,1000
+Turkmenistan,38,1000
+Turkmenistan,39,1000
+Turkmenistan,40,1000
+Turkmenistan,41,1000
+Turkmenistan,42,1000
+Turkmenistan,43,1000
+Turkmenistan,44,1000
+Turkmenistan,45,1000
+Turkmenistan,46,1000
+Turkmenistan,47,1000
+Turkmenistan,48,1000
+Turkmenistan,49,1000
+Turkmenistan,50,1000
+Turkmenistan,51,1000
+Turkmenistan,52,1000
+Turkmenistan,53,1000
+Turkmenistan,54,1000
+Turkmenistan,55,1000
+Turkmenistan,56,1000
+Turkmenistan,57,1000
+Turkmenistan,58,1000
+Turkmenistan,59,1000
+Turkmenistan,60,1000
+Turkmenistan,61,1000
+Turkmenistan,62,1000
+Turkmenistan,63,1000
+Turkmenistan,64,1000
+Turkmenistan,65,1000
+Jordan,18,88000
+Jordan,19,110000
+Jordan,20,110000
+Jordan,21,110000
+Jordan,22,110000
+Jordan,23,110000
+Jordan,24,99000
+Jordan,25,110000
+Jordan,26,86000
+Jordan,27,66000
+Jordan,28,69000
+Jordan,29,62000
+Jordan,30,51000
+Jordan,31,44000
+Jordan,32,40000
+Jordan,33,35000
+Jordan,34,32000
+Jordan,35,28000
+Jordan,36,25000
+Jordan,37,23000
+Jordan,38,25000
+Jordan,39,23000
+Jordan,40,18000
+Jordan,41,17000
+Jordan,42,15000
+Jordan,43,15000
+Jordan,44,14000
+Jordan,45,13000
+Jordan,46,12000
+Jordan,47,11000
+Jordan,48,12000
+Jordan,49,11000
+Jordan,50,8800
+Jordan,51,7600
+Jordan,52,7200
+Jordan,53,6700
+Jordan,54,6000
+Jordan,55,5300
+Jordan,56,4800
+Jordan,57,3900
+Jordan,58,3900
+Jordan,59,3300
+Jordan,60,2700
+Jordan,61,2300
+Jordan,62,2000
+Jordan,63,1800
+Jordan,64,1500
+Jordan,65,14000
+Iraq,18,330000
+Iraq,19,460000
+Iraq,20,470000
+Iraq,21,440000
+Iraq,22,430000
+Iraq,23,430000
+Iraq,24,430000
+Iraq,25,630000
+Iraq,26,450000
+Iraq,27,3e+05
+Iraq,28,350000
+Iraq,29,350000
+Iraq,30,260000
+Iraq,31,220000
+Iraq,32,2e+05
+Iraq,33,170000
+Iraq,34,150000
+Iraq,35,130000
+Iraq,36,120000
+Iraq,37,1e+05
+Iraq,38,120000
+Iraq,39,120000
+Iraq,40,77000
+Iraq,41,71000
+Iraq,42,65000
+Iraq,43,62000
+Iraq,44,57000
+Iraq,45,49000
+Iraq,46,46000
+Iraq,47,42000
+Iraq,48,47000
+Iraq,49,44000
+Iraq,50,31000
+Iraq,51,27000
+Iraq,52,24000
+Iraq,53,23000
+Iraq,54,21000
+Iraq,55,18000
+Iraq,56,16000
+Iraq,57,13000
+Iraq,58,13000
+Iraq,59,11000
+Iraq,60,7800
+Iraq,61,8600
+Iraq,62,6800
+Iraq,63,6100
+Iraq,64,5100
+Iraq,65,38000
+Bangladesh,18,110000
+Bangladesh,19,150000
+Bangladesh,20,170000
+Bangladesh,21,170000
+Bangladesh,22,150000
+Bangladesh,23,130000
+Bangladesh,24,110000
+Bangladesh,25,92000
+Bangladesh,26,75000
+Bangladesh,27,55000
+Bangladesh,28,52000
+Bangladesh,29,44000
+Bangladesh,30,36000
+Bangladesh,31,31000
+Bangladesh,32,29000
+Bangladesh,33,19000
+Bangladesh,34,17000
+Bangladesh,35,13000
+Bangladesh,36,12000
+Bangladesh,37,10000
+Bangladesh,38,11000
+Bangladesh,39,10000
+Bangladesh,40,7700
+Bangladesh,41,7000
+Bangladesh,42,6100
+Bangladesh,43,5900
+Bangladesh,44,5400
+Bangladesh,45,4200
+Bangladesh,46,3900
+Bangladesh,47,5300
+Bangladesh,48,4700
+Bangladesh,49,3500
+Bangladesh,50,2700
+Bangladesh,51,2400
+Bangladesh,52,1900
+Bangladesh,53,1800
+Bangladesh,54,1600
+Bangladesh,55,1000
+Bangladesh,56,1000
+Bangladesh,57,1000
+Bangladesh,58,1000
+Bangladesh,59,1000
+Bangladesh,60,1000
+Bangladesh,61,1000
+Bangladesh,62,1000
+Bangladesh,63,1000
+Bangladesh,64,1000
+Bangladesh,65,12000
+Laos,18,11000
+Laos,19,14000
+Laos,20,12000
+Laos,21,11000
+Laos,22,13000
+Laos,23,12000
+Laos,24,10000
+Laos,25,10000
+Laos,26,8500
+Laos,27,6600
+Laos,28,6900
+Laos,29,5700
+Laos,30,4800
+Laos,31,3900
+Laos,32,3400
+Laos,33,2900
+Laos,34,2500
+Laos,35,2000
+Laos,36,1900
+Laos,37,1400
+Laos,38,1700
+Laos,39,1600
+Laos,40,1100
+Laos,41,1000
+Laos,42,1000
+Laos,43,1000
+Laos,44,1000
+Laos,45,1000
+Laos,46,1000
+Laos,47,1000
+Laos,48,1000
+Laos,49,1000
+Laos,50,1000
+Laos,51,1000
+Laos,52,1000
+Laos,53,1000
+Laos,54,1000
+Laos,55,1000
+Laos,56,1000
+Laos,57,1000
+Laos,58,1000
+Laos,59,1000
+Laos,60,1000
+Laos,61,1000
+Laos,62,1000
+Laos,63,1000
+Laos,64,1000
+Laos,65,1200
+Tajikistan,18,8400
+Tajikistan,19,10000
+Tajikistan,20,10000
+Tajikistan,21,12000
+Tajikistan,22,13000
+Tajikistan,23,16000
+Tajikistan,24,18000
+Tajikistan,25,22000
+Tajikistan,26,20000
+Tajikistan,27,17000
+Tajikistan,28,17000
+Tajikistan,29,15000
+Tajikistan,30,14000
+Tajikistan,31,12000
+Tajikistan,32,11000
+Tajikistan,33,9400
+Tajikistan,34,8000
+Tajikistan,35,6700
+Tajikistan,36,5900
+Tajikistan,37,4900
+Tajikistan,38,4500
+Tajikistan,39,3900
+Tajikistan,40,3200
+Tajikistan,41,2800
+Tajikistan,42,2500
+Tajikistan,43,2100
+Tajikistan,44,1800
+Tajikistan,45,1600
+Tajikistan,46,1300
+Tajikistan,47,1100
+Tajikistan,48,1000
+Tajikistan,49,1000
+Tajikistan,50,1000
+Tajikistan,51,1000
+Tajikistan,52,1000
+Tajikistan,53,1000
+Tajikistan,54,1000
+Tajikistan,55,1000
+Tajikistan,56,1000
+Tajikistan,57,1000
+Tajikistan,58,1000
+Tajikistan,59,1000
+Tajikistan,60,1000
+Tajikistan,61,1000
+Tajikistan,62,1000
+Tajikistan,63,1000
+Tajikistan,64,1000
+Tajikistan,65,1600
+New Zealand,18,59000
+New Zealand,19,69000
+New Zealand,20,65000
+New Zealand,21,67000
+New Zealand,22,66000
+New Zealand,23,67000
+New Zealand,24,64000
+New Zealand,25,66000
+New Zealand,26,60000
+New Zealand,27,55000
+New Zealand,28,58000
+New Zealand,29,53000
+New Zealand,30,45000
+New Zealand,31,42000
+New Zealand,32,38000
+New Zealand,33,35000
+New Zealand,34,33000
+New Zealand,35,30000
+New Zealand,36,28000
+New Zealand,37,26000
+New Zealand,38,26000
+New Zealand,39,24000
+New Zealand,40,21000
+New Zealand,41,20000
+New Zealand,42,19000
+New Zealand,43,19000
+New Zealand,44,19000
+New Zealand,45,18000
+New Zealand,46,18000
+New Zealand,47,17000
+New Zealand,48,17000
+New Zealand,49,15000
+New Zealand,50,14000
+New Zealand,51,13000
+New Zealand,52,12000
+New Zealand,53,12000
+New Zealand,54,11000
+New Zealand,55,10000
+New Zealand,56,9600
+New Zealand,57,9100
+New Zealand,58,8500
+New Zealand,59,7400
+New Zealand,60,6600
+New Zealand,61,5800
+New Zealand,62,5300
+New Zealand,63,4700
+New Zealand,64,4100
+New Zealand,65,38000
+Guam,18,1600
+Guam,19,2100
+Guam,20,2200
+Guam,21,2600
+Guam,22,2900
+Guam,23,3100
+Guam,24,3200
+Guam,25,3400
+Guam,26,3000
+Guam,27,2700
+Guam,28,3100
+Guam,29,2600
+Guam,30,2100
+Guam,31,2000
+Guam,32,1800
+Guam,33,1000
+Guam,34,1500
+Guam,35,1000
+Guam,36,1300
+Guam,37,1000
+Guam,38,1300
+Guam,39,1200
+Guam,40,1000
+Guam,41,1000
+Guam,42,1000
+Guam,43,1000
+Guam,44,1000
+Guam,45,1000
+Guam,46,1000
+Guam,47,1000
+Guam,48,1000
+Guam,49,1000
+Guam,50,1000
+Guam,51,1000
+Guam,52,1000
+Guam,53,1000
+Guam,54,1000
+Guam,55,1000
+Guam,56,1000
+Guam,57,1000
+Guam,58,1000
+Guam,59,1000
+Guam,60,1000
+Guam,61,1000
+Guam,62,1000
+Guam,63,1000
+Guam,64,1000
+Guam,65,1300
+Samoa,18,1000
+Samoa,19,1000
+Samoa,20,1000
+Samoa,21,1000
+Samoa,22,1000
+Samoa,23,1000
+Samoa,24,1000
+Samoa,25,1000
+Samoa,26,1000
+Samoa,27,1000
+Samoa,28,1000
+Samoa,29,1000
+Samoa,30,1000
+Samoa,31,1000
+Samoa,32,1000
+Samoa,33,1000
+Samoa,34,1000
+Samoa,35,1000
+Samoa,36,1000
+Samoa,37,1000
+Samoa,38,1000
+Samoa,39,1000
+Samoa,40,1000
+Samoa,41,1000
+Samoa,42,1000
+Samoa,43,1000
+Samoa,44,1000
+Samoa,45,1000
+Samoa,46,1000
+Samoa,47,1000
+Samoa,48,1000
+Samoa,49,1000
+Samoa,50,1000
+Samoa,51,1000
+Samoa,52,1000
+Samoa,53,1000
+Samoa,54,1000
+Samoa,55,1000
+Samoa,56,1000
+Samoa,57,1000
+Samoa,58,1000
+Samoa,59,1000
+Samoa,60,1000
+Samoa,61,1000
+Samoa,62,1000
+Samoa,63,1000
+Samoa,64,1000
+Samoa,65,1000
+New Caledonia,18,2100
+New Caledonia,19,2500
+New Caledonia,20,2400
+New Caledonia,21,2100
+New Caledonia,22,2000
+New Caledonia,23,1900
+New Caledonia,24,1900
+New Caledonia,25,1900
+New Caledonia,26,1600
+New Caledonia,27,1400
+New Caledonia,28,1500
+New Caledonia,29,1300
+New Caledonia,30,1200
+New Caledonia,31,1100
+New Caledonia,32,1000
+New Caledonia,33,1000
+New Caledonia,34,1000
+New Caledonia,35,1000
+New Caledonia,36,1000
+New Caledonia,37,1000
+New Caledonia,38,1000
+New Caledonia,39,1000
+New Caledonia,40,1000
+New Caledonia,41,1000
+New Caledonia,42,1000
+New Caledonia,43,1000
+New Caledonia,44,1000
+New Caledonia,45,1000
+New Caledonia,46,1000
+New Caledonia,47,1000
+New Caledonia,48,1000
+New Caledonia,49,1000
+New Caledonia,50,1000
+New Caledonia,51,1000
+New Caledonia,52,1000
+New Caledonia,53,1000
+New Caledonia,54,1000
+New Caledonia,55,1000
+New Caledonia,56,1000
+New Caledonia,57,1000
+New Caledonia,58,1000
+New Caledonia,59,1000
+New Caledonia,60,1000
+New Caledonia,61,1000
+New Caledonia,62,1000
+New Caledonia,63,1000
+New Caledonia,64,1000
+New Caledonia,65,1000
+Tonga,18,1000
+Tonga,19,1000
+Tonga,20,1000
+Tonga,21,1000
+Tonga,22,1000
+Tonga,23,1000
+Tonga,24,1000
+Tonga,25,1000
+Tonga,26,1000
+Tonga,27,1000
+Tonga,28,1000
+Tonga,29,1000
+Tonga,30,1000
+Tonga,31,1000
+Tonga,32,1000
+Tonga,33,1000
+Tonga,34,1000
+Tonga,35,1000
+Tonga,36,1000
+Tonga,37,1000
+Tonga,38,1000
+Tonga,39,1000
+Tonga,40,1000
+Tonga,41,1000
+Tonga,42,1000
+Tonga,43,1000
+Tonga,44,1000
+Tonga,45,1000
+Tonga,46,1000
+Tonga,47,1000
+Tonga,48,1000
+Tonga,49,1000
+Tonga,50,1000
+Tonga,51,1000
+Tonga,52,1000
+Tonga,53,1000
+Tonga,54,1000
+Tonga,55,1000
+Tonga,56,1000
+Tonga,57,1000
+Tonga,58,1000
+Tonga,59,1000
+Tonga,60,1000
+Tonga,61,1000
+Tonga,62,1000
+Tonga,63,1000
+Tonga,64,1000
+Tonga,65,1000
+French Polynesia,18,2000
+French Polynesia,19,2100
+French Polynesia,20,1800
+French Polynesia,21,1700
+French Polynesia,22,1600
+French Polynesia,23,1500
+French Polynesia,24,1400
+French Polynesia,25,1400
+French Polynesia,26,1400
+French Polynesia,27,1100
+French Polynesia,28,1300
+French Polynesia,29,1200
+French Polynesia,30,1100
+French Polynesia,31,1000
+French Polynesia,32,1000
+French Polynesia,33,1000
+French Polynesia,34,1000
+French Polynesia,35,1000
+French Polynesia,36,1000
+French Polynesia,37,1000
+French Polynesia,38,1000
+French Polynesia,39,1000
+French Polynesia,40,1000
+French Polynesia,41,1000
+French Polynesia,42,1000
+French Polynesia,43,1000
+French Polynesia,44,1000
+French Polynesia,45,1000
+French Polynesia,46,1000
+French Polynesia,47,1000
+French Polynesia,48,1000
+French Polynesia,49,1000
+French Polynesia,50,1000
+French Polynesia,51,1000
+French Polynesia,52,1000
+French Polynesia,53,1000
+French Polynesia,54,1000
+French Polynesia,55,1000
+French Polynesia,56,1000
+French Polynesia,57,1000
+French Polynesia,58,1000
+French Polynesia,59,1000
+French Polynesia,60,1000
+French Polynesia,61,1000
+French Polynesia,62,1000
+French Polynesia,63,1000
+French Polynesia,64,1000
+French Polynesia,65,1000
+Papua New Guinea,18,2600
+Papua New Guinea,19,3200
+Papua New Guinea,20,3300
+Papua New Guinea,21,2800
+Papua New Guinea,22,2500
+Papua New Guinea,23,2300
+Papua New Guinea,24,2100
+Papua New Guinea,25,2000
+Papua New Guinea,26,1800
+Papua New Guinea,27,1500
+Papua New Guinea,28,1400
+Papua New Guinea,29,1300
+Papua New Guinea,30,1200
+Papua New Guinea,31,1000
+Papua New Guinea,32,1300
+Papua New Guinea,33,1000
+Papua New Guinea,34,1000
+Papua New Guinea,35,1000
+Papua New Guinea,36,1000
+Papua New Guinea,37,1000
+Papua New Guinea,38,1000
+Papua New Guinea,39,1000
+Papua New Guinea,40,1000
+Papua New Guinea,41,1000
+Papua New Guinea,42,1000
+Papua New Guinea,43,1000
+Papua New Guinea,44,1000
+Papua New Guinea,45,1000
+Papua New Guinea,46,1000
+Papua New Guinea,47,1000
+Papua New Guinea,48,1000
+Papua New Guinea,49,1000
+Papua New Guinea,50,1000
+Papua New Guinea,51,1000
+Papua New Guinea,52,1000
+Papua New Guinea,53,1000
+Papua New Guinea,54,1000
+Papua New Guinea,55,1000
+Papua New Guinea,56,1000
+Papua New Guinea,57,1000
+Papua New Guinea,58,1000
+Papua New Guinea,59,1000
+Papua New Guinea,60,1000
+Papua New Guinea,61,1000
+Papua New Guinea,62,1000
+Papua New Guinea,63,1000
+Papua New Guinea,64,1000
+Papua New Guinea,65,1600
+Fiji,18,5700
+Fiji,19,7100
+Fiji,20,7200
+Fiji,21,7200
+Fiji,22,6600
+Fiji,23,6100
+Fiji,24,5700
+Fiji,25,5200
+Fiji,26,4400
+Fiji,27,3500
+Fiji,28,3100
+Fiji,29,2700
+Fiji,30,2200
+Fiji,31,2100
+Fiji,32,1900
+Fiji,33,1600
+Fiji,34,1400
+Fiji,35,1300
+Fiji,36,1100
+Fiji,37,1200
+Fiji,38,1200
+Fiji,39,1100
+Fiji,40,1000
+Fiji,41,1000
+Fiji,42,1000
+Fiji,43,1000
+Fiji,44,1000
+Fiji,45,1000
+Fiji,46,1000
+Fiji,47,1000
+Fiji,48,1000
+Fiji,49,1000
+Fiji,50,1000
+Fiji,51,1000
+Fiji,52,1000
+Fiji,53,1000
+Fiji,54,1000
+Fiji,55,1000
+Fiji,56,1000
+Fiji,57,1000
+Fiji,58,1000
+Fiji,59,1000
+Fiji,60,1000
+Fiji,61,1000
+Fiji,62,1000
+Fiji,63,1000
+Fiji,64,1000
+Fiji,65,1000
+Solomon Islands,18,1000
+Solomon Islands,19,1000
+Solomon Islands,20,1000
+Solomon Islands,21,1000
+Solomon Islands,22,1000
+Solomon Islands,23,1000
+Solomon Islands,24,1000
+Solomon Islands,25,1000
+Solomon Islands,26,1000
+Solomon Islands,27,1000
+Solomon Islands,28,1000
+Solomon Islands,29,1000
+Solomon Islands,30,1000
+Solomon Islands,31,1000
+Solomon Islands,32,1000
+Solomon Islands,33,1000
+Solomon Islands,34,1000
+Solomon Islands,35,1000
+Solomon Islands,36,1000
+Solomon Islands,37,1000
+Solomon Islands,38,1000
+Solomon Islands,39,1000
+Solomon Islands,40,1000
+Solomon Islands,41,1000
+Solomon Islands,42,1000
+Solomon Islands,43,1000
+Solomon Islands,44,1000
+Solomon Islands,45,1000
+Solomon Islands,46,1000
+Solomon Islands,47,1000
+Solomon Islands,48,1000
+Solomon Islands,49,1000
+Solomon Islands,50,1000
+Solomon Islands,51,1000
+Solomon Islands,52,1000
+Solomon Islands,53,1000
+Solomon Islands,54,1000
+Solomon Islands,55,1000
+Solomon Islands,56,1000
+Solomon Islands,57,1000
+Solomon Islands,58,1000
+Solomon Islands,59,1000
+Solomon Islands,60,1000
+Solomon Islands,61,1000
+Solomon Islands,62,1000
+Solomon Islands,63,1000
+Solomon Islands,64,1000
+Solomon Islands,65,1000
+Kiribati,18,1000
+Kiribati,19,1000
+Kiribati,20,1000
+Kiribati,21,1000
+Kiribati,22,1000
+Kiribati,23,1000
+Kiribati,24,1000
+Kiribati,25,1000
+Kiribati,26,1000
+Kiribati,27,1000
+Kiribati,28,1000
+Kiribati,29,1000
+Kiribati,30,1000
+Kiribati,31,1000
+Kiribati,32,1000
+Kiribati,33,1000
+Kiribati,34,1000
+Kiribati,35,1000
+Kiribati,36,1000
+Kiribati,37,1000
+Kiribati,38,1000
+Kiribati,39,1000
+Kiribati,40,1000
+Kiribati,41,1000
+Kiribati,42,1000
+Kiribati,43,1000
+Kiribati,44,1000
+Kiribati,45,1000
+Kiribati,46,1000
+Kiribati,47,1000
+Kiribati,48,1000
+Kiribati,49,1000
+Kiribati,50,1000
+Kiribati,51,1000
+Kiribati,52,1000
+Kiribati,53,1000
+Kiribati,54,1000
+Kiribati,55,1000
+Kiribati,56,1000
+Kiribati,57,1000
+Kiribati,58,1000
+Kiribati,59,1000
+Kiribati,60,1000
+Kiribati,61,1000
+Kiribati,62,1000
+Kiribati,63,1000
+Kiribati,64,1000
+Kiribati,65,1000
+Australia,18,280000
+Australia,19,320000
+Australia,20,320000
+Australia,21,340000
+Australia,22,350000
+Australia,23,360000
+Australia,24,360000
+Australia,25,370000
+Australia,26,340000
+Australia,27,310000
+Australia,28,330000
+Australia,29,310000
+Australia,30,280000
+Australia,31,260000
+Australia,32,250000
+Australia,33,240000
+Australia,34,220000
+Australia,35,210000
+Australia,36,2e+05
+Australia,37,180000
+Australia,38,180000
+Australia,39,160000
+Australia,40,150000
+Australia,41,140000
+Australia,42,130000
+Australia,43,130000
+Australia,44,130000
+Australia,45,120000
+Australia,46,120000
+Australia,47,120000
+Australia,48,110000
+Australia,49,110000
+Australia,50,93000
+Australia,51,82000
+Australia,52,77000
+Australia,53,74000
+Australia,54,70000
+Australia,55,66000
+Australia,56,61000
+Australia,57,57000
+Australia,58,57000
+Australia,59,50000
+Australia,60,43000
+Australia,61,39000
+Australia,62,36000
+Australia,63,32000
+Australia,64,28000
+Australia,65,260000
+Federated States of Micronesia,18,1000
+Federated States of Micronesia,19,1000
+Federated States of Micronesia,20,1000
+Federated States of Micronesia,21,1000
+Federated States of Micronesia,22,1000
+Federated States of Micronesia,23,1000
+Federated States of Micronesia,24,1000
+Federated States of Micronesia,25,1000
+Federated States of Micronesia,26,1000
+Federated States of Micronesia,27,1000
+Federated States of Micronesia,28,1000
+Federated States of Micronesia,29,1000
+Federated States of Micronesia,30,1000
+Federated States of Micronesia,31,1000
+Federated States of Micronesia,32,1000
+Federated States of Micronesia,33,1000
+Federated States of Micronesia,34,1000
+Federated States of Micronesia,35,1000
+Federated States of Micronesia,36,1000
+Federated States of Micronesia,37,1000
+Federated States of Micronesia,38,1000
+Federated States of Micronesia,39,1000
+Federated States of Micronesia,40,1000
+Federated States of Micronesia,41,1000
+Federated States of Micronesia,42,1000
+Federated States of Micronesia,43,1000
+Federated States of Micronesia,44,1000
+Federated States of Micronesia,45,1000
+Federated States of Micronesia,46,1000
+Federated States of Micronesia,47,1000
+Federated States of Micronesia,48,1000
+Federated States of Micronesia,49,1000
+Federated States of Micronesia,50,1000
+Federated States of Micronesia,51,1000
+Federated States of Micronesia,52,1000
+Federated States of Micronesia,53,1000
+Federated States of Micronesia,54,1000
+Federated States of Micronesia,55,1000
+Federated States of Micronesia,56,1000
+Federated States of Micronesia,57,1000
+Federated States of Micronesia,58,1000
+Federated States of Micronesia,59,1000
+Federated States of Micronesia,60,1000
+Federated States of Micronesia,61,1000
+Federated States of Micronesia,62,1000
+Federated States of Micronesia,63,1000
+Federated States of Micronesia,64,1000
+Federated States of Micronesia,65,1000
+Vanuatu,18,1000
+Vanuatu,19,1000
+Vanuatu,20,1000
+Vanuatu,21,1000
+Vanuatu,22,1000
+Vanuatu,23,1000
+Vanuatu,24,1000
+Vanuatu,25,1000
+Vanuatu,26,1000
+Vanuatu,27,1000
+Vanuatu,28,1000
+Vanuatu,29,1000
+Vanuatu,30,1000
+Vanuatu,31,1000
+Vanuatu,32,1000
+Vanuatu,33,1000
+Vanuatu,34,1000
+Vanuatu,35,1000
+Vanuatu,36,1000
+Vanuatu,37,1000
+Vanuatu,38,1000
+Vanuatu,39,1000
+Vanuatu,40,1000
+Vanuatu,41,1000
+Vanuatu,42,1000
+Vanuatu,43,1000
+Vanuatu,44,1000
+Vanuatu,45,1000
+Vanuatu,46,1000
+Vanuatu,47,1000
+Vanuatu,48,1000
+Vanuatu,49,1000
+Vanuatu,50,1000
+Vanuatu,51,1000
+Vanuatu,52,1000
+Vanuatu,53,1000
+Vanuatu,54,1000
+Vanuatu,55,1000
+Vanuatu,56,1000
+Vanuatu,57,1000
+Vanuatu,58,1000
+Vanuatu,59,1000
+Vanuatu,60,1000
+Vanuatu,61,1000
+Vanuatu,62,1000
+Vanuatu,63,1000
+Vanuatu,64,1000
+Vanuatu,65,1000
+Grenada,18,1000
+Grenada,19,1400
+Grenada,20,1300
+Grenada,21,1500
+Grenada,22,1600
+Grenada,23,1800
+Grenada,24,1900
+Grenada,25,2000
+Grenada,26,1600
+Grenada,27,1300
+Grenada,28,1300
+Grenada,29,1100
+Grenada,30,1000
+Grenada,31,1000
+Grenada,32,1000
+Grenada,33,1000
+Grenada,34,1000
+Grenada,35,1000
+Grenada,36,1000
+Grenada,37,1000
+Grenada,38,1000
+Grenada,39,1000
+Grenada,40,1000
+Grenada,41,1000
+Grenada,42,1000
+Grenada,43,1000
+Grenada,44,1000
+Grenada,45,1000
+Grenada,46,1000
+Grenada,47,1000
+Grenada,48,1000
+Grenada,49,1000
+Grenada,50,1000
+Grenada,51,1000
+Grenada,52,1000
+Grenada,53,1000
+Grenada,54,1000
+Grenada,55,1000
+Grenada,56,1000
+Grenada,57,1000
+Grenada,58,1000
+Grenada,59,1000
+Grenada,60,1000
+Grenada,61,1000
+Grenada,62,1000
+Grenada,63,1000
+Grenada,64,1000
+Grenada,65,1000
+US Virgin Islands,18,1000
+US Virgin Islands,19,1000
+US Virgin Islands,20,1000
+US Virgin Islands,21,1000
+US Virgin Islands,22,1000
+US Virgin Islands,23,1000
+US Virgin Islands,24,1000
+US Virgin Islands,25,1000
+US Virgin Islands,26,1000
+US Virgin Islands,27,1000
+US Virgin Islands,28,1000
+US Virgin Islands,29,1000
+US Virgin Islands,30,1000
+US Virgin Islands,31,1000
+US Virgin Islands,32,1000
+US Virgin Islands,33,1000
+US Virgin Islands,34,1000
+US Virgin Islands,35,1000
+US Virgin Islands,36,1000
+US Virgin Islands,37,1000
+US Virgin Islands,38,1000
+US Virgin Islands,39,1000
+US Virgin Islands,40,1000
+US Virgin Islands,41,1000
+US Virgin Islands,42,1000
+US Virgin Islands,43,1000
+US Virgin Islands,44,1000
+US Virgin Islands,45,1000
+US Virgin Islands,46,1000
+US Virgin Islands,47,1000
+US Virgin Islands,48,1000
+US Virgin Islands,49,1000
+US Virgin Islands,50,1000
+US Virgin Islands,51,1000
+US Virgin Islands,52,1000
+US Virgin Islands,53,1000
+US Virgin Islands,54,1000
+US Virgin Islands,55,1000
+US Virgin Islands,56,1000
+US Virgin Islands,57,1000
+US Virgin Islands,58,1000
+US Virgin Islands,59,1000
+US Virgin Islands,60,1000
+US Virgin Islands,61,1000
+US Virgin Islands,62,1000
+US Virgin Islands,63,1000
+US Virgin Islands,64,1000
+US Virgin Islands,65,1000
+Antigua,18,1000
+Antigua,19,1000
+Antigua,20,1000
+Antigua,21,1000
+Antigua,22,1100
+Antigua,23,1300
+Antigua,24,1200
+Antigua,25,1300
+Antigua,26,1100
+Antigua,27,1000
+Antigua,28,1200
+Antigua,29,1000
+Antigua,30,1000
+Antigua,31,1000
+Antigua,32,1000
+Antigua,33,1000
+Antigua,34,1000
+Antigua,35,1000
+Antigua,36,1000
+Antigua,37,1000
+Antigua,38,1000
+Antigua,39,1000
+Antigua,40,1000
+Antigua,41,1000
+Antigua,42,1000
+Antigua,43,1000
+Antigua,44,1000
+Antigua,45,1000
+Antigua,46,1000
+Antigua,47,1000
+Antigua,48,1000
+Antigua,49,1000
+Antigua,50,1000
+Antigua,51,1000
+Antigua,52,1000
+Antigua,53,1000
+Antigua,54,1000
+Antigua,55,1000
+Antigua,56,1000
+Antigua,57,1000
+Antigua,58,1000
+Antigua,59,1000
+Antigua,60,1000
+Antigua,61,1000
+Antigua,62,1000
+Antigua,63,1000
+Antigua,64,1000
+Antigua,65,1000
+Jamaica,18,19000
+Jamaica,19,24000
+Jamaica,20,26000
+Jamaica,21,30000
+Jamaica,22,33000
+Jamaica,23,36000
+Jamaica,24,35000
+Jamaica,25,37000
+Jamaica,26,29000
+Jamaica,27,24000
+Jamaica,28,25000
+Jamaica,29,23000
+Jamaica,30,19000
+Jamaica,31,16000
+Jamaica,32,15000
+Jamaica,33,14000
+Jamaica,34,13000
+Jamaica,35,11000
+Jamaica,36,11000
+Jamaica,37,9200
+Jamaica,38,9300
+Jamaica,39,8200
+Jamaica,40,6600
+Jamaica,41,5900
+Jamaica,42,5500
+Jamaica,43,5200
+Jamaica,44,4600
+Jamaica,45,4100
+Jamaica,46,3900
+Jamaica,47,3700
+Jamaica,48,3800
+Jamaica,49,3300
+Jamaica,50,2600
+Jamaica,51,2400
+Jamaica,52,2200
+Jamaica,53,2000
+Jamaica,54,2000
+Jamaica,55,1600
+Jamaica,56,1600
+Jamaica,57,1400
+Jamaica,58,1300
+Jamaica,59,1100
+Jamaica,60,1000
+Jamaica,61,1000
+Jamaica,62,1000
+Jamaica,63,1000
+Jamaica,64,1000
+Jamaica,65,6200
+Barbados,18,2400
+Barbados,19,2900
+Barbados,20,3100
+Barbados,21,3500
+Barbados,22,4100
+Barbados,23,4500
+Barbados,24,4600
+Barbados,25,4900
+Barbados,26,4600
+Barbados,27,4200
+Barbados,28,4300
+Barbados,29,4100
+Barbados,30,3400
+Barbados,31,3200
+Barbados,32,3200
+Barbados,33,3100
+Barbados,34,3000
+Barbados,35,2900
+Barbados,36,3000
+Barbados,37,2600
+Barbados,38,2600
+Barbados,39,2300
+Barbados,40,2000
+Barbados,41,1900
+Barbados,42,1900
+Barbados,43,1700
+Barbados,44,1700
+Barbados,45,1500
+Barbados,46,1600
+Barbados,47,1400
+Barbados,48,1500
+Barbados,49,1200
+Barbados,50,1000
+Barbados,51,1000
+Barbados,52,1000
+Barbados,53,1000
+Barbados,54,1000
+Barbados,55,1000
+Barbados,56,1000
+Barbados,57,1000
+Barbados,58,1000
+Barbados,59,1000
+Barbados,60,1000
+Barbados,61,1000
+Barbados,62,1000
+Barbados,63,1000
+Barbados,64,1000
+Barbados,65,1700
+Dominican Republic,18,95000
+Dominican Republic,19,120000
+Dominican Republic,20,120000
+Dominican Republic,21,130000
+Dominican Republic,22,130000
+Dominican Republic,23,140000
+Dominican Republic,24,140000
+Dominican Republic,25,150000
+Dominican Republic,26,130000
+Dominican Republic,27,1e+05
+Dominican Republic,28,120000
+Dominican Republic,29,1e+05
+Dominican Republic,30,82000
+Dominican Republic,31,77000
+Dominican Republic,32,77000
+Dominican Republic,33,67000
+Dominican Republic,34,61000
+Dominican Republic,35,55000
+Dominican Republic,36,53000
+Dominican Republic,37,47000
+Dominican Republic,38,51000
+Dominican Republic,39,48000
+Dominican Republic,40,38000
+Dominican Republic,41,34000
+Dominican Republic,42,31000
+Dominican Republic,43,30000
+Dominican Republic,44,26000
+Dominican Republic,45,23000
+Dominican Republic,46,22000
+Dominican Republic,47,19000
+Dominican Republic,48,21000
+Dominican Republic,49,19000
+Dominican Republic,50,16000
+Dominican Republic,51,14000
+Dominican Republic,52,13000
+Dominican Republic,53,13000
+Dominican Republic,54,12000
+Dominican Republic,55,11000
+Dominican Republic,56,9000
+Dominican Republic,57,7700
+Dominican Republic,58,8300
+Dominican Republic,59,7500
+Dominican Republic,60,5900
+Dominican Republic,61,5400
+Dominican Republic,62,4800
+Dominican Republic,63,4600
+Dominican Republic,64,4100
+Dominican Republic,65,43000
+Aruba,18,1200
+Aruba,19,1400
+Aruba,20,1300
+Aruba,21,1000
+Aruba,22,1500
+Aruba,23,1600
+Aruba,24,1000
+Aruba,25,1700
+Aruba,26,1500
+Aruba,27,1400
+Aruba,28,1500
+Aruba,29,1500
+Aruba,30,1000
+Aruba,31,1000
+Aruba,32,1100
+Aruba,33,1000
+Aruba,34,1000
+Aruba,35,1000
+Aruba,36,1000
+Aruba,37,1000
+Aruba,38,1000
+Aruba,39,1000
+Aruba,40,1000
+Aruba,41,1000
+Aruba,42,1000
+Aruba,43,1000
+Aruba,44,1000
+Aruba,45,1000
+Aruba,46,1000
+Aruba,47,1000
+Aruba,48,1000
+Aruba,49,1000
+Aruba,50,1000
+Aruba,51,1000
+Aruba,52,1000
+Aruba,53,1000
+Aruba,54,1000
+Aruba,55,1000
+Aruba,56,1000
+Aruba,57,1000
+Aruba,58,1000
+Aruba,59,1000
+Aruba,60,1000
+Aruba,61,1000
+Aruba,62,1000
+Aruba,63,1000
+Aruba,64,1000
+Aruba,65,1000
+Puerto Rico,18,19000
+Puerto Rico,19,23000
+Puerto Rico,20,26000
+Puerto Rico,21,31000
+Puerto Rico,22,34000
+Puerto Rico,23,38000
+Puerto Rico,24,39000
+Puerto Rico,25,41000
+Puerto Rico,26,37000
+Puerto Rico,27,33000
+Puerto Rico,28,42000
+Puerto Rico,29,37000
+Puerto Rico,30,29000
+Puerto Rico,31,27000
+Puerto Rico,32,26000
+Puerto Rico,33,25000
+Puerto Rico,34,24000
+Puerto Rico,35,23000
+Puerto Rico,36,23000
+Puerto Rico,37,23000
+Puerto Rico,38,25000
+Puerto Rico,39,24000
+Puerto Rico,40,21000
+Puerto Rico,41,21000
+Puerto Rico,42,20000
+Puerto Rico,43,18000
+Puerto Rico,44,17000
+Puerto Rico,45,16000
+Puerto Rico,46,15000
+Puerto Rico,47,14000
+Puerto Rico,48,15000
+Puerto Rico,49,13000
+Puerto Rico,50,12000
+Puerto Rico,51,11000
+Puerto Rico,52,10000
+Puerto Rico,53,9900
+Puerto Rico,54,9100
+Puerto Rico,55,8400
+Puerto Rico,56,7700
+Puerto Rico,57,7100
+Puerto Rico,58,7000
+Puerto Rico,59,6500
+Puerto Rico,60,5600
+Puerto Rico,61,5200
+Puerto Rico,62,4900
+Puerto Rico,63,4700
+Puerto Rico,64,4200
+Puerto Rico,65,35000
+St. Lucia,18,1100
+St. Lucia,19,1500
+St. Lucia,20,1600
+St. Lucia,21,1900
+St. Lucia,22,2100
+St. Lucia,23,2100
+St. Lucia,24,2200
+St. Lucia,25,2200
+St. Lucia,26,1900
+St. Lucia,27,1600
+St. Lucia,28,1800
+St. Lucia,29,1600
+St. Lucia,30,1200
+St. Lucia,31,1200
+St. Lucia,32,1100
+St. Lucia,33,1000
+St. Lucia,34,1000
+St. Lucia,35,1000
+St. Lucia,36,1000
+St. Lucia,37,1000
+St. Lucia,38,1000
+St. Lucia,39,1000
+St. Lucia,40,1000
+St. Lucia,41,1000
+St. Lucia,42,1000
+St. Lucia,43,1000
+St. Lucia,44,1000
+St. Lucia,45,1000
+St. Lucia,46,1000
+St. Lucia,47,1000
+St. Lucia,48,1000
+St. Lucia,49,1000
+St. Lucia,50,1000
+St. Lucia,51,1000
+St. Lucia,52,1000
+St. Lucia,53,1000
+St. Lucia,54,1000
+St. Lucia,55,1000
+St. Lucia,56,1000
+St. Lucia,57,1000
+St. Lucia,58,1000
+St. Lucia,59,1000
+St. Lucia,60,1000
+St. Lucia,61,1000
+St. Lucia,62,1000
+St. Lucia,63,1000
+St. Lucia,64,1000
+St. Lucia,65,1000
+Trinidad and Tobago,18,11000
+Trinidad and Tobago,19,14000
+Trinidad and Tobago,20,14000
+Trinidad and Tobago,21,15000
+Trinidad and Tobago,22,16000
+Trinidad and Tobago,23,17000
+Trinidad and Tobago,24,18000
+Trinidad and Tobago,25,19000
+Trinidad and Tobago,26,17000
+Trinidad and Tobago,27,14000
+Trinidad and Tobago,28,15000
+Trinidad and Tobago,29,15000
+Trinidad and Tobago,30,13000
+Trinidad and Tobago,31,13000
+Trinidad and Tobago,32,13000
+Trinidad and Tobago,33,13000
+Trinidad and Tobago,34,12000
+Trinidad and Tobago,35,11000
+Trinidad and Tobago,36,9900
+Trinidad and Tobago,37,9100
+Trinidad and Tobago,38,9200
+Trinidad and Tobago,39,8200
+Trinidad and Tobago,40,6500
+Trinidad and Tobago,41,5800
+Trinidad and Tobago,42,5400
+Trinidad and Tobago,43,5000
+Trinidad and Tobago,44,4300
+Trinidad and Tobago,45,3900
+Trinidad and Tobago,46,3600
+Trinidad and Tobago,47,3200
+Trinidad and Tobago,48,2900
+Trinidad and Tobago,49,2500
+Trinidad and Tobago,50,2200
+Trinidad and Tobago,51,2000
+Trinidad and Tobago,52,1800
+Trinidad and Tobago,53,1800
+Trinidad and Tobago,54,1700
+Trinidad and Tobago,55,1500
+Trinidad and Tobago,56,1400
+Trinidad and Tobago,57,1200
+Trinidad and Tobago,58,1200
+Trinidad and Tobago,59,1000
+Trinidad and Tobago,60,1000
+Trinidad and Tobago,61,1000
+Trinidad and Tobago,62,1000
+Trinidad and Tobago,63,1000
+Trinidad and Tobago,64,1000
+Trinidad and Tobago,65,5000
+Guadeloupe,18,4300
+Guadeloupe,19,5000
+Guadeloupe,20,4600
+Guadeloupe,21,5100
+Guadeloupe,22,5200
+Guadeloupe,23,5200
+Guadeloupe,24,4600
+Guadeloupe,25,4900
+Guadeloupe,26,4000
+Guadeloupe,27,3300
+Guadeloupe,28,3700
+Guadeloupe,29,3600
+Guadeloupe,30,2900
+Guadeloupe,31,2800
+Guadeloupe,32,2400
+Guadeloupe,33,2300
+Guadeloupe,34,2200
+Guadeloupe,35,1900
+Guadeloupe,36,1900
+Guadeloupe,37,1800
+Guadeloupe,38,1800
+Guadeloupe,39,1500
+Guadeloupe,40,1300
+Guadeloupe,41,1200
+Guadeloupe,42,1100
+Guadeloupe,43,1100
+Guadeloupe,44,1200
+Guadeloupe,45,1000
+Guadeloupe,46,1000
+Guadeloupe,47,1000
+Guadeloupe,48,1000
+Guadeloupe,49,1000
+Guadeloupe,50,1000
+Guadeloupe,51,1000
+Guadeloupe,52,1000
+Guadeloupe,53,1000
+Guadeloupe,54,1000
+Guadeloupe,55,1000
+Guadeloupe,56,1000
+Guadeloupe,57,1000
+Guadeloupe,58,1000
+Guadeloupe,59,1000
+Guadeloupe,60,1000
+Guadeloupe,61,1000
+Guadeloupe,62,1000
+Guadeloupe,63,1000
+Guadeloupe,64,1000
+Guadeloupe,65,2000
+Haiti,18,15000
+Haiti,19,18000
+Haiti,20,17000
+Haiti,21,17000
+Haiti,22,16000
+Haiti,23,16000
+Haiti,24,15000
+Haiti,25,14000
+Haiti,26,12000
+Haiti,27,9600
+Haiti,28,10000
+Haiti,29,8800
+Haiti,30,7300
+Haiti,31,7100
+Haiti,32,10000
+Haiti,33,5300
+Haiti,34,4400
+Haiti,35,3600
+Haiti,36,3200
+Haiti,37,2600
+Haiti,38,2900
+Haiti,39,2500
+Haiti,40,2000
+Haiti,41,1700
+Haiti,42,1400
+Haiti,43,1300
+Haiti,44,1300
+Haiti,45,1000
+Haiti,46,1000
+Haiti,47,1000
+Haiti,48,1000
+Haiti,49,1000
+Haiti,50,1000
+Haiti,51,1000
+Haiti,52,1000
+Haiti,53,1000
+Haiti,54,1000
+Haiti,55,1000
+Haiti,56,1000
+Haiti,57,1000
+Haiti,58,1000
+Haiti,59,1000
+Haiti,60,1000
+Haiti,61,1000
+Haiti,62,1000
+Haiti,63,1000
+Haiti,64,1000
+Haiti,65,8800
+Saint Vincent and the Grenadines,18,1100
+Saint Vincent and the Grenadines,19,1200
+Saint Vincent and the Grenadines,20,1300
+Saint Vincent and the Grenadines,21,1500
+Saint Vincent and the Grenadines,22,1700
+Saint Vincent and the Grenadines,23,1600
+Saint Vincent and the Grenadines,24,1600
+Saint Vincent and the Grenadines,25,1600
+Saint Vincent and the Grenadines,26,1400
+Saint Vincent and the Grenadines,27,1100
+Saint Vincent and the Grenadines,28,1100
+Saint Vincent and the Grenadines,29,1000
+Saint Vincent and the Grenadines,30,1000
+Saint Vincent and the Grenadines,31,1000
+Saint Vincent and the Grenadines,32,1000
+Saint Vincent and the Grenadines,33,1000
+Saint Vincent and the Grenadines,34,1000
+Saint Vincent and the Grenadines,35,1000
+Saint Vincent and the Grenadines,36,1000
+Saint Vincent and the Grenadines,37,1000
+Saint Vincent and the Grenadines,38,1000
+Saint Vincent and the Grenadines,39,1000
+Saint Vincent and the Grenadines,40,1000
+Saint Vincent and the Grenadines,41,1000
+Saint Vincent and the Grenadines,42,1000
+Saint Vincent and the Grenadines,43,1000
+Saint Vincent and the Grenadines,44,1000
+Saint Vincent and the Grenadines,45,1000
+Saint Vincent and the Grenadines,46,1000
+Saint Vincent and the Grenadines,47,1000
+Saint Vincent and the Grenadines,48,1000
+Saint Vincent and the Grenadines,49,1000
+Saint Vincent and the Grenadines,50,1000
+Saint Vincent and the Grenadines,51,1000
+Saint Vincent and the Grenadines,52,1000
+Saint Vincent and the Grenadines,53,1000
+Saint Vincent and the Grenadines,54,1000
+Saint Vincent and the Grenadines,55,1000
+Saint Vincent and the Grenadines,56,1000
+Saint Vincent and the Grenadines,57,1000
+Saint Vincent and the Grenadines,58,1000
+Saint Vincent and the Grenadines,59,1000
+Saint Vincent and the Grenadines,60,1000
+Saint Vincent and the Grenadines,61,1000
+Saint Vincent and the Grenadines,62,1000
+Saint Vincent and the Grenadines,63,1000
+Saint Vincent and the Grenadines,64,1000
+Saint Vincent and the Grenadines,65,1000
+Martinique,18,3300
+Martinique,19,3800
+Martinique,20,3700
+Martinique,21,4100
+Martinique,22,4200
+Martinique,23,4000
+Martinique,24,3800
+Martinique,25,4100
+Martinique,26,3800
+Martinique,27,3100
+Martinique,28,3200
+Martinique,29,3100
+Martinique,30,2700
+Martinique,31,2500
+Martinique,32,2300
+Martinique,33,2100
+Martinique,34,2000
+Martinique,35,1900
+Martinique,36,1700
+Martinique,37,1600
+Martinique,38,1700
+Martinique,39,1500
+Martinique,40,1200
+Martinique,41,1100
+Martinique,42,1000
+Martinique,43,1000
+Martinique,44,1000
+Martinique,45,1000
+Martinique,46,1000
+Martinique,47,1000
+Martinique,48,1000
+Martinique,49,1000
+Martinique,50,1000
+Martinique,51,1000
+Martinique,52,1000
+Martinique,53,1000
+Martinique,54,1000
+Martinique,55,1000
+Martinique,56,1000
+Martinique,57,1000
+Martinique,58,1000
+Martinique,59,1000
+Martinique,60,1000
+Martinique,61,1000
+Martinique,62,1000
+Martinique,63,1000
+Martinique,64,1000
+Martinique,65,2000
+Honduras,18,44000
+Honduras,19,52000
+Honduras,20,51000
+Honduras,21,51000
+Honduras,22,49000
+Honduras,23,50000
+Honduras,24,47000
+Honduras,25,43000
+Honduras,26,38000
+Honduras,27,32000
+Honduras,28,34000
+Honduras,29,30000
+Honduras,30,23000
+Honduras,31,21000
+Honduras,32,19000
+Honduras,33,16000
+Honduras,34,15000
+Honduras,35,13000
+Honduras,36,12000
+Honduras,37,11000
+Honduras,38,11000
+Honduras,39,10000
+Honduras,40,8100
+Honduras,41,7200
+Honduras,42,6500
+Honduras,43,5900
+Honduras,44,5200
+Honduras,45,4500
+Honduras,46,4200
+Honduras,47,3600
+Honduras,48,3900
+Honduras,49,3300
+Honduras,50,2700
+Honduras,51,2400
+Honduras,52,2100
+Honduras,53,2100
+Honduras,54,1900
+Honduras,55,1700
+Honduras,56,1500
+Honduras,57,1300
+Honduras,58,1400
+Honduras,59,1300
+Honduras,60,1000
+Honduras,61,1000
+Honduras,62,1000
+Honduras,63,1000
+Honduras,64,1000
+Honduras,65,8600
+Mexico,18,1e+06
+Mexico,19,1300000
+Mexico,20,1300000
+Mexico,21,1300000
+Mexico,22,1300000
+Mexico,23,1400000
+Mexico,24,1200000
+Mexico,25,1100000
+Mexico,26,930000
+Mexico,27,780000
+Mexico,28,9e+05
+Mexico,29,740000
+Mexico,30,580000
+Mexico,31,530000
+Mexico,32,490000
+Mexico,33,460000
+Mexico,34,410000
+Mexico,35,370000
+Mexico,36,340000
+Mexico,37,3e+05
+Mexico,38,320000
+Mexico,39,280000
+Mexico,40,230000
+Mexico,41,220000
+Mexico,42,2e+05
+Mexico,43,2e+05
+Mexico,44,180000
+Mexico,45,170000
+Mexico,46,150000
+Mexico,47,130000
+Mexico,48,130000
+Mexico,49,110000
+Mexico,50,94000
+Mexico,51,82000
+Mexico,52,72000
+Mexico,53,68000
+Mexico,54,62000
+Mexico,55,55000
+Mexico,56,49000
+Mexico,57,43000
+Mexico,58,43000
+Mexico,59,38000
+Mexico,60,31000
+Mexico,61,27000
+Mexico,62,24000
+Mexico,63,22000
+Mexico,64,19000
+Mexico,65,260000
+El Salvador,18,48000
+El Salvador,19,56000
+El Salvador,20,55000
+El Salvador,21,59000
+El Salvador,22,60000
+El Salvador,23,60000
+El Salvador,24,53000
+El Salvador,25,48000
+El Salvador,26,41000
+El Salvador,27,34000
+El Salvador,28,35000
+El Salvador,29,31000
+El Salvador,30,25000
+El Salvador,31,23000
+El Salvador,32,23000
+El Salvador,33,19000
+El Salvador,34,17000
+El Salvador,35,14000
+El Salvador,36,14000
+El Salvador,37,13000
+El Salvador,38,14000
+El Salvador,39,13000
+El Salvador,40,11000
+El Salvador,41,10000
+El Salvador,42,8900
+El Salvador,43,8500
+El Salvador,44,7600
+El Salvador,45,6700
+El Salvador,46,5900
+El Salvador,47,5200
+El Salvador,48,5500
+El Salvador,49,5000
+El Salvador,50,4100
+El Salvador,51,3800
+El Salvador,52,3500
+El Salvador,53,3200
+El Salvador,54,2900
+El Salvador,55,2600
+El Salvador,56,2300
+El Salvador,57,2000
+El Salvador,58,2100
+El Salvador,59,1800
+El Salvador,60,1500
+El Salvador,61,1300
+El Salvador,62,1300
+El Salvador,63,1200
+El Salvador,64,1100
+El Salvador,65,12000
+Belize,18,3700
+Belize,19,4200
+Belize,20,3700
+Belize,21,3500
+Belize,22,3300
+Belize,23,3100
+Belize,24,2900
+Belize,25,2800
+Belize,26,2500
+Belize,27,2000
+Belize,28,2000
+Belize,29,1800
+Belize,30,1600
+Belize,31,1500
+Belize,32,1400
+Belize,33,1200
+Belize,34,1100
+Belize,35,1000
+Belize,36,1000
+Belize,37,1000
+Belize,38,1000
+Belize,39,1000
+Belize,40,1000
+Belize,41,1000
+Belize,42,1000
+Belize,43,1000
+Belize,44,1000
+Belize,45,1000
+Belize,46,1000
+Belize,47,1000
+Belize,48,1000
+Belize,49,1000
+Belize,50,1000
+Belize,51,1000
+Belize,52,1000
+Belize,53,1000
+Belize,54,1000
+Belize,55,1000
+Belize,56,1000
+Belize,57,1000
+Belize,58,1000
+Belize,59,1000
+Belize,60,1000
+Belize,61,1000
+Belize,62,1000
+Belize,63,1000
+Belize,64,1000
+Belize,65,1000
+Panama,18,46000
+Panama,19,55000
+Panama,20,55000
+Panama,21,61000
+Panama,22,66000
+Panama,23,67000
+Panama,24,65000
+Panama,25,74000
+Panama,26,60000
+Panama,27,51000
+Panama,28,56000
+Panama,29,52000
+Panama,30,45000
+Panama,31,42000
+Panama,32,42000
+Panama,33,39000
+Panama,34,37000
+Panama,35,33000
+Panama,36,32000
+Panama,37,30000
+Panama,38,31000
+Panama,39,28000
+Panama,40,25000
+Panama,41,23000
+Panama,42,21000
+Panama,43,21000
+Panama,44,19000
+Panama,45,17000
+Panama,46,16000
+Panama,47,15000
+Panama,48,15000
+Panama,49,13000
+Panama,50,12000
+Panama,51,11000
+Panama,52,9500
+Panama,53,9100
+Panama,54,8500
+Panama,55,7800
+Panama,56,7200
+Panama,57,6300
+Panama,58,6300
+Panama,59,5500
+Panama,60,4600
+Panama,61,4100
+Panama,62,3800
+Panama,63,3400
+Panama,64,3000
+Panama,65,25000
+Costa Rica,18,57000
+Costa Rica,19,65000
+Costa Rica,20,65000
+Costa Rica,21,70000
+Costa Rica,22,70000
+Costa Rica,23,71000
+Costa Rica,24,68000
+Costa Rica,25,65000
+Costa Rica,26,57000
+Costa Rica,27,49000
+Costa Rica,28,54000
+Costa Rica,29,49000
+Costa Rica,30,43000
+Costa Rica,31,39000
+Costa Rica,32,38000
+Costa Rica,33,36000
+Costa Rica,34,33000
+Costa Rica,35,29000
+Costa Rica,36,27000
+Costa Rica,37,26000
+Costa Rica,38,26000
+Costa Rica,39,23000
+Costa Rica,40,20000
+Costa Rica,41,18000
+Costa Rica,42,16000
+Costa Rica,43,14000
+Costa Rica,44,13000
+Costa Rica,45,11000
+Costa Rica,46,11000
+Costa Rica,47,9300
+Costa Rica,48,9400
+Costa Rica,49,8200
+Costa Rica,50,7400
+Costa Rica,51,7000
+Costa Rica,52,6400
+Costa Rica,53,6200
+Costa Rica,54,5600
+Costa Rica,55,5200
+Costa Rica,56,4500
+Costa Rica,57,4100
+Costa Rica,58,4000
+Costa Rica,59,3400
+Costa Rica,60,3000
+Costa Rica,61,2500
+Costa Rica,62,2300
+Costa Rica,63,2100
+Costa Rica,64,1800
+Costa Rica,65,17000
+Guatemala,18,87000
+Guatemala,19,1e+05
+Guatemala,20,98000
+Guatemala,21,96000
+Guatemala,22,94000
+Guatemala,23,93000
+Guatemala,24,83000
+Guatemala,25,76000
+Guatemala,26,65000
+Guatemala,27,53000
+Guatemala,28,58000
+Guatemala,29,51000
+Guatemala,30,41000
+Guatemala,31,37000
+Guatemala,32,34000
+Guatemala,33,30000
+Guatemala,34,26000
+Guatemala,35,23000
+Guatemala,36,22000
+Guatemala,37,20000
+Guatemala,38,21000
+Guatemala,39,19000
+Guatemala,40,16000
+Guatemala,41,14000
+Guatemala,42,13000
+Guatemala,43,12000
+Guatemala,44,10000
+Guatemala,45,9000
+Guatemala,46,7800
+Guatemala,47,7000
+Guatemala,48,7100
+Guatemala,49,6200
+Guatemala,50,5200
+Guatemala,51,4600
+Guatemala,52,4100
+Guatemala,53,3900
+Guatemala,54,3600
+Guatemala,55,3200
+Guatemala,56,2900
+Guatemala,57,2600
+Guatemala,58,2800
+Guatemala,59,2300
+Guatemala,60,1900
+Guatemala,61,1600
+Guatemala,62,1500
+Guatemala,63,1400
+Guatemala,64,1300
+Guatemala,65,15000
+Nicaragua,18,25000
+Nicaragua,19,29000
+Nicaragua,20,26000
+Nicaragua,21,26000
+Nicaragua,22,25000
+Nicaragua,23,24000
+Nicaragua,24,23000
+Nicaragua,25,21000
+Nicaragua,26,19000
+Nicaragua,27,16000
+Nicaragua,28,16000
+Nicaragua,29,14000
+Nicaragua,30,11000
+Nicaragua,31,9900
+Nicaragua,32,10000
+Nicaragua,33,8400
+Nicaragua,34,7400
+Nicaragua,35,6600
+Nicaragua,36,6200
+Nicaragua,37,5600
+Nicaragua,38,5700
+Nicaragua,39,4700
+Nicaragua,40,3500
+Nicaragua,41,3200
+Nicaragua,42,2900
+Nicaragua,43,2700
+Nicaragua,44,2300
+Nicaragua,45,2000
+Nicaragua,46,1800
+Nicaragua,47,1600
+Nicaragua,48,1700
+Nicaragua,49,1400
+Nicaragua,50,1300
+Nicaragua,51,1200
+Nicaragua,52,1100
+Nicaragua,53,1000
+Nicaragua,54,1000
+Nicaragua,55,1000
+Nicaragua,56,1000
+Nicaragua,57,1000
+Nicaragua,58,1000
+Nicaragua,59,1000
+Nicaragua,60,1000
+Nicaragua,61,1000
+Nicaragua,62,1000
+Nicaragua,63,1000
+Nicaragua,64,1000
+Nicaragua,65,4500
+Tanzania,100,0
+Sierra Leone,100,0
+Republic of the Congo,100,0
+Angola,100,0
+Malawi,100,0
+Ethiopia,100,0
+Equatorial Guinea,100,0
+Togo,100,0
+Zambia,100,0
+Guinea,100,0
+Burkina Faso,100,0
+Botswana,100,0
+Seychelles,100,0
+Mali,100,0
+Burundi,100,0
+Swaziland,100,0
+Tunisia,100,0
+Uganda,100,0
+Lesotho,100,0
+Mauritius,100,0
+Madagascar,100,0
+Libya,100,0
+Eritrea,100,0
+Mozambique,100,0
+Benin,100,0
+Cape Verde,100,0
+Mauritania,100,0
+Central African Republic,100,0
+Chad,100,0
+Somalia,100,0
+Nigeria,100,0
+Senegal,100,0
+South Africa,100,0
+Algeria,100,0
+Ghana,100,0
+Kenya,100,0
+Morocco,100,0
+Gabon,100,0
+Mayotte,100,0
+Djibouti,100,0
+Niger,100,0
+Comoros,100,0
+Cameroon,100,0
+Egypt,100,0
+Democratic Republic of the Congo,100,0
+Rwanda,100,0
+Luxembourg,100,0
+Malta,100,0
+Croatia,100,0
+Switzerland,100,0
+Italy,100,0
+Romania,100,0
+Bulgaria,100,0
+Austria,100,0
+Denmark,100,0
+Germany,100,0
+Moldova,100,0
+Spain,100,0
+France,100,0
+Ukraine,100,0
+Montenegro,100,0
+Albania,100,0
+Macedonia,100,0
+Finland,100,0
+Iceland,100,0
+Norway,100,0
+Belgium,100,0
+Russia,100,0
+Bosnia and Herzegovina,100,0
+Slovakia,100,0
+Hungary,100,0
+Belarus,100,0
+Estonia,100,0
+Lithuania,100,0
+Serbia,100,0
+Ireland,100,0
+Sweden,100,0
+Greece,100,0
+Portugal,100,0
+United Kingdom,100,0
+Latvia,100,0
+Netherlands,100,0
+Poland,100,0
+Cyprus,100,0
+Slovenia,100,0
+Paraguay,100,0
+Chile,100,0
+Brazil,100,0
+Suriname,100,0
+Uruguay,100,0
+Venezuela,100,0
+French Guiana,100,0
+Argentina,100,0
+Colombia,100,0
+Ecuador,100,0
+Peru,100,0
+Guyana,100,0
+Bolivia,100,0
+Canada,100,0
+United States,100,0
+India,100,0
+Vietnam,100,0
+Taiwan,100,0
+Sri Lanka,100,0
+Brunei,100,0
+Pakistan,100,0
+Kuwait,100,0
+Qatar,100,0
+Malaysia,100,0
+Japan,100,0
+United Arab Emirates,100,0
+Macau,100,0
+Kyrgyzstan,100,0
+Philippines,100,0
+Cambodia,100,0
+Azerbaijan,100,0
+Indonesia,100,0
+Armenia,100,0
+Saudi Arabia,100,0
+Israel,100,0
+Hong Kong,100,0
+Turkey,100,0
+Uzbekistan,100,0
+Georgia,100,0
+Mongolia,100,0
+Thailand,100,0
+Lebanon,100,0
+Maldives,100,0
+South Korea,100,0
+Afghanistan,100,0
+Yemen,100,0
+Kazakhstan,100,0
+Nepal,100,0
+Bahrain,100,0
+Oman,100,0
+China,100,0
+Bhutan,100,0
+Singapore,100,0
+Turkmenistan,100,0
+Jordan,100,0
+Iraq,100,0
+Bangladesh,100,0
+Laos,100,0
+Tajikistan,100,0
+New Zealand,100,0
+Guam,100,0
+Samoa,100,0
+New Caledonia,100,0
+Tonga,100,0
+French Polynesia,100,0
+Papua New Guinea,100,0
+Fiji,100,0
+Solomon Islands,100,0
+Kiribati,100,0
+Australia,100,0
+Federated States of Micronesia,100,0
+Vanuatu,100,0
+Grenada,100,0
+US Virgin Islands,100,0
+Antigua,100,0
+Jamaica,100,0
+Barbados,100,0
+Dominican Republic,100,0
+Aruba,100,0
+Puerto Rico,100,0
+St. Lucia,100,0
+Trinidad and Tobago,100,0
+Guadeloupe,100,0
+Haiti,100,0
+Saint Vincent and the Grenadines,100,0
+Martinique,100,0
+Honduras,100,0
+Mexico,100,0
+El Salvador,100,0
+Belize,100,0
+Panama,100,0
+Costa Rica,100,0
+Guatemala,100,0
+Nicaragua,100,0
